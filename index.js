@@ -5,8 +5,8 @@ const moment = require("moment");
 
 const ws = fs.createWriteStream(moment().format("DD MM YYYY").toString() + ".csv");
 
-const accessToken = "1/1119999714029704:141f60a8309217a64ea6ae5d9c0f5961";
-const teamGid = "1117242934853104"
+const accessToken = "env";
+const teamGid = "env"
 
 //Construct an Asana Client
 const client = asana.Client.create().useAccessToken(accessToken);
