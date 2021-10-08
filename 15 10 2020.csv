@@ -1,0 +1,1746 @@
+project,task,status,completed,assignee
+5 Page Template,Internal Wireframe,true,2020-10-12T15:55:17.427Z,Tom Strat
+5 Page Template,Wireframe,true,2020-10-12T15:55:19.899Z,Sam Bray
+5 Page Template,Live Draft,false,,Sam Bray
+Acorn Preservations,First meeting,true,2020-09-25T09:49:47.429Z,Amy Carlin
+Acorn Preservations,Form & send proposal based on what we know,true,2020-09-25T09:49:50.862Z,Amy Carlin
+Acorn Preservations,Client to fill out DD,true,2020-09-30T12:14:09.044Z,Amy Carlin
+Acorn Preservations,Accounts to set up 3 payments of £278 (inc. vat),true,2020-09-30T12:39:50.699Z,Amy Carlin
+Acorn Preservations,Brief meeting ,true,2020-09-25T09:51:48.515Z,Amy Carlin
+Acorn Preservations,Submit dev-plan to WC,true,2020-09-29T15:54:26.779Z,Sam Bray
+Acorn Preservations,Brief & planning​ Sign Off,true,2020-09-30T15:18:17.586Z,Sam Bray
+Acorn Preservations,Complete site hierarchy,true,2020-09-30T11:28:00.752Z,Felipe Ponce
+Acorn Preservations,Send hierarchy to client,true,2020-10-01T09:51:24.208Z,Amy Carlin
+Acorn Preservations,Complete hierarchy client amends,true,2020-10-02T07:56:39.764Z,Felipe Ponce
+Acorn Preservations,Site hierarchy Sign Off​,true,2020-10-02T07:56:40.885Z,Sam Bray
+Acorn Preservations,Complete in house wireframe,false,,Tom Strat
+Acorn Preservations,Send to webcreation to complete their wireframing,false,,Tom Strat
+Acorn Preservations,Wireframe first draft to client,false,,Sam Bray
+Acorn Preservations,Wireframe client amends,false,,Tom Strat
+Acorn Preservations,Wireframe sign off,false,,Sam Bray
+Acorn Preservations,Receive live draft from web creation,false,,none
+Acorn Preservations,Send LP amends to WC,false,,none
+Acorn Preservations,Receive final first draft from web creation,false,,none
+Acorn Preservations,Live build first draft to client​,false,,none
+Acorn Preservations,Get client content,false,,none
+Acorn Preservations,Receive client amends,false,,none
+Acorn Preservations,Send client amends to web creation,false,,none
+Acorn Preservations,Receive live draft #2 from web creation,false,,none
+Acorn Preservations,Send live draft #2 to client ,false,,none
+Acorn Preservations,Get live draft #2 client feedback,false,,none
+Acorn Preservations,Final live amends to web creation,false,,none
+Acorn Preservations,Live build amends complete,false,,none
+Acorn Preservations,"Check site function on desktop, mobile & tablet",false,,none
+Acorn Preservations,Check contact info formatting,false,,none
+Acorn Preservations,Check padding & responsiveness of content,false,,none
+Acorn Preservations,Live build sign off,false,,none
+Acorn Preservations,Connect contact forms,false,,none
+Acorn Preservations,"Set up GTM, GA, SC",false,,none
+Acorn Preservations,"Set up basic call, email and live chat events in GTM",false,,none
+Acorn Preservations,Set up CF7 listener in GTM,false,,none
+Acorn Preservations,Set up goals from CF7 listener in GA,false,,none
+Acorn Preservations,Final snagging & fixes,false,,none
+Acorn Preservations,Complete live testing,false,,none
+Bennetts Solicitors ,Meeting to Go Over Live Draft,true,2020-03-27T11:37:01.583Z,Sam Bray
+Bennetts Solicitors ,Live draft Monday,true,2020-03-16T15:42:16.248Z,Sam Bray
+Bennetts Solicitors ,Create a OneDrive with all of their content - 1 document per page,true,2020-03-27T10:26:54.685Z,Tyler Landry
+Bennetts Solicitors ,Waiting to hear back from WC on the refresh,true,2020-03-10T09:56:39.603Z,Sam Bray
+Bennetts Solicitors ,Review website in full and provide clear direct where it is missing & provide broken elements,true,2020-02-19T11:44:30.058Z,Sam Bray
+Bennetts Solicitors ,Service Categories for website,true,2020-01-29T10:37:21.787Z,Tyler Landry
+Bennetts Solicitors ,Back and forth with Web Creation ,true,2020-01-28T10:39:37.071Z,Tyler Landry
+Bennetts Solicitors ,Organized categories based on email in an excel sheet and sent to the client for approval ,true,2020-01-23T09:53:15.521Z,Tyler Landry
+Bennetts Solicitors ,Receive first draft of Live Build,true,2020-01-17T14:11:40.377Z,Tyler Landry
+Bennetts Solicitors ,Initial Drafts Sent to Client,true,2019-12-10T11:09:44.211Z,Tyler Landry
+Bennetts Solicitors ,Design Approved,true,2019-12-10T11:08:29.258Z,Tyler Landry
+Bennetts Solicitors ,Submitted Creative Brief - .5 Hours,true,2019-11-13T15:46:34.152Z,Tyler Landry
+Bennetts Solicitors ,Send follow up email to Craig - Ask about what services should be linked to what Categories. ,true,2020-01-22T12:07:14.634Z,Tyler Landry
+Bennetts Solicitors ,Hierarchy - .5 Hours,true,2019-11-01T11:30:23.040Z,Tyler Landry
+Bennetts Solicitors ,Sort Hosting Invoice & Payments,true,2020-08-12T10:36:21.696Z,Sam Bray
+Bennetts Solicitors ,Renew Hosting Invoice ,false,,Sam Bray
+Bennetts Solicitors ,P9322 - Final Payment Required - £1710.00,true,2020-08-06T11:07:40.264Z,Tyler Landry
+Bennetts Solicitors ,Fix Francis Format,true,2020-08-12T08:42:42.462Z,none
+Bennetts Solicitors ,"'Lorem Ipsum' on individual Pages",true,2020-08-12T08:42:41.697Z,none
+Bennetts Solicitors ,Matrimonial Remove Stock Imagery,true,2020-08-12T08:42:41.156Z,none
+Bennetts Solicitors ,"Landlord and Tenant Page - Remove Lee, Add Hannah",true,2020-08-12T08:42:40.695Z,none
+Bennetts Solicitors ,Boxes need to be clickable on Homepage,true,2020-05-26T12:22:43.964Z,Tyler Landry
+Bennetts Solicitors ,Content has been updated from LH - Submit to WC and get a timeframe of when we can expect implementation,true,2020-05-20T13:57:23.300Z,Tyler Landry
+Bennetts Solicitors ,"Helen, Kay, Lynne Photos",true,2020-07-01T09:06:22.185Z,Tyler Landry
+Bennetts Solicitors ,Adjust Images to be Bristol Based,true,2020-06-03T11:21:35.114Z,Tyler Landry
+Bennetts Solicitors ,Matrimonial - Remove Stock Image,true,2020-08-12T08:42:40.068Z,none
+Bennetts Solicitors ,Content As Requested - See Conversations,true,2020-07-01T14:06:47.263Z,Tyler Landry
+Bennetts Solicitors ,Property Disputes - No Content?,true,2020-08-12T08:42:39.274Z,none
+Bennetts Solicitors ,Commercial Services (Business) - No Content?,true,2020-08-12T08:42:38.686Z,none
+Bennetts Solicitors ,Anything for the guide hub?,true,2020-07-01T14:06:24.204Z,Tyler Landry
+Bennetts Solicitors ,Corporate (Business) - No Content?,true,2020-08-12T08:42:37.994Z,none
+Bennetts Solicitors ,Meet the team page to be implemented,true,2020-05-26T12:22:59.110Z,Tyler Landry
+Bennetts Solicitors ,Structure and Organisation of Team Page?,true,2020-07-01T14:06:22.540Z,Tyler Landry
+Bennetts Solicitors ,"Meet The Team ""Lorem Ipsum"" on some individual pages",true,2020-08-12T08:42:36.666Z,none
+Bennetts Solicitors ,Francis Format is Different,true,2020-08-12T08:42:36.119Z,none
+Bennetts Solicitors ,"Lynne - Title 'Chartered Legal Executive' lynne.dawson@bennettlaw.co.uk",true,2020-08-12T08:42:34.862Z,none
+Bennetts Solicitors ,Content update - email or call,true,2020-04-22T12:48:08.943Z,Sam Bray
+Bennetts Solicitors ,Display Team in attached order,true,2020-08-12T08:42:33.868Z,none
+Bennetts Solicitors ,Add digital badge to website as requested by Hannah https://www.yoshki.com/sra/,true,2020-08-18T09:59:27.593Z,Tyler Landry
+Bennetts Solicitors ,"Connect GA, GTM, etc...",true,2020-08-13T15:46:44.547Z,Sam Bray
+Bennetts Solicitors ,Final Review of Site,true,2020-07-01T14:06:53.302Z,Tyler Landry
+Bennetts Solicitors ,Add final content,true,2020-08-12T08:42:43.562Z,Tyler Landry
+Bennetts Solicitors ,Call with client,true,2020-08-12T08:42:44.850Z,Tyler Landry
+Bennetts Solicitors ,Set up contact forms & test (CF7) - (TOM RESEARCH),true,2020-09-14T11:10:25.329Z,Tom Strat
+Bennetts Solicitors ,Set up CF7 tracking in GTM,true,2020-08-19T13:54:03.022Z,Tom Strat
+Bennetts Solicitors ,"Set up search console, submit sitemaps.",true,2020-08-13T15:46:26.783Z,Sam Bray
+Bennetts Solicitors ,Set up goals from CF7 event,true,2020-08-20T15:40:12.359Z,Sam Bray
+Bennetts Solicitors ,Soft Launch,true,2020-09-16T09:07:14.387Z,Sam Bray
+Bennetts Solicitors ,Contact forms still not working - cc Ollie in follow up,true,2020-09-16T09:06:08.537Z,Sam Bray
+Bennetts Solicitors ,"Review contact form issue and send over flamingo download in case they haven't received anything",true,2020-09-30T09:05:52.610Z,Tom Strat
+Blackline Classic Cars (Web Build) 45866,First meeting,true,2020-09-29T11:17:45.341Z,Sam Bray
+Blackline Classic Cars (Web Build) 45866,Form & send proposal based on what we know,true,2020-09-29T11:17:46.454Z,Sam Bray
+Blackline Classic Cars (Web Build) 45866,Client to fill out DD,true,2020-09-30T15:46:23.676Z,Sam Bray
+Blackline Classic Cars (Web Build) 45866,Accounts to set up 6 payments of £510+vat,true,2020-10-01T11:40:08.256Z,Sam Bray
+Blackline Classic Cars (Web Build) 45866,Brief meeting ,true,2020-10-06T13:12:36.420Z,Sam Bray
+Blackline Classic Cars (Web Build) 45866,Brief & planning​ Sign Off,true,2020-10-06T13:12:36.843Z,Sam Bray
+Blackline Classic Cars (Web Build) 45866,Complete site hierarchy,true,2020-10-06T09:35:01.495Z,Felipe Ponce
+Blackline Classic Cars (Web Build) 45866,Send hierarchy to client,true,2020-10-06T13:12:26.151Z,Sam Bray
+Blackline Classic Cars (Web Build) 45866,Complete hierarchy client amends,true,2020-10-06T13:12:40.147Z,Felipe Ponce
+Blackline Classic Cars (Web Build) 45866,Site hierarchy Sign Off​,true,2020-10-06T13:12:41.534Z,Sam Bray
+Blackline Classic Cars (Web Build) 45866,Complete in house wireframe,true,2020-10-12T16:33:32.577Z,Felipe Ponce
+Blackline Classic Cars (Web Build) 45866,Send to webcreation to complete their wireframing,false,,Sam Bray
+Blackline Classic Cars (Web Build) 45866,Wireframe first draft to client,false,,Sam Bray
+Blackline Classic Cars (Web Build) 45866,Wireframe client amends,false,,Felipe Ponce
+Blackline Classic Cars (Web Build) 45866,Wireframe sign off,false,,Sam Bray
+Blackline Classic Cars (Web Build) 45866,Receive live draft from web creation,false,,Sam Bray
+Blackline Classic Cars (Web Build) 45866,Send LP amends to WC,false,,Tom Strat
+Blackline Classic Cars (Web Build) 45866,Receive final first draft from web creation,false,,Sam Bray
+Blackline Classic Cars (Web Build) 45866,Live build first draft to client​,false,,Sam Bray
+Blackline Classic Cars (Web Build) 45866,Get client content,false,,Sam Bray
+Blackline Classic Cars (Web Build) 45866,Receive client amends,false,,Sam Bray
+Blackline Classic Cars (Web Build) 45866,Send client amends to web creation,false,,Sam Bray
+Blackline Classic Cars (Web Build) 45866,Receive live draft #2 from web creation,false,,Tom Strat
+Blackline Classic Cars (Web Build) 45866,Send live draft #2 to client ,false,,Sam Bray
+Blackline Classic Cars (Web Build) 45866,Get live draft #2 client feedback,false,,Sam Bray
+Blackline Classic Cars (Web Build) 45866,Final live amends to web creation,false,,Sam Bray
+Blackline Classic Cars (Web Build) 45866,Live build amends complete,false,,Sam Bray
+Blackline Classic Cars (Web Build) 45866,"Check site function on desktop, mobile & tablet",false,,Tom Strat
+Blackline Classic Cars (Web Build) 45866,Check contact info formatting,false,,Tom Strat
+Blackline Classic Cars (Web Build) 45866,Check padding & responsiveness of content,false,,Tom Strat
+Blackline Classic Cars (Web Build) 45866,Live build sign off,false,,Sam Bray
+Blackline Classic Cars (Web Build) 45866,Connect contact forms,false,,Tom Strat
+Blackline Classic Cars (Web Build) 45866,"Set up GTM, GA, SC",false,,Sam Bray
+Blackline Classic Cars (Web Build) 45866,"Set up basic call, email and live chat events in GTM",false,,Tom Strat
+Blackline Classic Cars (Web Build) 45866,Set up CF7 listener in GTM,false,,Tom Strat
+Blackline Classic Cars (Web Build) 45866,Set up goals from CF7 listener in GA,false,,Sam Bray
+Blackline Classic Cars (Web Build) 45866,Final snagging & fixes,false,,Tom Strat
+Blackline Classic Cars (Web Build) 45866,Complete live testing,false,,Sam Bray
+Branchwalkers NE Landscapes,Live Amends - MEETING - Discuss Content Etc... ,true,2020-06-03T15:11:41.182Z,Tyler Landry
+Branchwalkers NE Landscapes,Brief & Planning,true,2020-05-06T13:40:05.295Z,Tyler Landry
+Branchwalkers NE Landscapes,Live Amends Completed,false,,none
+Branchwalkers NE Landscapes,Soft Launch,false,,none
+Branchwalkers NE Landscapes,Live Build Send to Client,true,2020-05-20T10:32:06.384Z,Tyler Landry
+Branchwalkers NE Landscapes,Wireframe Send to Client,true,2020-05-07T10:33:04.880Z,Tyler Landry
+Branchwalkers NE Landscapes,Site Hierarchy,true,2020-05-05T10:30:15.563Z,Tyler Landry
+Branchwalkers NE Landscapes,Completion - Sign Off Date,false,,none
+Branchwalkers NE Landscapes,Add Amy to whatsapp group,false,,Amy Carlin
+Branchwalkers NE Landscapes,Message Denise,true,2020-10-06T12:23:05.481Z,Sam Bray
+Branchwalkers NE Landscapes,Sam To Chase,true,2020-07-15T09:11:13.046Z,Sam Bray
+Branchwalkers NE Landscapes,Project timelines submitted to client?,true,2020-05-06T14:47:45.660Z,Tyler Landry
+Branchwalkers NE Landscapes,Purchased Avada ,true,2020-05-06T09:04:24.614Z,ollie
+Branchwalkers NE Landscapes,Set up payment for 50% of website build. £500+vat,true,2020-04-21T10:54:12.785Z,Tyler Landry
+Branchwalkers NE Landscapes,anchor contact buttons down,true,2020-05-20T08:41:05.793Z,Tom Strat
+Branchwalkers NE Landscapes,Case Studys Page,true,2020-05-19T10:55:32.334Z,none
+Branchwalkers NE Landscapes,Add more slides and sliders,true,2020-05-19T11:49:56.743Z,none
+Branchwalkers NE Landscapes,Initial Homepage and Service Page Created (Wireframe),true,2020-05-11T08:56:11.127Z,Tom Strat
+Branchwalkers NE Landscapes,about us to be call us,true,2020-05-20T08:42:36.441Z,Tom Strat
+Branchwalkers NE Landscapes,service slider para to go to first paragraph,true,2020-05-20T08:56:26.136Z,Tom Strat
+Branchwalkers NE Landscapes,rollovers to have ctas,true,2020-05-20T09:24:58.320Z,Tom Strat
+Branchwalkers NE Landscapes,about us tabs CTA,true,2020-05-20T09:04:42.755Z,Tom Strat
+Branchwalkers NE Landscapes,yell qualifications to about us,true,2020-05-20T09:35:26.313Z,Tom Strat
+Branchwalkers NE Landscapes,Service page to have case studies pulle in,true,2020-05-20T09:12:15.771Z,Tom Strat
+Branchwalkers NE Landscapes,Fill Content,true,2020-05-19T11:49:57.726Z,none
+Branchwalkers NE Landscapes,Testimonials - Dynamic between page and container on homepage,true,2020-05-20T09:38:35.576Z,Tom Strat
+Branchwalkers NE Landscapes,Engagement Letter & Invoice Completed by client?,true,2020-04-20T08:42:58.492Z,Sam Bray
+Branchwalkers NE Landscapes,DD mandate completed by client?,true,2020-04-20T08:43:21.123Z,Sam Bray
+Branchwalkers NE Landscapes,Service padding,true,2020-05-19T11:02:00.465Z,none
+Branchwalkers NE Landscapes,Check Mobile,true,2020-05-19T11:49:57.063Z,none
+Branchwalkers NE Landscapes,Client provided images/copy? (Content emails attached) ,true,2020-04-29T14:05:43.216Z,Tyler Landry
+Branchwalkers NE Landscapes,Hierarchy completed,true,2020-04-29T14:06:25.086Z,Tyler Landry
+Branchwalkers NE Landscapes,Hierarchy to be signed off by client,true,2020-05-06T09:05:59.004Z,Tyler Landry
+Branchwalkers NE Landscapes,Download images from Whatsapp,true,2020-01-28T10:55:58.411Z,Tyler Landry
+Branchwalkers NE Landscapes,Add New Pictures - Folder 20-5,true,2020-06-02T14:30:39.551Z,Tyler Landry
+Branchwalkers NE Landscapes,Testimonials,true,2020-05-20T08:28:56.941Z,Tyler Landry
+Branchwalkers NE Landscapes,Add New Pictures - 02-06 Folder,true,2020-06-02T14:30:40.002Z,Tyler Landry
+Branchwalkers NE Landscapes, Case Study Potentially - See new photos,true,2020-06-03T11:22:14.284Z,Tyler Landry
+Branchwalkers NE Landscapes,City & Guild (Level 3) - Waiting on client to provide,false,,none
+Branchwalkers NE Landscapes,Remove photo in homepage slider of gravel ,true,2020-06-04T08:53:26.705Z,Tyler Landry
+Branchwalkers NE Landscapes,"Remove commas before and (Example: ,and)",true,2020-06-04T08:53:37.649Z,Tyler Landry
+Branchwalkers NE Landscapes,Mobile Number to be added to footer - 	07701 075095   ,true,2020-06-02T14:12:12.438Z,Tom Strat
+Branchwalkers NE Landscapes,Change the office address,true,2020-06-02T14:12:56.299Z,Tom Strat
+Branchwalkers NE Landscapes,Proud Supporters of SEAHAM RUGBY Club,true,2020-06-02T14:18:18.895Z,Tom Strat
+Branchwalkers NE Landscapes,Mybuilder.com --> Can we pull reviews across (if possible),true,2020-06-02T15:12:03.507Z,Tom Strat
+Branchwalkers NE Landscapes,Change Favicon,true,2020-06-02T14:30:19.975Z,Tom Strat
+Branchwalkers NE Landscapes,Combine Arborist & Tree Surveys pages,true,2020-06-02T14:27:39.547Z,Tom Strat
+Branchwalkers NE Landscapes,Main Slider Content,true,2020-05-19T11:51:13.554Z,none
+Branchwalkers NE Landscapes,Services: Grounds Maintenance,false,,none
+Branchwalkers NE Landscapes,Services: Tree Surveys/Arborists,false,,none
+Bryan Green Landscaping,Contact form event trigger GTM,true,2020-07-21T10:21:38.065Z,Tom Strat
+Bryan Green Landscaping,Goal from contact form event ,true,2020-07-21T11:35:35.802Z,Sam Bray
+Bryan Green Landscaping,GTM & Events set up,true,2020-07-16T08:52:54.919Z,Sam Bray
+Bryan Green Landscaping,Monthly SEO Report ,true,2020-07-15T09:05:45.057Z,Sam Bray
+Bryan Green Landscaping,Add social links to the website?,true,2020-10-01T08:25:20.131Z,Amy Carlin
+Bryan Green Landscaping,Beef up homepage content as noted by WC ,true,2020-09-03T13:36:22.190Z,Tyler Landry
+Bryan Green Landscaping,Search Console Access,true,2020-05-22T09:07:34.750Z,Tyler Landry
+Bryan Green Landscaping,Google Analytics Access,true,2020-05-22T09:04:15.796Z,Tyler Landry
+Bryan Green Landscaping,Fix SSL error - Email ADAM and enquire about the SSL ,true,2020-06-04T10:20:03.618Z,Tom Strat
+Bryan Green Landscaping,Put the GEO Pages in work order per month ,true,2020-05-28T08:53:55.289Z,Tyler Landry
+Bryan Green Landscaping,Landscaper Thornbury - JUNE,true,2020-06-02T11:46:57.433Z,Tyler Landry
+Bryan Green Landscaping,Landscaper Calne - Adjust current content to really focus on CALNE,true,2020-09-03T10:35:34.327Z,Tyler Landry
+Bryan Green Landscaping,Landscaper Yate Landing Page,true,2020-07-09T09:34:57.790Z,Tyler Landry
+Bryan Green Landscaping,Landscaper Dursley Landing Page,true,2020-07-09T10:14:09.286Z,Tyler Landry
+Bryan Green Landscaping,Landscaper -  Berkeley Landing Page,true,2020-08-12T12:04:07.252Z,Tyler Landry
+Bryan Green Landscaping,To Go To Web Creation in August,true,2020-08-11T12:09:26.680Z,Tyler Landry
+Bryan Green Landscaping,SEO Titles & Meta Descriptions - Review and implement,true,2020-05-14T11:02:00.463Z,Tyler Landry
+Bryan Green Landscaping,Add project to SEMRush,true,2020-05-14T11:01:59.468Z,Tyler Landry
+Bryan Green Landscaping,Have you received login details?,true,2020-05-12T13:52:24.092Z,Tyler Landry
+Bryan Green Landscaping,Create GMB,true,2020-05-12T13:52:00.069Z,Tyler Landry
+Bryan Green Landscaping,Renew Monthly SEO Retainer ,true,2020-05-29T11:30:13.031Z,Tyler Landry
+Bryan Green Landscaping,Renew Monthly SEO Retainer ,true,2020-06-30T12:02:59.705Z,Tyler Landry
+Bryan Green Landscaping,Renew Monthly SEO Retainer ,true,2020-08-04T10:56:53.515Z,Tyler Landry
+Bryan Green Landscaping,Renew Monthly SEO Retainer ,true,2020-08-28T13:04:23.497Z,Tyler Landry
+Bryan Green Landscaping,Renew Monthly SEO Retainer ,true,2020-09-29T09:18:35.451Z,Tyler Landry
+Bryan Green Landscaping,Renew Monthly SEO Retainer ,false,,Sam Bray
+Bryan Green Landscaping,Waiting on client to complete GoCardless DD Mandate - Once complete set-up payments ongoing at £200+VAT,true,2020-05-12T12:02:51.613Z,Tyler Landry
+C4B.Live - 47435,First meeting,true,2020-08-21T13:51:41.815Z,Sam Bray
+C4B.Live - 47435,Form & send proposal based on what we know,true,2020-08-19T10:13:50.962Z,Sam Bray
+C4B.Live - 47435,Client to fill out DD,true,2020-09-01T10:40:09.732Z,Sam Bray
+C4B.Live - 47435,Accounts to set up 3 payments of £940 (inc. vat),true,2020-09-01T10:40:10.852Z,Sam Bray
+C4B.Live - 47435,Brief meeting (Friday 2pm),true,2020-08-21T13:32:19.552Z,Sam Bray
+C4B.Live - 47435,Brief & planning​ Sign Off,true,2020-09-01T10:40:12.860Z,Sam Bray
+C4B.Live - 47435,Complete site hierarchy,true,2020-08-27T10:53:32.237Z,Tom Strat
+C4B.Live - 47435,Send hierarchy to client,true,2020-09-01T10:40:01.474Z,Sam Bray
+C4B.Live - 47435,Complete hierarchy client amends,true,2020-09-04T08:44:22.761Z,Tom Strat
+C4B.Live - 47435,Site hierarchy Sign Off​,true,2020-09-09T09:03:31.996Z,Sam Bray
+C4B.Live - 47435,Complete in house wireframe,true,2020-09-09T09:03:58.246Z,Tom Strat
+C4B.Live - 47435,Send to webcreation to complete their wireframing,true,2020-09-09T09:04:00.588Z,Tom Strat
+C4B.Live - 47435,Wireframe first draft to client,true,2020-09-16T09:07:34.985Z,Sam Bray
+C4B.Live - 47435,Wireframe client amends,true,2020-09-16T09:07:42.456Z,Tom Strat
+C4B.Live - 47435,Wireframe sign off,true,2020-10-05T10:11:47.864Z,Sam Bray
+C4B.Live - 47435,Receive live draft from web creation,true,2020-10-08T09:04:44.714Z,Sam Bray
+C4B.Live - 47435,Send LP amends to WC,true,2020-10-08T09:04:45.969Z,Sam Bray
+C4B.Live - 47435,Receive final first draft from web creation,true,2020-10-14T16:05:55.057Z,none
+C4B.Live - 47435,Live build first draft to client​,true,2020-10-14T16:05:53.854Z,none
+C4B.Live - 47435,Get client content,false,,none
+C4B.Live - 47435,Receive client amends,false,,none
+C4B.Live - 47435,Send client amends to web creation,false,,none
+C4B.Live - 47435,Receive live draft #2 from web creation,false,,none
+C4B.Live - 47435,Send live draft #2 to client ,false,,none
+C4B.Live - 47435,Get live draft #2 client feedback,false,,none
+C4B.Live - 47435,Final live amends to web creation,false,,none
+C4B.Live - 47435,Live build amends complete,false,,none
+C4B.Live - 47435,"Check site function on desktop, mobile & tablet",false,,none
+C4B.Live - 47435,Check contact info formatting,false,,none
+C4B.Live - 47435,Check padding & responsiveness of content,false,,none
+C4B.Live - 47435,Live build sign off,false,,none
+C4B.Live - 47435,Connect contact forms,false,,none
+C4B.Live - 47435,"Set up GTM, GA, SC",false,,none
+C4B.Live - 47435,"Set up basic call, email and live chat events in GTM",false,,none
+C4B.Live - 47435,Set up CF7 listener in GTM,false,,none
+C4B.Live - 47435,Set up goals from CF7 listener in GA,false,,none
+C4B.Live - 47435,Final snagging & fixes,false,,none
+C4B.Live - 47435,Complete live testing,false,,none
+Clifton Rocks,Integrate Google Tag Manager - Custom Event Tracking for Contact Form Submission - Use Brooklyn Construction as an Example,true,2019-11-01T14:11:21.308Z,Tom Strat
+Clifton Rocks,Clifton Rocks,true,2019-04-08T12:00:27.593Z,Tyler Landry
+Clifton Rocks,Source Font Family - Avenir® Next Ultra Light,true,2019-05-09T11:28:58.651Z,Tom Strat
+Clifton Rocks,"Product ""Page 2"" broken",true,2020-05-06T08:50:12.264Z,Tom Strat
+Clifton Rocks,SEO 101 - Titles & descriptions,true,2020-01-07T11:30:52.531Z,Tyler Landry
+Clifton Rocks,Replace image on home page with the unresponsive text (requested from Clare),true,2020-01-03T14:02:52.340Z,Sam Bray
+Clifton Rocks,"Photos in the bespoke, commission, remodeling sections ",true,2019-09-26T15:39:00.247Z,Tom Strat
+Clifton Rocks,"Next Button or '2' Buttons",true,2019-09-18T13:30:40.072Z,Tom Strat
+Clifton Rocks,Clare to send more photos over ,true,2019-04-29T08:05:26.324Z,Tyler Landry
+Clifton Rocks,Touch Base with Claire about Meeting,true,2019-05-29T11:03:45.048Z,Tyler Landry
+Clifton Rocks,Get photos from Annie or Claire (Correct Wix Password?),true,2019-04-15T10:27:52.538Z,Tyler Landry
+Clifton Rocks,Blurry Images,true,2019-09-12T11:36:41.127Z,Tyler Landry
+Clifton Rocks,SPAM V3 Captcha,true,2019-07-09T14:02:39.979Z,Tyler Landry
+Clifton Rocks,Consistent sizing throughout on images,true,2019-09-12T11:36:41.127Z,Tyler Landry
+Clifton Rocks,Instagram Login for Feed ,true,2019-05-21T11:20:03.665Z,Tyler Landry
+Clifton Rocks,Something is wrong on the Products pages ,true,2019-07-09T11:39:53.943Z,Tyler Landry
+Clifton Rocks,Add Worldpay (Quote Development Time),true,2019-07-09T14:13:25.132Z,Tyler Landry
+Clifton Rocks,Overwrite PayPal Color to match the current theme,true,2019-09-12T11:36:39.108Z,Tyler Landry
+Clifton Rocks,Product Images - Add Arrows,true,2019-09-12T11:36:38.477Z,Tyler Landry
+Clifton Rocks,Shift Text to Bottom rather than center on three blocks ,true,2019-07-09T14:03:23.735Z,Tyler Landry
+Clifton Rocks,"Wishlist functionality, make more visible (UX)",true,2019-07-10T13:11:28.063Z,Tyler Landry
+Clifton Rocks,Instagram 3 across rather than 4,true,2019-07-04T20:27:32.340Z,Tyler Landry
+Clifton Rocks,1/2 Day Web Development Retainer,true,2019-11-06T10:07:43.611Z,Tyler Landry
+Clifton Rocks,Optimise Galleries to match example 1.5 Hours,true,2019-10-02T10:40:06.764Z,Tom Strat
+Clifton Rocks,Coordinate Next Tasks,true,2019-10-02T09:04:22.467Z,Tyler Landry
+Clifton Rocks,"Contact form tracking is not working from GTM, please review and fix",true,2020-01-02T14:54:31.551Z,Tom Strat
+Clifton Rocks,Added Decadence Collection to The GMB Listing,true,2019-11-26T14:56:46.190Z,Tyler Landry
+Clifton Rocks,"CTA's glitching on the first cycle when cycling slider images",true,2020-02-28T15:23:01.114Z,Tom Strat
+Clifton Rocks,Training for product uploads,true,2020-01-28T10:58:57.421Z,Tyler Landry
+Clifton Rocks,Next month of Dev Tasks Need to be sorted,true,2019-11-21T14:31:58.588Z,Tyler Landry
+Clifton Rocks,Pop is too soon on the website,true,2019-11-22T13:53:43.790Z,Tyler Landry
+Clifton Rocks,"Instagram isn't loading latest posts",true,2019-11-22T13:53:45.812Z,Tyler Landry
+Clifton Rocks,Review the email that Clare sent - 0.5 Hours ,true,2019-11-13T10:12:14.858Z,Tyler Landry
+Clifton Rocks,Fix Product Descriptions - .5 Hours,true,2019-11-12T11:55:26.190Z,Tom Strat
+Clifton Rocks,Strategy Meeting ,true,2020-01-24T15:27:02.380Z,Sam Bray
+Clifton Rocks,There is a space missing on the shopping page,true,2019-11-22T13:53:48.121Z,Tyler Landry
+Clifton Rocks,Opening Hours,true,2019-11-25T14:16:52.899Z,Tom Strat
+Clifton Rocks,Review & Improve website speed,true,2020-03-03T15:08:46.667Z,Tom Strat
+Clifton Rocks,Email - No more Tom@GMAIL.com - Solution?,true,2019-11-14T16:00:13.514Z,Tom Strat
+Clifton Rocks,Sort GTM on Contact Form Page - 1 Hour,true,2019-11-11T15:39:01.812Z,Tom Strat
+Clifton Rocks,Slider Changes,true,2020-01-08T10:05:58.555Z,Sam Bray
+Clifton Rocks,Download SEM report before meeting,true,2020-01-27T08:39:24.855Z,Sam Bray
+Clifton Rocks,Product Listings - Update,true,2019-12-04T14:27:55.643Z,Tom Strat
+Clifton Rocks,New Slider Images,true,2019-11-25T15:34:00.613Z,Tom Strat
+Clifton Rocks,"Add an enquire button alongside ""Add to Basket"" button (FMF/MM style)",true,2020-05-22T10:10:19.374Z,Tom Strat
+Clifton Rocks,Search console flagging an error - TC please take a look ,true,2020-03-03T16:40:49.582Z,Tom Strat
+Clifton Rocks,Accordion Style Descriptions,true,2020-05-22T10:10:20.668Z,Tom Strat
+Clifton Rocks,"Product search bar not working. Auto drop down works, then does not change the results. ",true,2020-03-03T12:11:42.934Z,Tom Strat
+Clifton Rocks,Requested High Resolution Logo,true,2020-02-07T12:18:25.919Z,Tyler Landry
+Clifton Rocks,Install booking system. Booksy/SimplyBook,false,,none
+C & D Pest Control,First meeting,true,2020-09-04T13:48:18.542Z,Amy Carlin
+C & D Pest Control,Form & send proposal based on what we know,true,2020-09-04T13:48:26.110Z,Amy Carlin
+C & D Pest Control,Send invoice to customer,true,2020-09-07T09:45:52.755Z,Amy Carlin
+C & D Pest Control,Set up brief for project,true,2020-09-08T08:46:00.960Z,Amy Carlin
+C & D Pest Control,Complete in house wireframe,true,2020-09-11T12:52:52.538Z,Tom Strat
+C & D Pest Control,Wireframe first draft to client,true,2020-09-14T08:42:57.852Z,Amy Carlin
+C & D Pest Control,Wireframe client amends,true,2020-09-14T08:43:00.506Z,Tom Strat
+C & D Pest Control,Wireframe sign off,true,2020-09-14T08:43:02.935Z,Amy Carlin
+C & D Pest Control,Live build first draft to client​,true,2020-09-28T08:46:09.190Z,Tom Strat
+C & D Pest Control,Receive client amends,true,2020-09-28T08:46:22.401Z,Amy Carlin
+C & D Pest Control,Send client amends to Tom,true,2020-09-28T08:46:54.016Z,Amy Carlin
+C & D Pest Control,Complete live draft #1 amends,true,2020-10-05T10:22:13.961Z,Tom Strat
+C & D Pest Control,Receive live draft #2 ,true,2020-10-14T09:08:49.053Z,Amy Carlin
+C & D Pest Control,Send live draft #2 to client ,true,2020-10-14T09:08:54.271Z,Amy Carlin
+C & D Pest Control,Get live draft #2 client feedback,false,,Amy Carlin
+C & D Pest Control,Final live amends,false,,Tom Strat
+C & D Pest Control,Live build amends complete,false,,Sam Bray
+C & D Pest Control,"Check site function on desktop, mobile & tablet",true,2020-10-08T09:45:55.762Z,Tom Strat
+C & D Pest Control,Check contact info formatting,true,2020-10-08T09:45:54.989Z,Tom Strat
+C & D Pest Control,Check padding & responsiveness of content,true,2020-10-08T09:45:46.258Z,Tom Strat
+C & D Pest Control,Live build sign off,false,,none
+C & D Pest Control,Connect contact forms,false,,none
+C & D Pest Control,"Set up GTM, GA, SC",false,,none
+C & D Pest Control,"Set up basic call, email and live chat events in GTM",false,,none
+C & D Pest Control,Set up CF7 listener in GTM,false,,none
+C & D Pest Control,Set up goals from CF7 listener in GA,false,,none
+C & D Pest Control,Final snagging & fixes,false,,none
+C & D Pest Control,Complete live testing,false,,none
+C & D Pest Control,Set up account & get payment details & user access,true,2020-09-29T16:04:07.769Z,Sam Bray
+C & D Pest Control,Budget recommendations?,false,,Sam Bray
+C & D Pest Control,Create campaign & settings,false,,Sam Bray
+C & D Pest Control,Link with analytics & set up conversions,false,,Sam Bray
+C & D Pest Control,Create conversion from Analytics Goal,false,,Sam Bray
+C & D Pest Control,"Build Ad Groups, ads, keywords",false,,Sam Bray
+C & D Pest Control,Create ad extensions,false,,Sam Bray
+C & D Pest Control,Duplicate and build additional ad groups,false,,Sam Bray
+C & D Pest Control,Create audience lists for future remarketing,false,,Sam Bray
+DMS Automotive ,Add menu item to bag bar - “Performance Centre” link _blank https://www.dmsperformance.co.uk/,true,2020-03-06T09:35:31.713Z,Tom Strat
+DMS Automotive ,Final draft fixes,true,2020-02-14T14:26:26.116Z,Tom Strat
+DMS Automotive ,Site review and content changes,true,2020-02-14T13:35:36.424Z,Sam Bray
+DMS Automotive ,Initial Draft Review (SB),true,2020-01-03T16:59:42.368Z,Sam Bray
+DMS Automotive ,Internal Review,true,2020-01-28T11:14:50.244Z,Tyler Landry
+DMS Automotive ,Add products to the GMB listing,true,2019-12-12T16:35:49.531Z,Tyler Landry
+DMS Automotive ,Compile Copy and Send to WebCreation,true,2019-11-25T12:20:33.927Z,Tyler Landry
+DMS Automotive ,"Current site has been hacked, WP version needs an update",true,2019-11-27T10:11:12.453Z,Tom Strat
+DMS Automotive ,Install Yoast to sort meta titles,true,2019-11-26T17:04:32.344Z,Sam Bray
+DMS Automotive ,Submit Creative Brief to Web Creation - .5 Hours ,true,2019-11-12T10:01:45.726Z,Tyler Landry
+DMS Automotive ,Review Auto Prometheus Theme,true,2019-11-12T10:01:27.729Z,Tyler Landry
+DMS Automotive ,"(TC set up listener) Install analytics, GTM, goals, SC, etc...",true,2020-05-26T10:19:20.526Z,Tom Strat
+DMS Automotive ,Final amends to WC,true,2020-01-28T11:14:49.021Z,Tyler Landry
+DMS Automotive ,Tow Bar Copy to be Uploaded,true,2020-02-11T13:46:19.387Z,Tom Strat
+DMS Automotive ,Implement New Slider Images - Already in media gallery,true,2020-01-17T10:36:30.267Z,Tom Strat
+DMS Automotive ,"Remove ""Make an Appointment"" ",true,2020-02-03T13:38:10.217Z,Tom Strat
+DMS Automotive ,Consolidating - Book a Service/Book a MOT,true,2020-02-03T13:49:55.351Z,Tom Strat
+DMS Automotive ,Separate CTA from Telephone number to make it stand out,true,2020-02-10T14:21:47.765Z,Tom Strat
+DMS Automotive ,"Used Car Sales - rather than just ""Used Cars""",true,2020-02-03T13:51:45.544Z,Tom Strat
+DMS Automotive ,"Add ""Book Service"" & ""Call Now"" buttons to Slider - Use existing site for reference",true,2020-02-03T16:03:20.239Z,Tom Strat
+DMS Automotive ,Link contact points on Our Location ,true,2020-02-03T13:56:01.769Z,Tom Strat
+DMS Automotive ,"Label container with services ""Our Services"" - Ensure pulls in all services on rotating carousel",true,2020-02-03T15:51:00.755Z,Tom Strat
+DMS Automotive ,"Book in Today - Change CTAs to ""Book Now"" & ""Our Services""",true,2020-02-03T13:58:04.339Z,Tom Strat
+DMS Automotive ,"Change ""About Us"" Page",true,2020-02-03T15:56:21.720Z,Tom Strat
+DMS Automotive ,Brakes and Clutches missing text,true,2020-02-04T11:58:57.233Z,Tyler Landry
+DMS Automotive ,Tires & Wheels missing text,true,2020-02-04T11:58:58.698Z,Tyler Landry
+DMS Automotive ,Restart & Repair missing text,true,2020-02-04T11:58:59.956Z,Tyler Landry
+DMS Automotive ,Gearboxes missing text,true,2020-02-04T11:59:01.346Z,Tyler Landry
+DMS Automotive ,Crowbars missing text,true,2020-02-04T11:59:02.661Z,Tyler Landry
+DMS Automotive ,META Titles,true,2020-02-14T21:58:23.607Z,Sam Bray
+DMS Automotive ,Tom to Implement Copy from Copify,true,2020-02-10T14:11:50.203Z,Tom Strat
+DMS Automotive ,Site Amends,true,2020-04-28T09:15:24.090Z,Sam Bray
+DMS Automotive ,Review content from Copify and Submit to Tom for implementation. ,true,2020-02-06T09:35:22.388Z,Tyler Landry
+DMS Automotive ,URGENT (WC): Set up contact forms & test,true,2020-05-12T10:51:03.324Z,Tom Strat
+DMS Automotive ,Final Testing,true,2020-05-13T09:18:38.763Z,none
+DMS Automotive ,Go Live,true,2020-04-28T08:34:07.646Z,Tom Strat
+DMS Automotive ,Live Testing,true,2020-07-22T15:28:51.991Z,Sam Bray
+DMS Automotive ,"Build new ""Engine Rebuild Page"" (Additional Cost)",false,,none
+DMS Automotive ,SB to call Dave,true,2020-02-26T13:12:38.081Z,Sam Bray
+DMS Automotive ,Find other page notes (SB),false,,none
+DMS Automotive ,Catch up in 4-6 weeks time,true,2020-10-05T15:01:00.120Z,Sam Bray
+DMS Automotive ,P9311 - Final Payment Required - £1050.00? (Does Sam need to adjust amount),true,2020-05-12T07:37:02.505Z,Tyler Landry
+DMS Automotive ,Hosting Invoice to be created once the site goes live. ,true,2020-04-22T10:30:28.944Z,Tyler Landry
+DMS Automotive ,Hosting Renewal £300+vat,false,,Amy Carlin
+DMS Automotive ,Set up hosting (should have everything you need),true,2020-04-21T15:45:14.205Z,Tom Strat
+DMS Automotive ,Domain & Hosting Contact,true,2020-04-20T11:29:22.080Z,Sam Bray
+DMS Automotive ,"Wants a page on engine rebuilds. Dave sending Photos, bullet point. Once we have that, quote.",false,,none
+Doug Reid International ,Final Revisions & Go Live,false,,none
+Doug Reid International ,1st Round Amends Complete,false,,none
+Doug Reid International ,Live Build Available Get ,false,,none
+Doug Reid International ,Sent feedback on First Round of Amends ,true,2020-01-30T13:57:28.879Z,Tyler Landry
+Doug Reid International ,First Draft of Website,true,2020-01-30T10:28:25.978Z,Tom Strat
+Doug Reid International ,Add Holding Page for Doug Reid ,true,2020-01-30T10:30:45.182Z,Tom Strat
+Doug Reid International ,Createed Draft Homepage,true,2020-01-30T13:56:45.072Z,Tyler Landry
+Doug Reid International ,Get update from Amy,true,2020-08-26T08:12:33.601Z,Sam Bray
+Doug Reid International ,"Archive project - 5 hours spent, idea is to refund, less time spent - Ollie thoughts?",false,,ollie
+Energie Fitness Bedford,Edit lead gen ad copy - 2 hour free parking in the Harpur centre with 90 spaces available. ,true,2020-03-17T09:14:26.119Z,Tyler Landry
+Energie Fitness Bedford,Access to Facebook page,true,2020-02-04T09:25:00.398Z,Tyler Landry
+Energie Fitness Bedford,Access to Facebook Ad Account,true,2020-02-04T09:26:20.574Z,Tyler Landry
+Energie Fitness Bedford,Set up FB retarget,true,2020-02-04T16:33:21.066Z,Tyler Landry
+Energie Fitness Bedford,"Set up different audiences (weight lifting, cadio, OCR, general, female only)",true,2020-02-14T16:20:30.672Z,Tyler Landry
+Energie Fitness Bedford,Claim GMB ,true,2020-02-13T12:54:07.859Z,Tyler Landry
+Energie Fitness Bedford,Set up FB Reporting,true,2020-02-07T10:51:49.706Z,Sam Bray
+Energie Fitness Bedford,Set-up Pixel Integration ,true,2020-02-04T09:24:57.534Z,Tyler Landry
+Energie Fitness Bedford,Set-up initial Lead Generation Campaign ,true,2020-02-05T09:46:15.159Z,Tyler Landry
+Energie Fitness Bedford,PPC campaign expand and optimise,true,2020-02-11T12:45:44.359Z,ollie
+Energie Fitness Bedford,Add Inquire Now Button,true,2020-02-12T11:22:24.453Z,Tyler Landry
+Energie Fitness Bedford,Optimise GMB,true,2020-02-18T12:14:10.804Z,Tyler Landry
+Energie Fitness Bedford,Set-up initial Messaging Campaign,true,2020-02-05T09:46:16.347Z,Tyler Landry
+Energie Fitness Bedford,Set-up initial Re-target Campaign,true,2020-02-05T09:46:17.587Z,Tyler Landry
+Energie Fitness Bedford,Audience Set-Up (General),true,2020-02-04T16:34:09.814Z,Tyler Landry
+Energie Fitness Bedford,PPC Management - Energie Fitness Bedford,true,2020-02-24T16:32:46.116Z,none
+Energie Fitness Bedford,PPC Management - Energie Fitness Bedford,false,,none
+Energie Fitness Bedford,PPC: Add Class Ad Groups,true,2020-02-17T11:52:37.163Z,none
+Energie Fitness Bedford,PPC: Set up the retarget audience & Ads,true,2020-02-17T11:52:35.677Z,none
+Energie Fitness Bedford,Mothers Day Advert - Set to £40 per day budget ,true,2020-03-06T11:32:17.870Z,Tyler Landry
+Energie Fitness Bedford,Project Meeting,true,2020-04-09T11:30:51.935Z,Sam Bray
+Energie Fitness Bedford,Need Their Membership List ,true,2020-02-21T11:32:07.929Z,Tyler Landry
+Energie Fitness Bedford,"Turned off the messaging campaign for the moment, need to re-evaluate. Cost per lead to high! ",true,2020-02-21T12:48:43.492Z,Tyler Landry
+Energie Fitness Bedford,Answered Query ,true,2020-02-17T09:29:24.510Z,Sam Bray
+Energie Fitness Bedford,FB Ads - See emails - Action accordingly - Added MK43 8 (Bromham) and MK43 9 (Wooton) to all audience sets ,true,2020-02-18T11:45:39.050Z,Tyler Landry
+Energie Fitness Bedford,Traditional Lead Gen to be set-up,true,2020-03-11T16:44:09.394Z,Tyler Landry
+Energie Fitness Bedford,Instagram not pulling into the Landing Page ,true,2020-03-10T14:53:19.831Z,Tyler Landry
+Energie Fitness Bedford,Added Messaging campaign with £5.00 budget ,true,2020-03-12T12:18:39.346Z,Tyler Landry
+Energie Fitness Bedford,Create - Adverts - 3 Options - Lockdown,true,2020-04-17T08:48:50.536Z,Tyler Landry
+Energie Fitness Bedford,Discuss Reporting (Sam/Tyler) ,true,2020-03-31T13:57:39.344Z,Tyler Landry
+Energie Fitness Bedford,Make Advert Amends - Female/Male Option (Post Lockdown Journey Starts Now) ,true,2020-04-17T13:11:49.730Z,Tyler Landry
+Energie Fitness Bedford,Sign-up and Win - Conversion Campaign ,true,2020-03-11T16:44:12.117Z,Tyler Landry
+Energie Fitness Bedford,Amended the adverts to be Final Days for Lead Generation ,true,2020-02-27T16:09:22.013Z,Tyler Landry
+Energie Fitness Bedford,Schedule call with Jake to discuss the Strategy for March ,true,2020-03-10T11:19:36.726Z,Tyler Landry
+Energie Fitness Bedford,Spoke with Lee and assisted him in accessing his Facebook leads. ,true,2020-05-05T09:19:50.501Z,Tyler Landry
+Energie Fitness Bedford,New Lead Generation Ad and Audience Created - Set to run at £15 per day ongoing,true,2020-04-29T10:49:55.378Z,Tyler Landry
+Energie Fitness Bedford,Amended adverts as requested from Lee and Jake - Sent final round over for review,true,2020-04-22T15:55:03.814Z,Tyler Landry
+Energie Fitness Bedford,Set-up campaign to A/B Test two adverts (Stay Home & Post Lockdown) - £15 per day (£7.50 per advert),true,2020-04-22T15:55:14.933Z,Tyler Landry
+Energie Fitness Bedford,A/B test to finish - Full results and plan of action to be delivered to Lee,true,2020-04-29T08:32:37.149Z,Tyler Landry
+Energie Fitness Bedford,"Brief email,  update on results of A/B test so far ",true,2020-04-24T08:49:39.981Z,Tyler Landry
+Energie Fitness Bedford,"Report on all work completed to date. Ongoing strategy. Call to follow up on this Tuesday, April 7th",true,2020-04-08T17:22:34.688Z,Tyler Landry
+Energie Fitness Bedford,"RETAINER ON PAUSE, TYLER, WHAT IS LEFT TO ROLLOVER FROM MAY?",true,2020-05-21T09:47:48.840Z,Tyler Landry
+Energie Fitness Bedford,Renew Digital Marketing Retainer,false,,Sam Bray
+Energie Fitness Bedford,Create May Invoice - One Day Retainer or Half Day? (Unpause GC once confirmed and arrange payment),true,2020-04-29T08:31:29.326Z,Tyler Landry
+Energie Fitness Bedford,Refund £240.00 ,true,2020-04-09T12:41:59.787Z,Tyler Landry
+Energie Fitness Brooklands,"Digital Marketing Retainer (Recurring DD Set-up, 1st Payment on 11/Mar)",true,2020-02-11T10:39:10.904Z,Tyler Landry
+Energie Fitness Brooklands,Correct contact details on system ,false,,Sam Bray
+Energie Fitness Brooklands,"Sort invoicing & DD - P9454, P9455. P456 (One off payment 14/Feb)",true,2020-02-11T10:38:38.021Z,Tyler Landry
+Energie Fitness Brooklands,Access to Facebook Page,true,2020-02-26T12:03:09.429Z,Tyler Landry
+Energie Fitness Brooklands,Access to Facebook Business Ads Account,true,2020-02-26T12:03:12.357Z,Tyler Landry
+Energie Fitness Brooklands,"Create new FB ad with Olga's captions",true,2020-03-23T11:35:39.956Z,none
+Energie Fitness Brooklands,Access to Facebook Pixel,true,2020-02-26T12:03:13.379Z,Tyler Landry
+Energie Fitness Brooklands,Access to Google Adwords Account,true,2020-02-11T15:52:42.978Z,Tyler Landry
+Energie Fitness Brooklands,Create Audiences,true,2020-02-26T12:03:15.782Z,Tyler Landry
+Energie Fitness Brooklands,Amends to Facebook Campaign as Requested by Olga,true,2020-02-27T15:32:07.007Z,Tyler Landry
+Energie Fitness Brooklands,Create Lead Generation Ad,true,2020-02-26T12:03:19.113Z,Tyler Landry
+Energie Fitness Brooklands,Add James to Ads Account,true,2020-02-26T12:04:56.962Z,Sam Bray
+Energie Fitness Brooklands,Update engagement doc & send to olga,true,2020-02-27T15:31:34.147Z,Sam Bray
+Energie Fitness Brooklands,PPC (EF Brooklands): Set up Google Ads Campaign,true,2020-03-04T11:55:28.683Z,none
+Energie Fitness Brooklands,PPC (EF Brooklands): Set up Google Ads Retargeting Campaign,true,2020-03-04T11:56:30.163Z,none
+Energie Fitness Brooklands,PPC (EF Brooklands): - Amendments - Remove direct references to Milton Keynes (See Email) - Remove Ladies Only Classes. ,true,2020-03-06T00:22:17.767Z,none
+Energie Fitness Brooklands,"Google My Business Listing - (Submitted Request, Added Info)",true,2020-02-28T11:37:05.051Z,Tyler Landry
+Energie Fitness Brooklands,PPC (EF Brooklands): Send creative to James Frazer for retargeting campaign,true,2020-02-27T14:57:57.432Z,none
+Energie Fitness Brooklands,Need to verify Google My Business,true,2020-10-06T14:32:11.659Z,Tyler Landry
+Energie Fitness Brooklands,Create Design for Campaign,true,2020-03-31T13:33:47.203Z,none
+Energie Fitness Brooklands,Phone Call with Olga ,true,2020-03-05T11:38:07.099Z,Tyler Landry
+Energie Fitness Brooklands,Upload Members Exclusion List,true,2020-03-20T12:05:02.328Z,Tyler Landry
+Energie Fitness Brooklands,SB to email opportunities for Facebook campaign,false,,Sam Bray
+Energie Fitness Brooklands,Send Facebook Reporting & AdWords Reporting? ,true,2020-03-06T09:45:03.803Z,Tyler Landry
+Energie Fitness Brooklands,Access to GA? Requested 9/3/20,true,2020-03-12T10:42:42.276Z,Sam Bray
+Energie Fitness Brooklands,Amended Digital Creative ,true,2020-03-31T13:12:58.872Z,Tyler Landry
+Energie Fitness Brooklands,Instruction on how to create a Group from a business page on Facebook ,true,2020-10-06T14:32:09.147Z,Tyler Landry
+Energie Fitness Brooklands,Paid traffic showing as organic in GA,true,2020-03-12T11:26:43.182Z,Sam Bray
+Energie Fitness Brooklands,New Ad for Pre-Sale Offer ,true,2020-03-24T11:49:16.514Z,Tyler Landry
+Energie Fitness Brooklands,Reduce Facebook Ads Budget to £15 per day. ,true,2020-03-10T10:30:16.961Z,Tyler Landry
+Energie Fitness Brooklands,Refresh PPC Campaign,false,,Sam Bray
+Energie Fitness Brooklands,PPC (EF Brooklands): Set up Google Ads Retargeting Audience,true,2020-05-01T14:37:09.240Z,Sam Bray
+Energie Fitness Brooklands,Create Retarget Ad,true,2020-10-06T14:32:24.295Z,Tyler Landry
+Energie Fitness Brooklands,Strategic Plan Email  - see comments,true,2020-04-22T11:43:17.879Z,Tyler Landry
+Energie Fitness Brooklands,Renew Digital Marketing Retainer,true,2020-04-29T08:21:39.139Z,Tyler Landry
+Energie Fitness Brooklands,Renew Digital Marketing Retainer,false,,Sam Bray
+Cambrian Carpets,Sort Hosting,true,2020-10-07T09:12:45.391Z,Sam Bray
+Cambrian Carpets,Renew Hosting,false,,Sam Bray
+Energie Fitness Cricklewood,Review and amend Campaign as needed ,true,2019-12-20T19:05:32.198Z,Sam Bray
+Energie Fitness Cricklewood,Phase 1 - Set up google ads campaign - James,true,2019-12-17T09:20:50.883Z,ollie
+Energie Fitness Cricklewood,Set up Google Display Network Creative - Filipe  ,true,2020-01-08T10:20:11.638Z,Tyler Landry
+Energie Fitness Cricklewood,Google Ads Account set up & payment info submitted,true,2019-12-09T16:16:01.921Z,Sam Bray
+Energie Fitness Cricklewood,PPC Management (JF),true,2020-02-17T11:52:06.150Z,none
+Energie Fitness Cricklewood,PPC Management (JF) - Energie Fitness Cricklewood,false,,none
+Energie Fitness Cricklewood,Set up facebook ads campaign - Email Ben (£25.00)/Day,true,2019-12-12T12:22:48.930Z,Tyler Landry
+Energie Fitness Cricklewood,Phase 2 - PPC campaign review,true,2019-12-17T09:53:03.958Z,Sam Bray
+Energie Fitness Cricklewood,SAM - To Email with Recommended Budget for Ben,true,2019-12-11T16:42:14.079Z,Sam Bray
+Energie Fitness Cricklewood,Add products to GMB listing,true,2019-12-10T11:53:41.442Z,Tyler Landry
+Energie Fitness Cricklewood,Set up new re-target campaign based on February Promotions - DONE ,true,2020-02-13T14:04:43.930Z,Tyler Landry
+Energie Fitness Cricklewood,Send Email requesting second CTA be added to the Landing Page (Enquire Now),true,2019-12-17T12:27:38.100Z,Tyler Landry
+Energie Fitness Cricklewood,Set up Facebook Re-target Campaign (Run through Jan 31),true,2020-01-22T15:19:00.905Z,Tyler Landry
+Energie Fitness Cricklewood,Create Ad-Set for Messaging (Free Gym Pass),true,2020-01-14T11:49:37.749Z,Tyler Landry
+Energie Fitness Cricklewood,Set up audience groups for future use (Facebook),true,2020-02-28T12:36:05.957Z,Tyler Landry
+Energie Fitness Cricklewood,Launch Party Creative (Felipe) ,true,2020-01-08T14:54:04.117Z,Tyler Landry
+Energie Fitness Cricklewood,Set up Display network structure ,true,2020-01-07T22:03:52.872Z,Sam Bray
+Energie Fitness Cricklewood,PPC Optimisation (SB),true,2020-01-07T21:53:35.222Z,Sam Bray
+Energie Fitness Cricklewood,Free Day Pass,true,2020-01-14T09:47:36.474Z,none
+Energie Fitness Cricklewood,Get Google Tag & send to energie,true,2019-12-21T09:19:53.157Z,Sam Bray
+Energie Fitness Cricklewood,Add Free Day Pass Button To Website,true,2020-02-12T11:25:38.454Z,Tyler Landry
+Energie Fitness Cricklewood,Final Check on PPC SERP campaign & live,true,2019-12-21T09:20:18.776Z,Sam Bray
+Energie Fitness Cricklewood,Added new postcodes,true,2020-01-24T11:08:03.298Z,Sam Bray
+Energie Fitness Cricklewood,Send Energie Conversion tracking codes,true,2020-01-02T10:20:25.554Z,Sam Bray
+Energie Fitness Cricklewood,Event Party Ad Set-up/Copy/Optimisation ,true,2020-01-08T14:54:37.351Z,Tyler Landry
+Energie Fitness Cricklewood,Upload ads to the display network campaign,true,2020-01-08T13:52:23.998Z,Tyler Landry
+Energie Fitness Cricklewood,Negative Keywording (Jan),true,2020-01-07T11:29:31.133Z,Sam Bray
+Energie Fitness Cricklewood,Event Party Admin,true,2020-01-08T14:55:02.945Z,Tyler Landry
+Energie Fitness Cricklewood,Website re-target Google Ads display campaign set up,true,2020-01-30T14:03:45.758Z,Sam Bray
+Energie Fitness Cricklewood,Drop Out Conversation - Been open since January 9th,true,2020-02-26T12:18:18.389Z,Sam Bray
+Energie Fitness Cricklewood,Close Out Posts,true,2020-01-31T15:36:43.794Z,Tyler Landry
+Energie Fitness Cricklewood,Posted Close Out Campaign Organically ,true,2020-02-27T15:32:57.135Z,Tyler Landry
+Energie Fitness Cricklewood,Catch up call with Katie to discuss new campaign ideas - See conversations for details. ,true,2020-02-07T14:29:56.125Z,Tyler Landry
+Energie Fitness Cricklewood,PPC Report,true,2020-02-19T12:11:50.585Z,Sam Bray
+Energie Fitness Cricklewood,Set-up call with Katie to discuss strategy for March moving forward,false,,none
+Energie Fitness Cricklewood,"New Messaging Ads for ""Where you belong"" - Free Trial",true,2020-02-13T14:05:50.434Z,Tyler Landry
+Energie Fitness Cricklewood,Review and Optimise ,true,2020-02-27T16:49:14.851Z,Tyler Landry
+Energie Fitness Cricklewood,Get pixel set-up on new ad account. ,true,2020-02-13T12:26:04.677Z,Tyler Landry
+Energie Fitness Cricklewood,- Need a close out campaign for the last 3 days of Feb,true,2020-02-27T12:36:15.643Z,Tyler Landry
+Energie Fitness Cricklewood,Close Out Campaign - Creative (See Email),true,2020-02-26T11:32:49.048Z,none
+Energie Fitness Cricklewood,"- Need to look at lead gen, rather than day passes ",false,,none
+Energie Fitness Cricklewood,- Discussed using member data to run a referral campaign (TBC what this actually is),false,,none
+CJR Glass & Glazing,First meeting,true,2020-09-28T16:08:48.392Z,Sam Bray
+CJR Glass & Glazing,Form & send proposal based on what we know,true,2020-09-28T16:08:49.253Z,Sam Bray
+CJR Glass & Glazing,Receive scope doc from rep,true,2020-09-28T16:12:08.446Z,Sam Bray
+CJR Glass & Glazing,Fill in WC DevPlan: https://webcreationuk.website-development.systems/devplan/,true,2020-09-28T16:44:32.995Z,Sam Bray
+CJR Glass & Glazing,Client to fill out DD,true,2020-09-30T15:47:22.909Z,Sam Bray
+CJR Glass & Glazing,Accounts to set up 4 payments of £280+vat,true,2020-09-30T15:47:21.082Z,Sam Bray
+CJR Glass & Glazing,Brief meeting ,true,2020-10-13T13:51:16.461Z,Sam Bray
+CJR Glass & Glazing,Brief & planning​ Sign Off,true,2020-10-13T13:51:17.199Z,Sam Bray
+CJR Glass & Glazing,Complete site hierarchy,true,2020-10-01T09:56:13.234Z,Felipe Ponce
+CJR Glass & Glazing,Send hierarchy to client,true,2020-10-05T16:20:46.077Z,Sam Bray
+CJR Glass & Glazing,Complete hierarchy client amends,true,2020-10-12T10:43:59.397Z,Felipe Ponce
+CJR Glass & Glazing,Site hierarchy Sign Off​,true,2020-10-13T13:52:24.120Z,Sam Bray
+CJR Glass & Glazing,Complete in house wireframe,false,,Felipe Ponce
+CJR Glass & Glazing,Send to webcreation to complete their wireframing,false,,Felipe Ponce
+CJR Glass & Glazing,Wireframe first draft to client,false,,Sam Bray
+CJR Glass & Glazing,Wireframe client amends,false,,Felipe Ponce
+CJR Glass & Glazing,Wireframe sign off,false,,Sam Bray
+CJR Glass & Glazing,Receive live draft from web creation,false,,none
+CJR Glass & Glazing,Send LP amends to WC,false,,none
+CJR Glass & Glazing,Receive final first draft from web creation,false,,none
+CJR Glass & Glazing,Live build first draft to client​,false,,none
+CJR Glass & Glazing,Get client content,false,,none
+CJR Glass & Glazing,Receive client amends,false,,none
+CJR Glass & Glazing,Send client amends to web creation,false,,none
+CJR Glass & Glazing,Receive live draft #2 from web creation,false,,none
+CJR Glass & Glazing,Send live draft #2 to client ,false,,none
+CJR Glass & Glazing,Get live draft #2 client feedback,false,,none
+CJR Glass & Glazing,Final live amends to web creation,false,,none
+CJR Glass & Glazing,Live build amends complete,false,,none
+CJR Glass & Glazing,"Check site function on desktop, mobile & tablet",false,,none
+CJR Glass & Glazing,Check contact info formatting,false,,none
+CJR Glass & Glazing,Check padding & responsiveness of content,false,,none
+CJR Glass & Glazing,Live build sign off,false,,none
+CJR Glass & Glazing,Connect contact forms,false,,none
+CJR Glass & Glazing,"Set up GTM, GA, SC",false,,none
+CJR Glass & Glazing,"Set up basic call, email and live chat events in GTM",false,,none
+CJR Glass & Glazing,Set up CF7 listener in GTM,false,,none
+CJR Glass & Glazing,Set up goals from CF7 listener in GA,false,,none
+CJR Glass & Glazing,Final snagging & fixes,false,,none
+CJR Glass & Glazing,Complete live testing,false,,none
+CJR Glass & Glazing,SEO to start once new site is live,false,,Sam Bray
+Energie Fitness Cardiff Bay,Ads Need to be set-up (3 hrs),true,2019-11-13T10:08:19.355Z,Sam Bray
+Energie Fitness Cardiff Bay,Refine ads based on weekend data (0.5 hrs),true,2019-11-14T12:33:47.276Z,Sam Bray
+Energie Fitness Cardiff Bay,Gym Pass Creative -  0.5 Hours,true,2019-11-12T14:12:47.747Z,Tyler Landry
+Energie Fitness Cardiff Bay,Tyler Produced New Creative - 0.75 Hours,true,2019-11-13T10:10:13.002Z,Tyler Landry
+Energie Fitness Cardiff Bay,Some ads need better creative - TL/TC/SB to discuss,true,2019-11-19T10:47:42.351Z,Tyler Landry
+Energie Fitness Cardiff Bay,Ensure all auto messages have a response (0.5 hrs),true,2019-11-14T12:31:22.932Z,Sam Bray
+Energie Fitness Cardiff Bay,SB catch up call with Brian & Stella (0.5 hrs),true,2019-11-14T12:16:49.248Z,Sam Bray
+Energie Fitness Cardiff Bay,Add overlay on video adverts (1 hr) ,true,2019-11-13T10:08:16.926Z,Tyler Landry
+Energie Fitness Cardiff Bay,"Change creatives to all use ""FREE GUEST PASS"" as the CTA, then change budget on message campaign to £75 per day",true,2019-11-15T16:39:27.933Z,Sam Bray
+Energie Fitness Cardiff Bay,"Set up a lead gen advert, suggested the same as james, enquire for membership, enter into a free draw to win a membership & possible touch on free guest pass. ",true,2019-11-18T16:14:35.415Z,Tyler Landry
+Energie Fitness Cardiff Bay,[Book in next meeting] Wednesday onwards is the next catch up. ,true,2019-12-06T16:26:14.181Z,Sam Bray
+Energie Fitness Cardiff Bay,[dev management] Contact Brian and ask for an introduction to dev,true,2019-11-22T13:54:59.878Z,Tyler Landry
+Energie Fitness Cardiff Bay,PPC campaign set up - Energie Fitness Cardiff Bay,true,2020-02-19T12:10:42.278Z,none
+Energie Fitness Cardiff Bay,Send report - 22/11/19,true,2019-11-25T10:32:06.281Z,Sam Bray
+Energie Fitness Cardiff Bay,Sent Report - 15/11/19,true,2019-11-15T17:01:27.310Z,Sam Bray
+Energie Fitness Cardiff Bay,Created new FEMALE TARGET ad with new creative ,true,2020-01-03T11:28:43.868Z,Tyler Landry
+Energie Fitness Cardiff Bay,"GMB products to be loaded (log in via Sam's Google Account) ",true,2020-01-07T13:34:24.380Z,Tyler Landry
+Energie Fitness Cardiff Bay,Age group amendments made,true,2019-11-15T16:52:45.077Z,Sam Bray
+Energie Fitness Cardiff Bay,"Create Lead Generation Ad - Similar to James' ",true,2019-11-22T13:56:20.620Z,Tyler Landry
+Energie Fitness Cardiff Bay,Lead Gen - Black Friday ,true,2019-11-29T12:58:41.807Z,Tyler Landry
+Energie Fitness Cardiff Bay, Guest pass CTA needs adding to top slider,true,2019-12-06T14:21:06.495Z,Tyler Landry
+Energie Fitness Cardiff Bay, Facebook Pixel needs installing,true,2019-12-06T14:20:48.124Z,Tyler Landry
+Energie Fitness Cardiff Bay,Google My Business - Please provide access to the new account to sam@localpages.co.uk and tyler@localapges.co.uk.,true,2019-12-11T10:20:04.567Z,Tyler Landry
+Energie Fitness Cardiff Bay, Set up Free membership competition using lead gen forms,true,2019-12-06T14:20:40.195Z,Tyler Landry
+Energie Fitness Cardiff Bay,Lead generation campaign for guest passes,true,2020-01-06T15:18:46.671Z,Tyler Landry
+Energie Fitness Cardiff Bay,"Brian has left, get in contact with Stella",true,2020-01-03T10:13:35.342Z,Sam Bray
+Energie Fitness Cardiff Bay,Messages remove prices & change copy ,true,2020-01-06T12:39:48.418Z,Tyler Landry
+Energie Fitness Cardiff Bay, Boosted post on the 29th and 30th for Black Friday,true,2019-11-29T12:58:54.567Z,Tyler Landry
+Energie Fitness Cardiff Bay,"SB to send ""meeting"" email notes",true,2019-12-18T10:22:42.460Z,Sam Bray
+Energie Fitness Cardiff Bay,Updated Creative X 2 (Free Trial Pass - Man and Woman),true,2020-01-14T11:49:11.843Z,Tyler Landry
+Energie Fitness Cardiff Bay,Send Google Ads Email,true,2020-01-06T12:26:23.431Z,Sam Bray
+Energie Fitness Cardiff Bay,Amended artwork and copy on messaging ads,true,2019-12-12T17:03:18.302Z,Tyler Landry
+Energie Fitness Cardiff Bay,Refresh Copy on Message Ads,true,2019-12-06T14:20:40.195Z,Tyler Landry
+Energie Fitness Cardiff Bay,SEO Audit & Report  (Recommendations) ,true,2020-01-28T11:28:09.934Z,Sam Bray
+Energie Fitness Cardiff Bay,Catch up call,true,2020-01-06T12:26:12.620Z,Sam Bray
+Energie Fitness Cardiff Bay,Close Out Posts,true,2020-01-31T15:36:25.818Z,Tyler Landry
+Energie Fitness Cardiff Bay,Review Ads,true,2020-02-25T11:18:38.930Z,Tyler Landry
+Energie Fitness Cardiff Bay,Facebook Ads Need to Go Live - Account set-up included in this time and 3 adverts. ,true,2020-02-14T15:18:14.662Z,Tyler Landry
+Energie Fitness Cardiff Bay,Discuss March Strategy with Lee - Ongoing Lead Gen - Launch Event,true,2020-03-10T11:19:51.780Z,Tyler Landry
+Energie Fitness Cardiff Bay,Follow up on PIXEL,true,2020-03-10T14:55:25.290Z,Tyler Landry
+Energie Fitness Cardiff Bay,PPC Campaign - Review SB,true,2020-02-19T12:08:56.561Z,Sam Bray
+Energie Fitness Cardiff Bay,Flagged Bad Reviews,true,2020-02-17T09:36:25.952Z,Sam Bray
+Energie Fitness Kettering,HM FITNESS LTD. (Mohammed Iliyas)  - Refund Immediately ,true,2020-05-12T08:01:09.085Z,Tyler Landry
+Energie Fitness Kettering,Refreshed Lead Gen - New Class Timetable Mentioned in Copy and New Creative,true,2020-03-10T14:56:47.025Z,Tyler Landry
+Energie Fitness Kettering,Gain Google Analytics Access (EF HQ),true,2020-03-12T11:14:05.568Z,Sam Bray
+Energie Fitness Kettering,Google Display Update - Replaced Flashing Images,true,2020-02-07T09:55:54.478Z,Tyler Landry
+Energie Fitness Kettering,Set up retargeting audience and campaign to target website visitors,true,2020-02-17T11:52:32.297Z,none
+Energie Fitness Kettering,Traffic Campaign - Turn off Beat The Price Large Audience Conversion and Make Traffic (Keep Retarget),true,2020-03-18T16:56:57.305Z,Tyler Landry
+Energie Fitness Kettering,Set up FB retarget,true,2020-02-06T14:51:24.279Z,none
+Energie Fitness Kettering,"Set up different audiences (weight lifting, cadio, OCR, general, female only)",true,2020-02-14T17:00:22.773Z,Tyler Landry
+Energie Fitness Kettering,Optimise GMB,true,2020-03-03T12:52:09.514Z,Tyler Landry
+Energie Fitness Kettering,PPC Google Ads Set Up,true,2020-02-07T10:50:09.453Z,none
+Energie Fitness Kettering,Ensure day pass online button is added to website ,true,2020-01-28T15:39:01.019Z,Tyler Landry
+Energie Fitness Kettering,Combine GMB Listings - Spoke with Google Support - Shared Review Link With Mohammed,true,2020-02-14T10:12:52.278Z,Tyler Landry
+Energie Fitness Kettering,Set up FB Reporting,true,2020-02-12T11:34:20.104Z,Sam Bray
+Energie Fitness Kettering,Set-up Pixel Integration ,true,2020-02-04T11:09:27.450Z,Tyler Landry
+Energie Fitness Kettering,Set-up initial Lead Generation Campaign ,true,2020-02-06T09:33:13.584Z,Tyler Landry
+Energie Fitness Kettering,Google Display Network ,true,2020-02-06T17:04:55.843Z,none
+Energie Fitness Kettering,Add current members to an exclusion list,true,2020-02-06T09:32:57.156Z,Tyler Landry
+Energie Fitness Kettering,Audience Set-Up,true,2020-02-06T09:32:46.543Z,Tyler Landry
+Energie Fitness Kettering,Access FB Page,true,2020-01-28T15:36:38.577Z,Tyler Landry
+Energie Fitness Kettering,Google Ads amends,true,2020-02-17T11:52:39.413Z,none
+Energie Fitness Kettering,Access FB  Ads Account ID,true,2020-01-28T15:36:38.577Z,Tyler Landry
+Energie Fitness Kettering,Access Google Ads Account,true,2020-01-30T13:31:52.952Z,Sam Bray
+Energie Fitness Kettering,PPC Management,false,,none
+Energie Fitness Kettering,FACEBOOK: Close out offer,true,2020-02-27T12:25:53.390Z,Tyler Landry
+Energie Fitness Kettering,PPC Management - Energie Fitness Kettering,false,,none
+Energie Fitness Kettering,Traffic Advert - In review - check to ensure all is approved. ,true,2020-03-24T11:55:19.237Z,Tyler Landry
+Energie Fitness Kettering,Referral Program - Organic Post - Facebook Page Likes and Friends Of (ON HOLD UNTIL HATIM RECEIVES NEW MARKETING),false,,none
+Energie Fitness Kettering,Amended Facebook Ad to Focus on (From £16.99) - Hatim Called In,true,2020-02-11T11:15:32.000Z,Tyler Landry
+Energie Fitness Kettering,"- Conversion ads to become ""beat the price"" in the creative. ",true,2020-03-10T15:37:47.940Z,Tyler Landry
+Energie Fitness Kettering,Answered Query,true,2020-02-17T09:29:44.032Z,Sam Bray
+Energie Fitness Kettering,Payment Set-up,true,2020-01-28T10:14:51.748Z,Tyler Landry
+Energie Fitness Kettering,"- ""New class timetable coming soon"" to also be mentioned in creative/ad copy",true,2020-03-10T14:56:26.728Z,Tyler Landry
+Energie Fitness Kettering,"Driving Conversions 'Beat The Price' - Created New Wider Reaching Audience Geared at Conversions per Hatim's Request (20£ toward this)",true,2020-03-11T12:36:59.352Z,Tyler Landry
+Energie Fitness Kettering,Renew Monthly Digital Marketing Retainer Invoice,true,2020-03-26T10:14:20.977Z,Tyler Landry
+Energie Fitness Kettering,Refund P9447? Is this the April invoice. ,true,2020-04-08T08:50:12.969Z,Tyler Landry
+Energie Fitness St Mellons Cardiff,Faffing about to between Personal Ad and Business Accounts ,true,2020-01-21T11:43:33.106Z,Tyler Landry
+Energie Fitness St Mellons Cardiff,Energie FItness Cardiff Logo Creation,true,2020-01-13T15:09:08.902Z,none
+Energie Fitness St Mellons Cardiff,Social Media Post ,true,2019-11-21T14:30:24.968Z,Tyler Landry
+Energie Fitness St Mellons Cardiff,I need to change the YARD messages as certain classes are only for full members,true,2019-11-15T16:37:28.137Z,Sam Bray
+Energie Fitness St Mellons Cardiff,Need to set up the Newport campaign group - Set up campaign to target the gym group,true,2019-11-15T12:57:56.389Z,Tyler Landry
+Energie Fitness St Mellons Cardiff,Happy to us to deal with energie devs to get the pixel working,true,2019-12-11T10:27:21.873Z,Tyler Landry
+Energie Fitness St Mellons Cardiff,Ads need to be set-up - 4 hours ,true,2019-11-12T14:18:49.766Z,Tyler Landry
+Energie Fitness St Mellons Cardiff,Tyler Produced New Creative -  0.75,true,2019-11-13T10:09:52.075Z,Tyler Landry
+Energie Fitness St Mellons Cardiff,Look into broadcast messaging with data collected,true,2020-03-10T09:50:18.911Z,Sam Bray
+Energie Fitness St Mellons Cardiff,Set up campaign to target Newport gym group (the one thats closing),true,2019-11-11T14:05:29.066Z,none
+Energie Fitness St Mellons Cardiff,Create lead generation advert - 0.5 Hours,true,2019-11-13T15:34:28.003Z,Tyler Landry
+Energie Fitness St Mellons Cardiff,Close down the comps for free membership,true,2019-11-15T12:07:51.942Z,Tyler Landry
+Energie Fitness St Mellons Cardiff,Run a new comp for a free membership (lead gen post) - waiting on FB approval,true,2019-11-21T14:30:54.017Z,Tyler Landry
+Energie Fitness St Mellons Cardiff,Write schedule for organic posting,true,2019-12-11T10:27:38.176Z,Tyler Landry
+Energie Fitness St Mellons Cardiff,Change copy on messages and send to James for proofing,true,2019-11-15T16:38:10.989Z,Sam Bray
+Energie Fitness St Mellons Cardiff,Set up ad reporting,true,2019-11-26T16:46:57.399Z,Sam Bray
+Energie Fitness St Mellons Cardiff,Send report - 22/11/19,true,2019-11-25T17:15:51.889Z,Sam Bray
+Energie Fitness St Mellons Cardiff,Send report - 15/11/19,true,2019-11-15T17:02:05.098Z,Sam Bray
+Energie Fitness St Mellons Cardiff,Lee to be added to LP Digital management account and provided access to James’ Account ID,true,2019-11-27T12:18:14.310Z,Tyler Landry
+Energie Fitness St Mellons Cardiff, Tyler chasing Oleg re. website pixel (to cc Lee),true,2019-11-26T16:46:03.478Z,Tyler Landry
+Energie Fitness St Mellons Cardiff, Lee to provide sam@localpages.co.uk and tyler@localpages.co.uk access to Energie Cardiff Google Analytics account,true,2019-11-27T12:18:26.761Z,none
+Energie Fitness St Mellons Cardiff,Call with EF St Mellons,true,2019-11-26T16:44:52.371Z,Sam Bray
+Energie Fitness St Mellons Cardiff,Set up retargeting FB ads - Done and artwork created,true,2020-01-13T14:35:26.516Z,Tyler Landry
+Energie Fitness St Mellons Cardiff,FB Retargeting creative - Dream GYM/Hurry Final Spaces,true,2020-01-13T14:25:52.949Z,Tyler Landry
+Energie Fitness St Mellons Cardiff,Social Media Post - Join WOW membership,true,2019-11-19T12:40:57.721Z,Tyler Landry
+Energie Fitness St Mellons Cardiff, LP Digital to set up “Advent Calendar” promo using organic posts and boosts,true,2019-12-09T12:19:03.692Z,Tyler Landry
+Energie Fitness St Mellons Cardiff,Compile strategy up to 12th March & email to James,true,2020-02-07T11:57:27.957Z,Sam Bray
+Energie Fitness St Mellons Cardiff,Advent Calendar Coming Soon Post,true,2019-11-29T12:58:44.661Z,Tyler Landry
+Energie Fitness St Mellons Cardiff,"GMB product load  (log in via Sam's Google Account)",true,2020-01-07T14:35:11.913Z,Tyler Landry
+Energie Fitness St Mellons Cardiff,Change lead gen FB creative,true,2020-01-13T14:34:58.577Z,Tyler Landry
+Energie Fitness St Mellons Cardiff,Social Media - Post ,true,2020-02-06T15:54:40.783Z,Tyler Landry
+Energie Fitness St Mellons Cardiff,Plan & time allocation for a organic campaign (say 2 posts per week across Insta & Facebook),true,2020-01-17T16:11:03.464Z,Tyler Landry
+Energie Fitness St Mellons Cardiff,"Speak to James about Launch, Party, Campaigns, etc...",true,2020-01-03T10:16:42.541Z,Sam Bray
+Energie Fitness St Mellons Cardiff,Exclude CF24 from audiences,true,2019-12-11T13:56:29.015Z,Sam Bray
+Energie Fitness St Mellons Cardiff,Posts now live on New Account (Lead Gen & Re-target),true,2020-01-21T14:14:32.586Z,Tyler Landry
+Energie Fitness St Mellons Cardiff,Social Media - Post ,true,2020-02-12T12:42:45.777Z,Tyler Landry
+Energie Fitness St Mellons Cardiff,Reporting on the campaign and creation of Exclusion Audiences ,true,2020-01-20T12:23:37.825Z,Tyler Landry
+Energie Fitness St Mellons Cardiff,"Edit James's source code email (see comments for instructions)",true,2020-02-26T11:16:29.211Z,Tom Strat
+Energie Fitness St Mellons Cardiff,Modify launch date from 14th to 13th (Art + Ad updates),true,2020-02-24T17:02:23.628Z,none
+Energie Fitness St Mellons Cardiff,"Use messaging (Lead Gen, Number, Email, Post Code).",true,2020-02-07T15:57:15.660Z,Tyler Landry
+Energie Fitness St Mellons Cardiff,Prospect retarget - (1 Conversion),true,2020-02-07T16:24:57.506Z,Tyler Landry
+Energie Fitness St Mellons Cardiff,"Change Facebook page name to ""Energie Fitness St Mellons, Cardiff""",true,2020-03-09T15:45:22.430Z,Tyler Landry
+Energie Fitness St Mellons Cardiff,Ad Copy Notes,true,2020-03-19T12:51:43.231Z,Tyler Landry
+Energie Fitness St Mellons Cardiff,Design and post ads,true,2020-02-20T12:45:13.655Z,none
+Energie Fitness St Mellons Cardiff,Set PM schedule (TL) ,true,2020-03-17T13:22:57.858Z,Tyler Landry
+Energie Fitness St Mellons Cardiff,Design creative (TL) ,true,2020-03-17T15:01:54.469Z,Tyler Landry
+Energie Fitness St Mellons Cardiff, Set up FB/Insta advert structure (TL) ,true,2020-03-17T13:22:54.123Z,Tyler Landry
+Energie Fitness St Mellons Cardiff, Set up Whatsapp group (SB),true,2020-03-16T15:05:59.347Z,Sam Bray
+Energie Fitness St Mellons Cardiff," Change CTA on website, day pass (JK)",true,2020-03-16T15:06:23.877Z,none
+Energie Fitness St Mellons Cardiff,Messaging Ad,true,2020-03-17T13:22:18.070Z,Tyler Landry
+Energie Fitness Streatham,Create Post with Child Care Design,true,2020-03-04T11:56:05.015Z,Tyler Landry
+Energie Fitness Streatham,Yoga Messages not working ... try and set up as an FB event?,true,2020-01-27T12:02:19.861Z,Tyler Landry
+Energie Fitness Streatham,Follow Up on Pixel Integration,true,2020-01-06T10:17:18.911Z,Tyler Landry
+Energie Fitness Streatham,"Lead Gen , 1 year free comp",true,2020-02-26T15:43:00.528Z,Tyler Landry
+Energie Fitness Streatham,Requested Pixel Access,true,2020-01-02T14:35:00.411Z,Tyler Landry
+Energie Fitness Streatham,Could we warm the leads up? Questions in comments? M/C,true,2020-02-27T11:49:30.514Z,Tyler Landry
+Energie Fitness Streatham,Requested Homepage Modifications ,true,2020-01-02T14:35:26.537Z,Tyler Landry
+Energie Fitness Streatham,Follow UP on Landing Page Amends ,true,2020-01-21T11:05:02.617Z,Tyler Landry
+Energie Fitness Streatham,Create Facebook Campaign ,true,2019-12-20T15:48:40.461Z,Tyler Landry
+Energie Fitness Streatham,Google Ads Account - Inital Set-up,true,2020-01-08T16:54:13.441Z,Tyler Landry
+Energie Fitness Streatham,Set up PPC Campaign - 826-916-5098,true,2020-01-22T10:23:48.106Z,Sam Bray
+Energie Fitness Streatham,Set up reporting,true,2019-12-20T19:06:29.290Z,Sam Bray
+Energie Fitness Streatham,Claim GMB Listing,true,2020-01-16T15:41:32.600Z,Tyler Landry
+Energie Fitness Streatham,Optimise GMB Listing,true,2020-01-22T11:42:44.703Z,Tyler Landry
+Energie Fitness Streatham,Set up Facebook Retarget campaign,true,2020-01-13T16:11:20.679Z,Tyler Landry
+Energie Fitness Streatham,Create FB Audience - I.e. Likes Gym Group & Fitness First,true,2020-01-23T13:19:56.638Z,Tyler Landry
+Energie Fitness Streatham,Added Landing Page Amends to Shared Sheet and Sent Email,true,2020-01-16T15:42:04.534Z,Tyler Landry
+Energie Fitness Streatham,PPC Review & Edit - SB,true,2020-01-02T13:42:28.820Z,Sam Bray
+Energie Fitness Streatham,Create Shared Folder For All Creative,true,2020-01-06T15:18:21.368Z,Tyler Landry
+Energie Fitness Streatham,Free Yoga Classes - Creative and Ad Set-up ,true,2020-01-24T12:39:29.243Z,Tyler Landry
+Energie Fitness Streatham,Changed audience location target & adjusted budget,true,2020-01-16T13:04:45.302Z,Sam Bray
+Energie Fitness Streatham,Ladies Only Creative ,true,2020-01-28T17:04:11.268Z,Tyler Landry
+Energie Fitness Streatham,Follow up on Social Media Channels on Landing Page,true,2020-01-23T13:20:32.676Z,Tyler Landry
+Energie Fitness Streatham,Design 1x1 post for Instagram,true,2020-02-20T12:18:00.811Z,none
+Energie Fitness Streatham,Did Post Code Analysis and Updated Member Exclusion List ,true,2020-03-06T11:19:13.899Z,Tyler Landry
+Energie Fitness Streatham,Refund Payment for April £480.00 ,true,2020-04-08T08:20:53.395Z,Tyler Landry
+Energie Fitness Streatham,Remove April Invoice ,true,2020-07-23T08:25:35.177Z,Sam Bray
+Energie Fitness Streatham,Subscription paused in GoCardless,true,2020-04-01T08:35:00.613Z,Tyler Landry
+Energie Fitness Streatham,Amend Child Care Design,true,2020-02-25T14:49:49.192Z,none
+Energie Fitness Streatham,PPC Management,true,2020-02-17T11:52:13.197Z,none
+Energie Fitness Streatham,PPC Management - Energie Fitness Streatham,true,2020-03-23T13:08:57.202Z,none
+Energie Fitness Streatham,PPC Management - Energie Fitness Streatham,false,,none
+Energie Fitness Streatham,EF Streatham (PPC) Set up Google Ads Retarget Audience,false,,none
+Energie Fitness Streatham,Set up Google Display Network Creative - Felipe  ,true,2020-02-25T09:37:29.420Z,none
+Energie Fitness Streatham,New Messaging Adverts,true,2020-03-13T12:22:57.425Z,Tyler Landry
+Energie Fitness Streatham,Set up FB business manager,true,2020-02-13T17:01:25.956Z,Tyler Landry
+Energie Fitness Streatham,"Contacted Black Sun as their is an error on the site (£15.99 price point, should be £19.99)",true,2020-02-07T16:55:52.138Z,Tyler Landry
+Energie Fitness Streatham,Close Out Posts,true,2020-01-31T15:37:01.778Z,none
+Energie Fitness Streatham,New Lead Generation Advert,true,2020-02-14T15:28:38.723Z,Tyler Landry
+Energie Fitness Streatham,Create audiences and ads in the new ad account!!! ,true,2020-02-14T15:28:21.422Z,Tyler Landry
+Energie Fitness Streatham,45 minutes  to create 2 graphics and ad them on Facebook,true,2020-02-06T17:02:44.936Z,none
+Energie Fitness Streatham,"EF Streatham (PPC) Change Ad Copy - as per SB's email",true,2020-03-20T18:00:59.588Z,none
+Energie Fitness Streatham,Follow Up on Pixel ,true,2020-02-21T14:47:47.445Z,Tyler Landry
+Energie Fitness Streatham,Change Creative - 1 Year Free Campaign - Female Only and General Messages ,true,2020-02-07T16:55:52.138Z,Tyler Landry
+Energie Fitness Streatham,Update Location Targets ,true,2020-02-21T14:38:57.623Z,Tyler Landry
+Energie Fitness Streatham,New Advert to Build Audience,true,2020-03-18T12:51:39.716Z,Tyler Landry
+Energie Fitness Streatham,"Mother's Day Advert and Refresh of Previous Ads",true,2020-03-05T11:06:41.100Z,Tyler Landry
+Energie Fitness Streatham,"Mother's Day Creatvie & Past Creatives Updated ",true,2020-03-05T11:06:13.342Z,none
+Energie Fitness Streatham, Run a retargeting campaign that encourages users of your website to send messages and ask questions via Facebook (this has show success with other gyms),true,2020-03-18T12:52:02.747Z,Tyler Landry
+Energie Fitness Streatham," Conversion advert, retargeting campaign to encourage online sign up",true,2020-03-18T12:33:36.703Z,Tyler Landry
+Energie Fitness Thornton Heath,Set-up Pixel Integration ,true,2020-01-16T17:10:45.944Z,Tyler Landry
+Energie Fitness Thornton Heath,Audience Set-Up,true,2020-01-10T13:50:44.632Z,Tyler Landry
+Energie Fitness Thornton Heath,Set-up Audience - General ,true,2020-01-10T17:00:45.936Z,Tyler Landry
+Energie Fitness Thornton Heath,Access FB Page,true,2020-01-10T12:51:27.326Z,Tyler Landry
+Energie Fitness Thornton Heath,Access FB  Ads Account ID,true,2020-01-10T12:51:27.326Z,Tyler Landry
+Energie Fitness Thornton Heath,Access Google Ads Account,true,2020-01-10T12:51:26.471Z,Sam Bray
+Energie Fitness Thornton Heath,Set up FB Reporting,true,2020-01-20T16:06:54.769Z,Sam Bray
+Energie Fitness Thornton Heath,1.5 Hours of My Time Wasted (What is wrong with this account),true,2020-01-10T17:01:41.339Z,Tyler Landry
+Energie Fitness Thornton Heath,Gain Google Analytics Access,true,2020-02-12T11:47:35.731Z,Sam Bray
+Energie Fitness Thornton Heath,Set-up initial Lead Generation Campaign (Walk Des through Payment Integration),true,2020-01-13T10:41:57.624Z,Tyler Landry
+Energie Fitness Thornton Heath,Google My Business - Request sent to manage the listing. Sent ,true,2020-02-26T12:30:10.277Z,Tyler Landry
+Energie Fitness Thornton Heath,See PROGRESS report dated 20th Jan - Tasks to be added here,true,2020-01-21T09:41:31.935Z,Tyler Landry
+Energie Fitness Thornton Heath,Phone Call to Discuss Lead Capture ,true,2020-01-14T09:45:04.550Z,Tyler Landry
+Energie Fitness Thornton Heath,Google my business - Optimise the listing,true,2020-03-10T14:53:48.020Z,Tyler Landry
+Energie Fitness Thornton Heath,Budget change review and recommendations,true,2020-01-20T11:40:06.084Z,Sam Bray
+Energie Fitness Thornton Heath,Google Ads Set Up,true,2020-01-23T15:57:04.370Z,ollie
+Energie Fitness Thornton Heath,Set up re-targeting audience and display campaign ,true,2020-02-17T11:52:42.300Z,none
+Energie Fitness Thornton Heath,Set up FB retarget,true,2020-02-06T15:12:35.680Z,Tyler Landry
+Energie Fitness Thornton Heath,PPC Management,true,2020-02-17T11:52:11.956Z,none
+Energie Fitness Thornton Heath,PPC Management - Energie Fitness Thornton Heath,true,2020-07-23T08:40:24.650Z,none
+Energie Fitness Thornton Heath,PPC Management - Energie Fitness Thornton Heath,true,2020-07-23T08:40:31.300Z,none
+Energie Fitness Thornton Heath,PPC Management - Energie Fitness Thornton Heath,true,2020-07-23T08:40:38.151Z,none
+Energie Fitness Thornton Heath,PPC Management - Energie Fitness Thornton Heath,true,2020-07-23T08:40:44.283Z,none
+Energie Fitness Thornton Heath,Ensure enquire online button is added to website (Requested - 21/1),true,2020-01-23T13:13:09.582Z,Tyler Landry
+Energie Fitness Thornton Heath,Move Ad Budget to £100 a day for Monday and Tuesday ,true,2020-02-05T10:38:23.392Z,Tyler Landry
+Energie Fitness Thornton Heath,Amended spend and adjusted campaign to £55 for Lead Generation and £5 for Retarget,true,2020-01-23T13:07:56.801Z,Tyler Landry
+Energie Fitness Thornton Heath,"Updates Win a Free Year Membership Creative - Current Creative Lead Gen Cost Rising (£3.77 Meg Creative, £4.93 Energie Creative)",true,2020-02-12T15:20:42.670Z,Tyler Landry
+Energie Fitness Thornton Heath,Add Postcodes CR4 1 & SW16 5,true,2020-02-05T16:53:03.148Z,Tyler Landry
+Energie Fitness Thornton Heath,Review Call with Des ,true,2020-03-12T11:17:46.709Z,Tyler Landry
+Energie Fitness Thornton Heath,"Add Post Codes SE19 3, CR0 4, SE25 4",true,2020-02-05T10:39:01.944Z,Tyler Landry
+Energie Fitness Thornton Heath,"Add split test with Lee's competitor interest idea",true,2020-02-06T15:07:05.529Z,Tyler Landry
+Energie Fitness Thornton Heath,"New Advert Created and Campaign Set for Mother's Day ",true,2020-03-05T13:02:43.119Z,Tyler Landry
+Energie Fitness Thornton Heath,"Posted Mother's Day Post Organically ",true,2020-03-12T11:18:12.714Z,Tyler Landry
+Energie Fitness Thornton Heath,Close Out Posts,true,2020-01-31T15:37:22.742Z,Tyler Landry
+Energie Fitness Thornton Heath,Conversion Advert- £5.00,true,2020-03-11T16:47:17.036Z,Tyler Landry
+Energie Fitness Thornton Heath,Audience Builder - £20.00,true,2020-03-11T16:47:16.369Z,Tyler Landry
+Energie Fitness Thornton Heath,Conference call with Des ,true,2020-04-02T09:57:21.184Z,Tyler Landry
+Energie Fitness Thornton Heath,Review Campaign ,true,2020-03-24T13:01:54.403Z,Tyler Landry
+Energie Fitness Thornton Heath," CORONA call with Des - Friday March, 20th",true,2020-03-20T11:57:46.332Z,Tyler Landry
+Energie Fitness Thornton Heath,Amended Adverts to focus (JOIN NOW PAY NOTHING) ,true,2020-03-18T15:32:19.625Z,Tyler Landry
+Energie Fitness Thornton Heath,Review & Restructure PPC Campaign,true,2020-07-22T15:18:27.226Z,Sam Bray
+Energie Fitness Thornton Heath,Add Audience targeting Campaign,true,2020-10-14T22:22:49.344Z,Sam Bray
+Energie Fitness Thornton Heath,Make ad copy amends for 30th launch date,true,2020-09-16T09:14:12.549Z,Sam Bray
+Energie Fitness Thornton Heath,"Set all ads to be turned off as of 11:59 PM, September 29th.",true,2020-09-29T10:02:15.232Z,Tyler Landry
+Energie Fitness Thornton Heath,Updated Lead Generation for September 30th ,true,2020-09-23T09:19:45.955Z,Tyler Landry
+Energie Fitness Thornton Heath,Create new Grand-Opening Ad,true,2020-09-10T10:42:31.799Z,Tyler Landry
+Energie Fitness Thornton Heath,Updated Current Member List (September 3rd 2020),true,2020-09-03T10:14:44.276Z,Tyler Landry
+Energie Fitness Thornton Heath,Check in on results ,true,2020-08-26T12:38:01.313Z,Tyler Landry
+Energie Fitness Thornton Heath,Design creative - Tyler (Two Pieces Competition and General),true,2020-07-22T13:31:37.752Z,Tyler Landry
+Energie Fitness Thornton Heath,Set up new ad sets/ads,true,2020-07-22T14:00:17.131Z,Tyler Landry
+Fit My Floor,Review Fit My Floor ,true,2019-10-07T15:05:21.487Z,Tyler Landry
+Fit My Floor,Onsite SEO work (see attached PDF/SEMrush),false,,Tom Strat
+Fit My Floor,Strategy work and pass to WC,true,2020-09-17T10:08:57.967Z,Sam Bray
+Fit My Floor,Bristol Landing Page - Changed Meta (It was wrong),true,2020-08-20T10:58:57.576Z,Tyler Landry
+Fit My Floor,Need Content from May from UpUgo,true,2020-08-11T14:52:52.771Z,Sam Bray
+Fit My Floor,Notice with upugo ,true,2020-07-22T09:20:56.923Z,ollie
+Fit My Floor,Implement Laminate Content,true,2020-05-07T12:18:33.077Z,Tyler Landry
+Fit My Floor,Implement online shop content,true,2020-05-07T12:17:26.295Z,Tyler Landry
+Fit My Floor,7MM - Content Implement ,true,2020-05-07T11:10:51.984Z,Tyler Landry
+Fit My Floor,Implement Accessories Content,true,2020-05-07T12:18:34.866Z,Tyler Landry
+Fit My Floor,Revised SEO proposal for national ranking incoming,true,2020-05-07T11:48:52.980Z,Sam Bray
+Fit My Floor,Send content plan to Biff,true,2020-04-29T09:17:11.810Z,Sam Bray
+Fit My Floor,Review content  - Cormar Carpets,true,2020-04-07T15:15:24.856Z,Tyler Landry
+Fit My Floor,Review content  - Artificial Grass (Cardiff and Swansea),true,2020-04-08T15:33:30.287Z,Tyler Landry
+Fit My Floor,Review content - Fitting Floor Somerset,true,2020-04-07T16:00:29.232Z,Tyler Landry
+Fit My Floor,Review Content - Flooring in Bristol ,true,2020-04-08T11:12:43.704Z,Tyler Landry
+Fit My Floor,P9441 - Outstanding Invoice - Hosting - September 2019 - August 2019,true,2020-04-16T08:08:31.761Z,Tyler Landry
+Fit My Floor,P9435 (Now P9507) - Online Shop Development Project - £480.00 (Outstanding)- Now £720 ,true,2020-04-16T08:08:01.389Z,Tyler Landry
+Fit My Floor,Renew Web Development/SEO Retainer,true,2020-03-26T10:36:06.716Z,Tyler Landry
+Fit My Floor,Renew Web Development/SEO Retainer,true,2020-04-29T08:23:47.981Z,Tyler Landry
+Fit My Floor,Renew Web Development/SEO Retainer,true,2020-05-22T11:16:38.717Z,Tyler Landry
+Fit My Floor,Renew Web Development/SEO Retainer,true,2020-07-15T08:42:00.247Z,Tyler Landry
+Fit My Floor,Renew Hosting Invoice ,true,2020-08-25T09:27:29.451Z,Tyler Landry
+Fit My Floor,Renew Hosting Invoice ,false,,Sam Bray
+Fit My Floor,Monthly Report,true,2020-02-03T11:12:54.783Z,Sam Bray
+Fit My Floor,Monthly Report,true,2020-05-01T14:37:19.915Z,Sam Bray
+Fit My Floor,Monthly Report,true,2020-05-01T14:37:27.505Z,Sam Bray
+Fit My Floor,Monthly Report,true,2020-05-01T14:37:35.891Z,Sam Bray
+Fit My Floor,Monthly Report,true,2020-07-22T09:21:03.893Z,Sam Bray
+Fit My Floor,Monthly Report,true,2020-07-22T15:26:15.585Z,Sam Bray
+Fit My Floor,Monthly Report,true,2020-08-11T14:53:02.525Z,Sam Bray
+Fit My Floor,Monthly Report,true,2020-09-17T10:22:23.407Z,Sam Bray
+Fit My Floor,Monthly Digital Marketing Report,false,,Sam Bray
+Fit My Floor,Create Content Idea - Times 2,true,2019-09-11T13:05:42.812Z,Tyler Landry
+Fit My Floor,Create Content Idea - Times 2,true,2019-10-28T11:17:42.154Z,Tyler Landry
+Fit My Floor,Create Content Idea - Times 2,true,2019-11-12T12:30:45.272Z,Tyler Landry
+Fit My Floor,Submit Content,true,2019-09-11T13:05:45.439Z,Tyler Landry
+Fit My Floor,Out of Stock Products ,true,2019-08-28T10:34:41.057Z,none
+Fit My Floor,Review Content,true,2019-09-23T15:10:13.595Z,Tyler Landry
+Fit My Floor,Implement Content,true,2019-09-23T15:10:17.840Z,Tyler Landry
+Fit My Floor,Upload Products to the Artificial Grass Page ,true,2019-08-28T10:34:44.345Z,none
+Fit My Floor,Organise hours and schedule for October,true,2019-10-15T14:24:28.622Z,Tyler Landry
+Fit My Floor,Ensure text is a consistent size across the site and not too small,true,2019-09-30T13:40:19.237Z,Tom Strat
+Fit My Floor,Monthly Reporting ,true,2019-11-28T11:34:58.909Z,Tyler Landry
+Fit My Floor,Change theme to light rather than dark on LVT page,true,2019-09-30T12:03:36.913Z,Tom Strat
+Fit My Floor,Site speed improvements,true,2019-09-30T14:17:43.670Z,Tom Strat
+Fit My Floor,Grass Page Mobile adjustments,true,2019-10-15T14:25:28.840Z,none
+Fit My Floor,Blog is a wrongen,true,2019-10-31T10:55:25.316Z,none
+Fit My Floor,Optimise GMB Listing ,true,2019-10-28T11:18:32.905Z,Tyler Landry
+Fit My Floor,Staircase with laminate risers - Estimated 3-4 Hours - James,true,2019-12-11T10:34:37.066Z,ollie
+Fork n Ale,Add Message to Homepage (Match current site Theme),true,2020-09-15T12:51:32.854Z,Tom Strat
+Fork n Ale,First meeting,true,2020-09-11T08:28:00.310Z,Amy Carlin
+Fork n Ale,Form & send proposal based on what we know,true,2020-09-11T08:27:59.757Z,Amy Carlin
+Fork n Ale,Client to fill out DD,true,2020-09-17T08:09:57.993Z,Amy Carlin
+Fork n Ale,Accounts to set up 3 payments of £480 (inc VAT),true,2020-09-17T08:10:00.270Z,Amy Carlin
+Fork n Ale,Brief meeting (Friday 10am),true,2020-09-11T12:27:12.858Z,Amy Carlin
+Fork n Ale,Brief & planning​ Sign Off,true,2020-09-17T08:10:04.727Z,Tom Strat
+Fork n Ale,Complete site hierarchy inhouse ,true,2020-09-17T08:10:25.823Z,Tyler Landry
+Fork n Ale,Send hierarchy to client,true,2020-09-17T08:10:29.810Z,Amy Carlin
+Fork n Ale,Complete hierarchy client amends,true,2020-09-23T09:26:12.500Z,Tyler Landry
+Fork n Ale,Site hierarchy Sign Off​,true,2020-09-22T09:34:18.396Z,Amy Carlin
+Fork n Ale,Complete in house wireframe,true,2020-09-22T14:09:09.085Z,Tom Strat
+Fork n Ale,Wireframe first draft to client,true,2020-09-29T09:50:14.196Z,Amy Carlin
+Fork n Ale,Wireframe client amends,true,2020-09-29T09:50:18.923Z,Tom Strat
+Fork n Ale,Wireframe sign off,true,2020-10-06T13:26:08.972Z,Sam Bray
+Fork n Ale,Build live draft (in house),false,,Tom Strat
+Fork n Ale,Live build first draft to client​,false,,Amy Carlin
+Fork n Ale,Get client content,true,2020-10-06T13:28:33.419Z,none
+Fork n Ale,Receive client amends,false,,Amy Carlin
+Fork n Ale,Send live draft #2 to client ,false,,Amy Carlin
+Fork n Ale,Get live draft #2 client feedback,false,,Amy Carlin
+Fork n Ale,Live build amends complete,false,,Tom Strat
+Fork n Ale,"Check site function on desktop, mobile & tablet",false,,none
+Fork n Ale,Check contact info formatting,false,,none
+Fork n Ale,Check padding & responsiveness of content,false,,none
+Fork n Ale,Live build sign off,false,,none
+Fork n Ale,Connect contact forms,false,,none
+Fork n Ale,"Set up GTM, GA, SC",false,,none
+Fork n Ale,"Set up basic call, email and live chat events in GTM",false,,none
+Fork n Ale,Set up CF7 listener in GTM,false,,none
+Fork n Ale,Set up goals from CF7 listener in GA,false,,none
+Fork n Ale,Final snagging & fixes,false,,none
+Fork n Ale,Complete live testing,false,,none
+Harris Surfacing Ltd 47497,First meeting,true,2020-10-01T09:27:42.860Z,none
+Harris Surfacing Ltd 47497,Form & send proposal based on what we know,true,2020-10-01T09:27:44.149Z,none
+Harris Surfacing Ltd 47497,Receive scope doc from rep,true,2020-10-01T09:27:47.253Z,Sam Bray
+Harris Surfacing Ltd 47497,Fill in WC DevPlan: https://webcreationuk.website-development.systems/devplan/,true,2020-10-14T07:57:38.687Z,Sam Bray
+Harris Surfacing Ltd 47497,Client to fill out DD,true,2020-10-01T10:13:37.014Z,Sam Bray
+Harris Surfacing Ltd 47497,Accounts to set up 6 payments of £599,true,2020-10-05T12:39:41.012Z,Sam Bray
+Harris Surfacing Ltd 47497,Brief meeting ,true,2020-10-14T07:57:42.294Z,Sam Bray
+Harris Surfacing Ltd 47497,Brief & planning​ Sign Off,false,,Sam Bray
+Harris Surfacing Ltd 47497,Complete site hierarchy,true,2020-10-06T11:19:13.225Z,Felipe Ponce
+Harris Surfacing Ltd 47497,Send hierarchy to client,true,2020-10-14T08:00:03.306Z,Sam Bray
+Harris Surfacing Ltd 47497,Complete hierarchy client amends,true,2020-10-14T12:12:55.837Z,Felipe Ponce
+Harris Surfacing Ltd 47497,Site hierarchy Sign Off​,true,2020-10-15T08:21:33.075Z,Sam Bray
+Harris Surfacing Ltd 47497,Complete in house wireframe,false,,Felipe Ponce
+Harris Surfacing Ltd 47497,Send to webcreation to complete their wireframing,false,,Sam Bray
+Harris Surfacing Ltd 47497,Wireframe first draft to client,false,,Sam Bray
+Harris Surfacing Ltd 47497,Wireframe client amends,false,,Felipe Ponce
+Harris Surfacing Ltd 47497,Wireframe sign off,false,,Sam Bray
+Harris Surfacing Ltd 47497,Receive live draft from web creation,false,,none
+Harris Surfacing Ltd 47497,Send LP amends to WC,false,,none
+Harris Surfacing Ltd 47497,Receive final first draft from web creation,false,,none
+Harris Surfacing Ltd 47497,Get client content,false,,none
+Harris Surfacing Ltd 47497,Live build first draft to client​,false,,none
+Harris Surfacing Ltd 47497,Receive client amends,false,,none
+Harris Surfacing Ltd 47497,Send client amends to web creation,false,,none
+Harris Surfacing Ltd 47497,Receive live draft #2 from web creation,false,,none
+Harris Surfacing Ltd 47497,Send live draft #2 to client ,false,,none
+Harris Surfacing Ltd 47497,Get live draft #2 client feedback,false,,none
+Harris Surfacing Ltd 47497,Final live amends to web creation,false,,none
+Harris Surfacing Ltd 47497,Live build amends complete,false,,none
+Harris Surfacing Ltd 47497,"Check site function on desktop, mobile & tablet",false,,none
+Harris Surfacing Ltd 47497,Check contact info formatting,false,,none
+Harris Surfacing Ltd 47497,Check padding & responsiveness of content,false,,none
+Harris Surfacing Ltd 47497,Live build sign off,false,,none
+Harris Surfacing Ltd 47497,Connect contact forms,false,,none
+Harris Surfacing Ltd 47497,"Set up GTM, GA, SC",false,,none
+Harris Surfacing Ltd 47497,"Set up basic call, email and live chat events in GTM",false,,none
+Harris Surfacing Ltd 47497,Set up CF7 listener in GTM,false,,none
+Harris Surfacing Ltd 47497,Set up goals from CF7 listener in GA,false,,none
+Harris Surfacing Ltd 47497,Final snagging & fixes,false,,none
+Harris Surfacing Ltd 47497,Complete live testing,false,,none
+Harris Surfacing Ltd 47497,SEO to start once new site is live,false,,Sam Bray
+FR Willetts,Write up brief further meeting,true,2020-01-24T15:25:03.380Z,Sam Bray
+FR Willetts,"Issue with redirect of willettsofyorkley.co.uk - SB dealt with on the phone, it was an internal network issue (0.25 hrs)",true,2019-11-15T11:36:57.739Z,Sam Bray
+FR Willetts,"Schedule 1 Hour WP Training (Mon, Tues, Wed, Thurs) 1pm - 3pm ",true,2019-09-25T15:00:40.249Z,Sam Bray
+FR Willetts,Site top padding issue,false,,none
+FR Willetts,Added text to home page,true,2020-03-19T13:57:58.411Z,Sam Bray
+FR Willetts,"Renew - Hosting, Updates, Maintenance - 300+ VAT (FEB 2021 - JAN 2022)",false,,Sam Bray
+Hub Gyms,Make popup to go to membership pages (join now),true,2019-12-17T14:00:02.852Z,Tom Strat
+Hub Gyms,Insert Google Tag Manager in Header & Footer (Track Submit button on Contact Page) - 0.5 hrs,true,2019-11-12T14:22:36.807Z,Tyler Landry
+Hub Gyms,"CTA on home page should be ""Join Now""",true,2019-09-05T14:42:59.876Z,Tyler Landry
+Hub Gyms,"CTA buttons on pricing page should be ""Join Now""",true,2019-09-05T14:42:57.552Z,Tyler Landry
+Hub Gyms,"CTA on main nav bar ""Join Now""",true,2019-09-05T14:42:55.453Z,Tyler Landry
+Hub Gyms,"Above fold on pricing plans - ""Choose your plan"", anchor tag to options",true,2019-09-05T14:42:54.346Z,Tyler Landry
+Hub Gyms,Review theme for functionality suggestions - 0.5 hrs,true,2019-11-12T14:22:48.931Z,Tyler Landry
+Hub Gyms,"Change logo and link on mobile view from default theme on ""Book classes"" page",false,,none
+Hub Gyms,Review and fix mixed content warning SSL issue 1.0,true,2019-11-14T16:27:13.196Z,Tom Strat
+Hub Gyms,"Homepage: Class times should read ""View our timetable""",true,2019-09-05T14:42:43.279Z,Tyler Landry
+Hub Gyms,"Homepage: Our facility  should read ""Take a tour of our gyms""",true,2019-09-05T14:42:39.665Z,Tyler Landry
+Hub Gyms,"Homepage: change ""Click Here"" CTA to a more relevant link",true,2019-09-05T14:42:34.376Z,Tyler Landry
+Hub Gyms,Remove live dev links and fix broken links,true,2019-11-08T09:19:01.091Z,Tyler Landry
+Hub Gyms,"There are 2 class timetable links (one dynamic, one image)",true,2019-09-05T14:42:26.775Z,Tyler Landry
+Hub Gyms,Website speed issues (loadtime; 11.3s),false,,none
+Hub Gyms,Install analytics & search console - 0.5 hrs,true,2019-11-12T14:23:17.954Z,Tyler Landry
+Hub Gyms,"3 seperate timetables which are accessible via the main nav bar. They are a standard layout, with events bespoke to each timetable. Timetable is filterable by class type and each class type/event is then linked to the relevant landing page",true,2019-09-05T14:42:18.394Z,Tyler Landry
+Hub Gyms,Landing pages are linked (where relevant) to calendly to book online,false,,none
+Hub Gyms,Integrate GMB and Facebook reviews (testimonials page),false,,none
+Hub Gyms,How can we track the website conversions?,true,2020-01-30T11:14:48.700Z,Tyler Landry
+Hub Gyms,Timetable Changes ,true,2019-12-23T09:57:43.784Z,Tom Strat
+Hub Gyms,"Changed PayAsUGym price to £8.50 per Claire's email",true,2019-12-20T16:23:40.412Z,Tyler Landry
+Hub Gyms,Hosting company to update plugins? - FLUID2,true,2020-01-08T15:16:19.337Z,Tyler Landry
+Hub Gyms,Remove broken video link,true,2019-08-22T15:17:58.104Z,Tyler Landry
+Hub Gyms,Optimise use of 360 video on the Portishead hub page,true,2019-11-08T09:20:07.111Z,Tyler Landry
+Hub Gyms,Change */facilities to */Portishead-facilities,true,2019-11-08T09:19:56.245Z,Tyler Landry
+Hub Gyms,Create an “our facilities” page,true,2019-11-08T09:20:05.824Z,Tyler Landry
+Hub Gyms,Waiting on payment from Claire prior to proceeding to work ,true,2019-08-22T09:24:30.424Z,Tyler Landry
+Hub Gyms,Integrate Fast DD - Build Links - James/Tom ,true,2019-12-17T11:03:11.547Z,Tom Strat
+Hub Gyms,Need FTP Access to fix SSL Error Maybe,true,2019-11-18T15:48:43.536Z,Tyler Landry
+Hub Gyms,Timetable Amendment - ,true,2019-12-05T11:00:46.155Z,Tom Strat
+Hub Gyms,Time Table Updates ,true,2019-11-01T14:11:10.591Z,Tom Strat
+Hub Gyms,P9471 - Outstanding (AD Hoc Dev Work)- NEED GC REACTIVATED,true,2020-10-06T16:39:28.488Z,Sam Bray
+Hub Gyms,Forward invoice email to Claire,true,2020-07-23T08:24:53.668Z,Tyler Landry
+Hub Gyms,Timetable amendments,true,2020-03-16T13:56:59.151Z,Tom Strat
+Hub Gyms,Timetable amendments,true,2020-02-28T09:25:12.433Z,Tom Strat
+Hub Gyms,Monthly Digital Marketing Report,true,2020-07-22T15:25:43.626Z,Sam Bray
+LEL Scaffolding,400 Words of Content,true,2019-05-10T10:15:25.920Z,Tyler Landry
+LEL Scaffolding,400 Words of Content,true,2019-05-29T08:09:02.770Z,Tyler Landry
+LEL Scaffolding,400 Words of Content,true,2019-06-17T08:49:39.578Z,Tyler Landry
+LEL Scaffolding,400 Words of Content,true,2019-07-16T09:33:23.682Z,Tyler Landry
+LEL Scaffolding,400 Words of Content,true,2019-08-20T10:21:55.100Z,Tyler Landry
+LEL Scaffolding,Move to WC on Starter,true,2020-08-11T10:53:41.230Z,Tyler Landry
+LEL Scaffolding,Renew SEO/PPC £195+ VAT,true,2020-04-09T12:54:45.967Z,Tyler Landry
+LEL Scaffolding,Renew SEO/PPC £195+ VAT,true,2020-05-05T11:16:10.781Z,Tyler Landry
+LEL Scaffolding,Renew SEO/PPC £195+ VAT,true,2020-06-04T08:55:31.503Z,Tyler Landry
+LEL Scaffolding,Renew SEO/PPC £195+ VAT,true,2020-07-15T08:43:00.127Z,Tyler Landry
+LEL Scaffolding,Renew SEO/PPC £195+ VAT,true,2020-08-04T10:57:36.790Z,Tyler Landry
+LEL Scaffolding,Renew SEO/PPC £195+ VAT,true,2020-09-02T08:35:15.077Z,Tyler Landry
+LEL Scaffolding,Renew SEO/PPC £195+ VAT,true,2020-10-01T08:31:18.855Z,Tyler Landry
+LEL Scaffolding,Renew SEO/PPC £195+ VAT,false,,Sam Bray
+LEL Scaffolding,Renew Hosting Invoice,true,2020-08-13T08:46:04.972Z,Tyler Landry
+LEL Scaffolding,Renew Hosting Invoice,false,,Sam Bray
+LEL Scaffolding,scaffold netting bristol page,true,2020-08-12T13:39:16.582Z,Tyler Landry
+LEL Scaffolding,May & June Content - Speak to Maxine,true,2020-07-22T09:25:22.963Z,Tyler Landry
+LEL Scaffolding,GMB listing issue,true,2020-05-20T09:23:13.378Z,Sam Bray
+LEL Scaffolding,Review Content - Guide to Birdcage Scaffolding Hire Bristol ,true,2020-04-15T13:21:46.894Z,Tyler Landry
+LEL Scaffolding,Disavowed links,true,2020-04-07T11:37:33.158Z,Sam Bray
+LEL Scaffolding,Review Content - Mobile Aluminium Scaffolding Tower Hire Service in Bristol,true,2020-04-07T11:34:08.284Z,Sam Bray
+LEL Scaffolding,"New content plan in action, focus on Bristol, longtail - sending content plan to UPUGO",true,2020-03-18T15:51:35.902Z,Sam Bray
+LEL Scaffolding,Create Content Idea,true,2019-10-28T11:17:39.389Z,Tyler Landry
+LEL Scaffolding,Submitted Cotent,true,2019-09-11T12:58:12.165Z,Tyler Landry
+LEL Scaffolding,Review Content,true,2019-09-20T15:27:56.527Z,Tyler Landry
+LEL Scaffolding,Switch over to WP Forms ,true,2019-05-20T09:12:10.203Z,Tyler Landry
+LEL Scaffolding,Implement Content,true,2019-09-26T14:16:58.216Z,Tyler Landry
+LEL Scaffolding,Create Content Idea,true,2019-09-11T12:58:05.704Z,Tyler Landry
+LEL Scaffolding,Review Content - Temporary roof scaffolding hire in Bristol,true,2020-04-07T09:39:53.164Z,Sam Bray
+LEL Scaffolding,SB to review strategy,true,2020-03-10T09:56:17.401Z,Sam Bray
+LEL Scaffolding,PPC Management (JF),true,2020-01-27T09:35:34.974Z,ollie
+LEL Scaffolding,PPC Management (JF),true,2020-01-27T09:35:56.857Z,ollie
+LEL Scaffolding,PPC Management (JF),true,2020-02-17T11:52:23.361Z,none
+LEL Scaffolding,PPC Management (JF) - LEL Scaffolding,true,2020-07-23T08:25:57.956Z,Sam Bray
+LEL Scaffolding,PPC Management (JF) - LEL Scaffolding,true,2020-07-23T08:26:06.975Z,Sam Bray
+LEL Scaffolding,PPC Management (JF) - LEL Scaffolding,true,2020-07-23T08:26:22.764Z,Sam Bray
+LEL Scaffolding,PPC Management (JF) - LEL Scaffolding,true,2020-07-23T08:26:48.343Z,Sam Bray
+LEL Scaffolding,PPC Management (SB) - LEL Scaffolding,true,2020-10-14T22:22:21.848Z,Sam Bray
+LEL Scaffolding,PPC Management (SB) - LEL Scaffolding,true,2020-10-15T13:44:25.751Z,Sam Bray
+LEL Scaffolding,PPC Management (SB) - LEL Scaffolding,true,2020-10-15T13:44:35.546Z,Sam Bray
+LEL Scaffolding,PPC Management (SB) - LEL Scaffolding,false,,Sam Bray
+LEL Scaffolding,Landing pages need re-building,true,2020-02-03T14:01:30.630Z,ollie
+LEL Scaffolding,"Client getting a lot of spam - can this be stopped? (WF Forms doesn't track Enquiries) Any thoughts Tom?",true,2020-08-04T13:14:22.660Z,Tom Strat
+LEL Scaffolding,Add new images to website,true,2020-04-23T10:59:03.801Z,Tyler Landry
+LEL Scaffolding,Time allocation - SB,true,2020-01-03T15:54:58.930Z,Sam Bray
+LEL Scaffolding,New photos to upload to gallery,false,,Tom Strat
+LEL Scaffolding,Monthly Digital Marketing Report,true,2020-05-01T14:38:07.771Z,Sam Bray
+LEL Scaffolding,Monthly Digital Marketing Report,true,2020-05-01T14:38:12.746Z,Sam Bray
+LEL Scaffolding,Monthly Digital Marketing Report,true,2020-05-01T14:38:21.432Z,Sam Bray
+Kite Recruitment,Content - 400 Words,true,2019-05-24T15:47:48.327Z,Tyler Landry
+Kite Recruitment,Content - 400 Words,true,2019-07-04T20:07:45.473Z,Tyler Landry
+Kite Recruitment,Content - 400 Words,true,2019-07-16T09:39:02.374Z,Tyler Landry
+Kite Recruitment,Content - 400 Words,true,2019-09-09T13:31:03.584Z,Tyler Landry
+Kite Recruitment,Awaiting response on BING verification code,true,2019-05-24T08:21:54.660Z,Tyler Landry
+Kite Recruitment,Add Landing Pages - 4 per week ,true,2019-05-03T10:34:56.479Z,Tyler Landry
+Kite Recruitment,Bing Verification Code ,true,2019-05-13T12:54:37.180Z,Tyler Landry
+Kite Recruitment,Need to receive updated April 2019 Content,true,2019-05-02T14:03:13.452Z,Tyler Landry
+Kite Recruitment,Add Landing Pages - 1 per week ,true,2019-05-31T15:20:23.919Z,Tyler Landry
+Kite Recruitment,Add Landing Pages - 1 per week ,true,2019-06-07T10:35:06.951Z,Tyler Landry
+Kite Recruitment,Add Landing Pages - 1 per week ,true,2019-09-09T13:31:05.311Z,Tyler Landry
+Kite Recruitment,Add Landing Pages - 1 per week ,true,2019-09-09T13:31:09.402Z,Tyler Landry
+Kite Recruitment,Check Kite Supply Mail-chimp & Hide Functionality,true,2019-07-09T11:44:03.707Z,Tyler Landry
+Kite Recruitment,Put Safeguarding and Behaviour Course under Other Services,true,2019-07-04T20:09:39.075Z,Tyler Landry
+Kite Recruitment,Remove Booking Forms,true,2019-07-04T20:08:41.066Z,Tyler Landry
+Kite Recruitment,Remove Events Page,true,2019-07-04T20:08:30.613Z,Tyler Landry
+Kite Recruitment,English Language to English Schools ,true,2019-07-04T20:08:22.224Z,Tyler Landry
+Kite Recruitment,Contact Her about Direct Debit Mandate on Kite Supply ,true,2019-08-16T15:05:50.204Z,Tyler Landry
+Kite Recruitment,September Work Completed,true,2019-10-28T11:16:46.766Z,Tyler Landry
+Kite Recruitment,September Work Completed,true,2019-11-06T10:17:12.792Z,Tyler Landry
+JAS Gas Services,Google My Business Listing ,true,2020-01-13T14:45:23.432Z,Tyler Landry
+L Miles Building Services,ADD EMAIL ACCOUNTS ASK TYLER - ALSO REMIND TYLER TO INVOICE ,true,2020-01-24T09:46:24.638Z,Tom Strat
+L Miles Building Services,PPC Management (JF),true,2020-01-14T13:33:25.773Z,ollie
+L Miles Building Services,PPC Management (JF),true,2020-01-27T09:34:22.942Z,ollie
+L Miles Building Services,"Reduce Google Ads spend, focus 2 key groups including civil & groundworks",true,2019-11-18T11:48:01.909Z,none
+L Miles Building Services,Meeting booked in for 19th November,true,2019-11-25T17:17:45.008Z,Sam Bray
+L Miles Building Services,Page: Roofing,true,2019-10-16T15:25:14.343Z,Tyler Landry
+L Miles Building Services,Driveways Page,true,2019-09-09T13:32:21.860Z,Tyler Landry
+L Miles Building Services,Plastering Page,true,2019-09-03T13:21:51.720Z,Tyler Landry
+L Miles Building Services,Install GTM,true,2019-11-06T10:18:12.581Z,none
+L Miles Building Services,Fix Facebook Plugin in Footer,true,2019-12-11T11:12:33.806Z,Tyler Landry
+L Miles Building Services,Add map to about us page,true,2019-12-18T10:38:17.978Z,Tyler Landry
+L Miles Building Services,"Change ""Enquire Online"" Tag to #enquire",true,2019-09-20T15:05:25.149Z,Tyler Landry
+L Miles Building Services,Add new build photo to home page slider ,true,2019-12-18T16:56:45.921Z,Tyler Landry
+L Miles Building Services,Schedule and Plan October Web Retainer 4 Hours,true,2019-10-28T11:18:02.373Z,Tyler Landry
+L Miles Building Services,GMB review link added to the site,true,2019-12-10T09:59:23.841Z,Tyler Landry
+L Miles Building Services,Time allocation for Jan - SB,true,2020-01-03T12:44:14.896Z,Sam Bray
+L Miles Building Services,Add Lee to Google,true,2019-12-13T16:47:20.170Z,Sam Bray
+L Miles Building Services,GMB optimisation,true,2019-12-10T09:59:26.237Z,Tyler Landry
+L Miles Building Services,Wants a Facebook campaign - Form proposal,true,2020-01-03T12:38:39.887Z,Sam Bray
+L Miles Building Services,padding to landing pages,true,2020-04-15T08:21:33.926Z,Tom Strat
+L Miles Building Services,Request callback box needs 1/2 colum not 3rd,true,2020-03-31T10:40:43.479Z,Tom Strat
+L Miles Building Services,GTM Tag / Trigger set up,true,2020-01-14T09:55:37.190Z,Sam Bray
+L Miles Building Services,why choose us form needs above not below,true,2020-03-31T10:40:41.307Z,Tom Strat
+L Miles Building Services,testimonial find 2 more testis,true,2020-03-31T10:40:38.581Z,Tom Strat
+L Miles Building Services,recent works needs categories to pull in correct ones,true,2020-03-31T10:40:37.034Z,Tom Strat
+L Miles Building Services,enquire box needs same size center + justify,true,2020-03-31T10:40:33.514Z,Tom Strat
+L Miles Building Services,Recaptcha fix,true,2020-03-31T10:44:03.510Z,Tom Strat
+L Miles Building Services,Created and Posted a Job for Van Driver ,true,2020-02-07T11:15:56.530Z,Tyler Landry
+L Miles Building Services,Upload Drainage & Pipework content,true,2020-07-29T13:20:53.916Z,Tyler Landry
+L Miles Building Services,Find Civil Engineering content and add it back to the page and make live again,true,2020-05-19T13:39:13.422Z,Tyler Landry
+L Miles Building Services,"URGENT : Civil Engineering page ranking instead of resin driveways page for ""Resin Driveways Ross on Wye""",true,2020-04-21T18:52:20.329Z,Sam Bray
+L Miles Building Services,Page for Drainage and Pipework (June),true,2020-07-29T11:59:09.346Z,Sam Bray
+L Miles Building Services,PPC Management (JF),true,2020-02-10T11:54:50.268Z,ollie
+L Miles Building Services,PPC Management (JF),true,2020-05-18T12:27:21.381Z,Sam Bray
+L Miles Building Services,PPC Management (JF),true,2020-05-18T12:27:32.109Z,Sam Bray
+L Miles Building Services,PPC Management (JF),true,2020-05-18T12:27:42.802Z,Sam Bray
+L Miles Building Services,PPC Management (JF),true,2020-07-22T15:27:56.578Z,Sam Bray
+L Miles Building Services,PPC Management (SB),true,2020-10-14T22:22:38.718Z,Sam Bray
+L Miles Building Services,PPC Management (SB),true,2020-10-15T13:44:30.278Z,Sam Bray
+L Miles Building Services,PPC Management (SB),true,2020-10-15T13:44:40.814Z,Sam Bray
+L Miles Building Services,PPC Management (SB),false,,Sam Bray
+L Miles Building Services,PPC campaign refresh,true,2020-05-18T12:27:25.946Z,Sam Bray
+L Miles Building Services,Resubmit Google ads to see if they go live?,true,2020-10-15T13:42:45.149Z,Sam Bray
+L Miles Building Services,Submit to support as no malware found by Tom,true,2020-04-22T12:42:42.394Z,Sam Bray
+L Miles Building Services,Job Advert: General Builder & Finisher,true,2020-05-07T10:06:39.155Z,Tyler Landry
+L Miles Building Services,Estimator Job Ad,true,2020-05-05T11:09:36.841Z,Tyler Landry
+L Miles Building Services,Design Facebook cover image,true,2020-01-09T11:43:39.400Z,Tyler Landry
+L Miles Building Services,Gain access to Account ID & page management,true,2020-01-06T16:43:17.879Z,Sam Bray
+L Miles Building Services,Review Job Applications,true,2020-02-12T09:27:52.737Z,Tyler Landry
+L Miles Building Services,Design audience sets,true,2020-01-17T16:02:56.465Z,Tyler Landry
+L Miles (Web Build) 31222,First meeting,true,2020-09-03T16:08:17.234Z,Sam Bray
+L Miles (Web Build) 31222,Form & send proposal based on what we know,true,2020-09-03T16:08:18.784Z,Sam Bray
+L Miles (Web Build) 31222,Client to fill out DD,true,2020-09-03T16:08:19.952Z,Sam Bray
+L Miles (Web Build) 31222,Accounts to set up 4 payments of £300+vat,true,2020-09-03T16:08:32.651Z,Sam Bray
+L Miles (Web Build) 31222,Brief meeting ,true,2020-09-16T10:35:39.435Z,Sam Bray
+L Miles (Web Build) 31222,Brief & planning​ Sign Off,true,2020-09-16T10:35:41.722Z,Sam Bray
+L Miles (Web Build) 31222,Complete site hierarchy,true,2020-09-23T09:30:33.949Z,Tom Strat
+L Miles (Web Build) 31222,Send hierarchy to client,true,2020-09-23T09:30:34.788Z,Sam Bray
+L Miles (Web Build) 31222,Complete hierarchy client amends,true,2020-09-23T09:30:43.414Z,Tom Strat
+L Miles (Web Build) 31222,Site hierarchy Sign Off​,true,2020-09-23T09:30:43.895Z,Sam Bray
+L Miles (Web Build) 31222,Complete in house wireframe,true,2020-09-25T19:41:19.826Z,Tom Strat
+L Miles (Web Build) 31222,Send to webcreation to complete their wireframing,true,2020-09-25T19:41:22.628Z,Tom Strat
+L Miles (Web Build) 31222,Wireframe first draft to client,true,2020-09-30T09:16:30.332Z,Sam Bray
+L Miles (Web Build) 31222,Wireframe client amends,true,2020-09-30T09:16:31.555Z,Tom Strat
+L Miles (Web Build) 31222,Wireframe sign off,true,2020-09-30T09:16:32.293Z,Sam Bray
+L Miles (Web Build) 31222,Receive live draft from web creation,true,2020-10-12T15:51:23.183Z,Sam Bray
+L Miles (Web Build) 31222,Send LP amends to WC,true,2020-10-14T09:17:01.183Z,Sam Bray
+L Miles (Web Build) 31222,Receive final first draft from web creation,false,,none
+L Miles (Web Build) 31222,Live build first draft to client​,false,,none
+L Miles (Web Build) 31222,Get client content,false,,none
+L Miles (Web Build) 31222,Receive client amends,false,,none
+L Miles (Web Build) 31222,Send client amends to web creation,false,,none
+L Miles (Web Build) 31222,Receive live draft #2 from web creation,false,,none
+L Miles (Web Build) 31222,Send live draft #2 to client ,false,,none
+L Miles (Web Build) 31222,Get live draft #2 client feedback,false,,none
+L Miles (Web Build) 31222,Final live amends to web creation,false,,none
+L Miles (Web Build) 31222,Live build amends complete,false,,none
+L Miles (Web Build) 31222,"Check site function on desktop, mobile & tablet",false,,none
+L Miles (Web Build) 31222,Check contact info formatting,false,,none
+L Miles (Web Build) 31222,Check padding & responsiveness of content,false,,none
+L Miles (Web Build) 31222,Live build sign off,false,,none
+L Miles (Web Build) 31222,Connect contact forms,false,,none
+L Miles (Web Build) 31222,"Set up GTM, GA, SC",false,,none
+L Miles (Web Build) 31222,"Set up basic call, email and live chat events in GTM",false,,none
+L Miles (Web Build) 31222,Set up CF7 listener in GTM,false,,none
+L Miles (Web Build) 31222,Set up goals from CF7 listener in GA,false,,none
+L Miles (Web Build) 31222,Final snagging & fixes,false,,none
+L Miles (Web Build) 31222,Complete live testing,false,,none
+JJ Vickers Plumbing & Heating,Check to see if mark as paid - GC Should go through 18/4,true,2019-04-23T08:44:19.562Z,Tyler Landry
+JJ Vickers Plumbing & Heating,"P9140 - Hosting and SSL, set up GC Payment Plan",true,2019-04-15T10:27:39.551Z,Tyler Landry
+JJ Vickers Plumbing & Heating,Review WordPress Error ,true,2020-09-09T09:13:45.277Z,Tom Strat
+JJ Vickers Plumbing & Heating,Waiting on approval for Commercial Copy,true,2019-04-26T08:26:25.101Z,Tyler Landry
+JJ Vickers Plumbing & Heating,Create Service Page Copy,true,2019-04-10T10:12:54.456Z,Tyler Landry
+JJ Vickers Plumbing & Heating,Need Hi-Res Photos,true,2019-06-06T10:43:05.379Z,Tyler Landry
+JJ Vickers Plumbing & Heating,Awaiting Approval From Client on Service Page Copy,true,2019-04-15T10:28:07.302Z,Tyler Landry
+JJ Vickers Plumbing & Heating,Second Invoice Needs to be Paid for Live Build?,true,2019-05-09T12:07:21.007Z,Tyler Landry
+JJ Vickers Plumbing & Heating,Hosting & SSL needs to begin - £20 per month,true,2019-04-10T15:33:38.832Z,Tyler Landry
+JJ Vickers Plumbing & Heating,Get payment for copy P9112 - Copy Invoice,true,2019-04-10T15:22:25.790Z,Tyler Landry
+JJ Vickers Plumbing & Heating,Rewrite commercial catering page to focus on burger vans,true,2020-09-29T09:28:01.253Z,Sam Bray
+JJ Vickers Plumbing & Heating,Check/rewrite titles/desciptions,true,2020-08-26T12:57:00.462Z,Tyler Landry
+JJ Vickers Plumbing & Heating,Check/rewrite IMG ALT tags,true,2020-09-02T10:56:35.769Z,Tyler Landry
+JJ Vickers Plumbing & Heating,Check/rewrite H1/H2 tags,true,2020-09-02T10:56:33.873Z,Tyler Landry
+JJ Vickers Plumbing & Heating,Check site structure,true,2020-10-06T16:39:37.634Z,Sam Bray
+JJ Vickers Plumbing & Heating,Submit site maps,true,2020-09-29T09:28:58.116Z,Sam Bray
+JJ Vickers Plumbing & Heating,Set up GTM & call/email events,true,2020-07-22T11:08:18.935Z,Sam Bray
+JJ Vickers Plumbing & Heating,Set up Goals from GTM CF7 event in analytics,true,2020-07-29T16:12:59.457Z,Sam Bray
+JJ Vickers Plumbing & Heating,"Move project to WC on a ""PROFESSIONAL"" package for a September start",true,2020-09-02T10:02:00.655Z,Tyler Landry
+JJ Vickers Plumbing & Heating,Heard back from GoDaddy? Rebuild with WC?,false,,Sam Bray
+JJ Vickers Plumbing & Heating,Removing malicious code,true,2020-10-08T09:46:11.895Z,Tom Strat
+JJ Vickers Plumbing & Heating,Fixed site hack,true,2020-09-16T09:23:50.032Z,Tom Strat
+JJ Vickers Plumbing & Heating,"Correct Slugs - All service slugs now corrected to match previous versions and 'Posts' are in draft mode ",true,2020-08-26T11:03:39.326Z,Tyler Landry
+JJ Vickers Plumbing & Heating,"Get unsplash photos, update service pages",true,2020-08-19T15:02:14.844Z,Tom Strat
+JJ Vickers Plumbing & Heating,Design service page template using Elementor,true,2020-08-07T10:36:09.018Z,Tom Strat
+JJ Vickers Plumbing & Heating,Move service pages from posts to pages?? TC to look into if this is worth it,true,2020-08-18T13:39:53.643Z,Tom Strat
+JJ Vickers Plumbing & Heating,Set up CF7 listener in GTM,true,2020-07-29T14:07:42.165Z,Tom Strat
+JJ Vickers Plumbing & Heating,add process to service template,true,2020-08-14T11:06:36.883Z,Tom Strat
+JJ Vickers Plumbing & Heating,add gallery and hide to template,true,2020-08-13T15:49:59.580Z,Tom Strat
+JJ Vickers Plumbing & Heating,Add this brands to service template,true,2020-08-13T15:21:37.234Z,Tom Strat
+JJ Vickers Plumbing & Heating,Create ad group for gas safe,true,2020-08-21T16:46:04.770Z,Sam Bray
+JJ Vickers Plumbing & Heating,Create ad group for underfloor heating,false,,Sam Bray
+JJ Vickers Plumbing & Heating,Create ad group for bathroom installers,false,,Sam Bray
+JJ Vickers Plumbing & Heating,Create ad group for commercial catering,false,,Sam Bray
+JJ Vickers Plumbing & Heating,Set up account & get payment details & user access,true,2020-07-22T15:26:01.647Z,Sam Bray
+JJ Vickers Plumbing & Heating,Create campaign & settings,true,2020-07-30T09:43:43.310Z,Sam Bray
+JJ Vickers Plumbing & Heating,"Build Ad Groups, ads, keywords",true,2020-07-30T09:43:44.789Z,Sam Bray
+JJ Vickers Plumbing & Heating,Duplicate and build additional ad groups,true,2020-07-30T09:43:46.435Z,Sam Bray
+JJ Vickers Plumbing & Heating,Create ad extensions,true,2020-07-30T09:43:47.469Z,Sam Bray
+JJ Vickers Plumbing & Heating,Link with analytics & set up conversions,true,2020-07-30T09:43:48.792Z,Sam Bray
+JJ Vickers Plumbing & Heating,Create audience lists for future remarketing,true,2020-07-30T09:43:53.802Z,Sam Bray
+JJ Vickers Plumbing & Heating,Create conversion from Analytics Goal,true,2020-07-29T16:13:16.071Z,Sam Bray
+JJ Vickers Plumbing & Heating,"Arrange one off set up payment P9574, once complete",true,2020-08-28T13:46:35.945Z,Sam Bray
+JJ Vickers Plumbing & Heating,Arrange monthly PPC mgt fee (£150+vat p/m) from Sep 2020,true,2020-09-30T09:16:47.713Z,Sam Bray
+JJ Vickers Plumbing & Heating,Monthly Digital Marketing Report,false,,Sam Bray
+JJ Vickers Plumbing & Heating,Set up reporting,true,2020-09-22T16:50:44.943Z,Sam Bray
+Bristol Response Locksmith,Add Auto locksmith page,true,2019-05-29T03:59:48.759Z,none
+Bristol Response Locksmith,Use background fill/border on contact forms to help the design and make stand out a bit more,true,2019-05-23T10:30:46.238Z,none
+Bristol Response Locksmith,Spelling Error,true,2019-05-23T10:07:26.145Z,none
+Bristol Response Locksmith,Please utilise this copy on the Emergency Locksmith Page,true,2019-05-21T14:54:44.614Z,none
+Bristol Response Locksmith,Sent client proposed hierarchy 29/4  - Get Feedback,true,2019-05-16T13:22:52.378Z,Tyler Landry
+Bristol Response Locksmith,Create additional service pages,true,2019-05-23T15:28:15.947Z,none
+Bristol Response Locksmith,Flamingo ,true,2019-06-03T10:59:10.273Z,Tyler Landry
+Bristol Response Locksmith,Adjustments to Service Pages ,true,2019-05-23T10:23:27.692Z,none
+Bristol Response Locksmith,Create Footer,true,2019-05-23T12:44:54.476Z,none
+Bristol Response Locksmith,Add map ,true,2019-05-23T15:39:55.938Z,none
+Bristol Response Locksmith,Yate Landing Page,true,2019-06-18T09:08:13.800Z,Tyler Landry
+Bristol Response Locksmith,Request a Call Back,true,2019-05-23T15:36:36.876Z,none
+Bristol Response Locksmith,"Second button on homepage slider, Enquire Now",true,2019-05-23T15:30:48.445Z,none
+Bristol Response Locksmith,"Link the uPVC, Security, and Emergency icons on the homepage to their pages",true,2019-05-23T15:28:25.204Z,none
+Bristol Response Locksmith,Add a contact form to the homepage,true,2019-05-23T13:16:49.022Z,none
+Bristol Response Locksmith,Change homepage button CTA from Learn More to Call Now,true,2019-05-23T12:44:57.010Z,none
+Bristol Response Locksmith,Get Website Build Started,true,2019-05-21T10:50:59.373Z,Tyler Landry
+Bristol Response Locksmith,"Client does not have social media, so we can remove these links for now",true,2019-05-21T14:54:57.732Z,none
+Bristol Response Locksmith,"Get in touch with Bob, get his URL details",true,2019-08-01T08:45:32.219Z,Tyler Landry
+Bristol Response Locksmith,Submit for Copy ,true,2019-05-21T10:51:01.004Z,Tyler Landry
+Bristol Response Locksmith,Switch out slider image on Security page so it is not the same as Emergency ,true,2019-05-24T08:31:53.500Z,none
+Bristol Response Locksmith,Migrate to GoDaddy hosting ,true,2019-05-30T11:41:55.285Z,Tom Strat
+Bristol Response Locksmith,Remove PPC Invoices ,true,2019-08-12T13:49:03.113Z,Tyler Landry
+Bristol Response Locksmith,Please remove Bristol Response from our hosting and ZIP up the file and send to me. Thanks,true,2019-08-22T09:31:37.563Z,Tom Strat
+Bristol Response Locksmith,Please provide Login and Username for WordPress Site,true,2019-05-30T10:25:21.690Z,none
+Ultimate Property Solutions,Contact form fields ,true,2019-08-02T00:55:58.528Z,Tyler Landry
+Ultimate Property Solutions,Case Study Style Photos,true,2019-05-24T11:08:57.765Z,none
+Ultimate Property Solutions,Branding ,true,2019-05-24T11:08:53.083Z,none
+Ultimate Property Solutions,UPSbuilders.co.uk ,true,2019-05-24T11:08:39.445Z,Tyler Landry
+Ultimate Property Solutions,Development Site and Hosting Set-Up,true,2019-05-30T11:41:59.491Z,Tom Strat
+Ultimate Property Solutions,Certifications,true,2019-07-02T16:16:45.631Z,none
+Ultimate Property Solutions,Get on GoCardless,true,2019-07-09T11:41:20.554Z,Tyler Landry
+Ultimate Property Solutions,Ensure Project Goes Live on Outsource Anything,true,2019-06-18T08:35:36.284Z,none
+Ultimate Property Solutions,Photos supplied from Client,true,2019-06-03T15:07:58.596Z,Tyler Landry
+Ultimate Property Solutions,upsbuilders.co.uk - Set up holding page,true,2019-06-03T13:34:23.868Z,Tom Strat
+Ultimate Property Solutions,Remove Search from Nav Bar ,true,2019-07-31T16:18:02.507Z,none
+Ultimate Property Solutions,Please remove Phone numbers from the logo in the footer - (match logo in header),true,2019-07-31T16:23:43.705Z,none
+Ultimate Property Solutions,Remove BreadCrumbs Banner from Contact Page,true,2019-07-31T06:02:22.267Z,none
+Ultimate Property Solutions,Update  Logo,true,2019-06-26T18:32:01.616Z,none
+Ultimate Property Solutions,Create second CTA in main header (Call Us Now),true,2019-07-31T06:14:06.310Z,none
+Ultimate Property Solutions,Change Read More to Find Out More,true,2019-07-31T06:06:48.147Z,none
+Ultimate Property Solutions,Company Details ,true,2019-06-20T09:02:14.031Z,none
+Ultimate Property Solutions,Renew hosting from July (£26 (inc. vat) per month),true,2020-07-15T08:40:35.757Z,Tyler Landry
+L Miles Building,Discuss L Miles Building with Sam,true,2019-04-18T13:13:06.070Z,Tyler Landry
+L Miles Building,Created internal links on About Us Page,true,2019-04-24T15:16:25.887Z,none
+L Miles Building,Corrected Spelling in Barn Conversions snippet,true,2019-04-24T15:16:32.326Z,none
+L Miles Building,Adjust to only have relevant photos - with alt text,true,2019-04-24T15:16:33.848Z,none
+L Miles Building,Consistent Global Enquiry Form,true,2019-04-24T15:16:35.009Z,none
+L Miles Building,Title - Sub Text - Call & Enquire Buttons,true,2019-04-24T15:16:38.590Z,none
+L Miles Building,Title - Sub Text - Call & Enquire Buttons,true,2019-04-24T15:16:44.838Z,none
+L Miles Building,Adjust to only have relevant photos - with alt text,true,2019-04-24T15:17:19.313Z,none
+L Miles Building,Consistent Global Enquiry Form,true,2019-04-24T15:17:35.473Z,none
+L Miles Building,Title - Sub Text - Call & Enquire Buttons,true,2019-04-24T15:17:21.873Z,none
+L Miles Building,Adjust to only have relevant photos - with alt text,true,2019-04-24T15:17:24.976Z,none
+L Miles Building,Consistent Global Enquiry Form,true,2019-04-24T15:17:34.301Z,none
+L Miles Building,Title - Sub Text - Call & Enquire Buttons,true,2019-04-24T15:17:23.611Z,none
+L Miles Building,Adjust to only have relevant photos - with alt text,true,2019-04-24T15:17:26.272Z,none
+L Miles Building,Consistent Global Enquiry Form,true,2019-04-24T15:17:33.098Z,none
+L Miles Building,Title - Sub Text - Call & Enquire Buttons,true,2019-04-24T15:17:28.900Z,none
+L Miles Building,Adjust to only have relevant photos - with alt text,true,2019-04-24T15:17:31.980Z,none
+L Miles Building,Consistent Global Enquiry Form,true,2019-04-24T15:17:30.672Z,none
+L Miles Building,Title - Sub Text - Call & Enquire Buttons,true,2019-04-24T15:17:37.065Z,none
+L Miles Building,Adjust to only have relevant photos - with alt text,true,2019-04-24T15:17:38.417Z,none
+L Miles Building,Consistent Global Enquiry Form,true,2019-04-24T15:17:39.880Z,none
+Mark Fiddes Tree Works,Check with Mark to ensure he is receiving contact forms. ,true,2020-08-06T11:08:06.343Z,Tyler Landry
+Mark Fiddes Tree Works,Added in Copy for Tree Conservation,true,2020-02-06T16:13:51.651Z,Tyler Landry
+Mark Fiddes Tree Works,Review & Submit Content to Web Creation,true,2019-11-29T12:58:51.731Z,Tyler Landry
+Mark Fiddes Tree Works,Second Payment,true,2019-10-28T11:17:56.591Z,Tyler Landry
+Mark Fiddes Tree Works,Website Live,true,2020-07-23T10:46:41.822Z,none
+Mark Fiddes Tree Works,Live Build Amends,true,2020-01-24T11:34:52.318Z,Tyler Landry
+Mark Fiddes Tree Works,Live Build ,true,2019-11-29T12:58:25.434Z,Tyler Landry
+Mark Fiddes Tree Works,Initial Wireframe,true,2019-11-14T17:22:39.973Z,Tyler Landry
+Mark Fiddes Tree Works,Check payments - contact Mark again,true,2020-01-03T14:03:01.317Z,Sam Bray
+Mark Fiddes Tree Works,3rd Jan - Heard nothing - Try again?,true,2020-01-14T10:09:10.610Z,Sam Bray
+Mark Fiddes Tree Works,Meeting to review lift draft,true,2020-01-20T12:44:48.580Z,Sam Bray
+Mark Fiddes Tree Works,Order Content - 0.5 Hours,true,2019-11-14T12:18:52.471Z,Tyler Landry
+Mark Fiddes Tree Works,SB amends reviewed,true,2020-01-24T11:25:02.047Z,Sam Bray
+Mark Fiddes Tree Works,Waiting for Deposit to be Paid,true,2019-09-17T11:48:41.219Z,Tyler Landry
+Mark Fiddes Tree Works,Send Contract to be signed,true,2019-10-04T11:55:51.969Z,Tyler Landry
+Mark Fiddes Tree Works,Deposit Payment (Web Creation),true,2019-09-20T13:24:07.951Z,Tyler Landry
+Mark Fiddes Tree Works,P9267 - Final Payment on Website Development Required,true,2020-06-25T08:41:13.720Z,Tyler Landry
+Mark Fiddes Tree Works,P9350 - Copywriting Invoice Payment Required (OUTSTANDING) - Amend?,true,2020-06-25T08:41:20.523Z,Sam Bray
+Mark Fiddes Tree Works,Renew Hosting Invoice,false,,Sam Bray
+Mark Fiddes Tree Works,Send Ollie Timeline of communication,true,2020-04-23T10:50:41.165Z,Sam Bray
+Mark Fiddes Tree Works,Ensure contact forms are going directly to Mark,true,2020-07-23T10:38:53.701Z,Sam Bray
+Mark Fiddes Tree Works,"Remove 'Web Creation UK'",true,2020-07-23T10:32:29.057Z,Tyler Landry
+Mark Fiddes Tree Works,Amend focus areas from Somerset only - see email,true,2020-05-21T10:56:03.213Z,Tyler Landry
+Mark Fiddes Tree Works,Hedge Cutting - Remove Gardners & Landscapers ,true,2020-05-20T15:40:21.759Z,Tyler Landry
+Mark Fiddes Tree Works,Garden Clearance/Green Waste - Concise,true,2020-07-01T09:17:54.004Z,Sam Bray
+Mark Fiddes Tree Works,Common Reasons for Garden Clearance - Remove ,true,2020-05-20T15:41:08.371Z,Tyler Landry
+Mark Fiddes Tree Works,Firewood - Change Photo,true,2020-05-20T15:41:29.055Z,Tyler Landry
+Mark Fiddes Tree Works,Firewood - Review Content and Amend - Request Pricing from Mark ,true,2020-07-01T09:17:55.169Z,Sam Bray
+Mark Fiddes Tree Works,Request About Us Content from Mark ,true,2020-07-01T09:17:56.351Z,Sam Bray
+Mark Fiddes Tree Works,"I do not wish to put my price for firewood on the site. I just want it to state ‘dry, seasoned firewood for sale’",true,2020-07-01T09:17:57.535Z,none
+Mark Fiddes Tree Works,Add additional FAQs,true,2020-05-21T10:41:26.324Z,Tyler Landry
+Mark Fiddes Tree Works,Remove case studies ,true,2020-05-27T11:18:48.805Z,Tyler Landry
+Mark Fiddes Tree Works,"In FAQ, question one asks ‘what time of year is best to have your tree removal work completed?’. The answer given relates to pruning and not tree removal. Tree removal can be done any time of year (subject to council permission if needed).",true,2020-06-04T08:26:37.862Z,Tyler Landry
+Mark Fiddes Tree Works,Logs & Woodchip - Remove Play Areas ,true,2020-05-20T15:42:43.575Z,Tyler Landry
+Mark Fiddes Tree Works,"In FAQ, ‘are you a fully qualified tree surgeon?’. The first sentence should state ‘yes’. Qualification in NPTC Arboriculture gained at Cannington College.",true,2020-06-04T08:26:36.212Z,Tyler Landry
+Mark Fiddes Tree Works,The photo for ‘Firewood’ should be of some logs. I do not have a clue what the current photo is.,true,2020-06-04T08:26:34.660Z,Tyler Landry
+Mark Fiddes Tree Works,It states ‘if you live in Somerset or surrounding areas....’ . That seems to suggest we go further than Somerset. ,true,2020-06-04T08:26:32.653Z,Tyler Landry
+Mark Fiddes Tree Works,"There is no mention of North Somerset. Portishead, Clevedon, Weston-Super-Mare, Nailsea are all in North Somerset and not Somerset.",true,2020-06-04T08:26:26.699Z,Tyler Landry
+Mark Fiddes Tree Works,Under ‘Woodchip’ it mentions it can be used as fire starters. Please remove this. ,true,2020-06-04T08:26:30.277Z,Tyler Landry
+Mark Fiddes Tree Works,Set up CF7 listener (TC you have been given GTM access),true,2020-07-29T14:09:30.331Z,Tom Strat
+Mark Fiddes Tree Works,About us remove everything after Tree Surgeon ,true,2020-05-20T15:43:21.389Z,Tyler Landry
+Mark Fiddes Tree Works,FAQ - Change areas covered ,true,2020-05-20T15:42:43.200Z,Tyler Landry
+Mark Fiddes Tree Works,Please ensure my company name is stated in full - ‘Mark Fiddes Tree Works Ltd.,true,2020-06-04T08:26:25.664Z,Tyler Landry
+Mark Fiddes Tree Works,Integrate Testimonials from Bark ,true,2020-05-20T15:43:41.049Z,Tyler Landry
+Mark Fiddes Tree Works,Review site as a whole,true,2020-05-27T11:18:37.601Z,Tyler Landry
+Mark Fiddes Tree Works,Set up goal from CF7 event,true,2020-07-29T16:13:23.967Z,Sam Bray
+Mark Fiddes Tree Works,Add Stump Grinding Page in Services Section - Requested,true,2020-02-06T15:56:52.995Z,Tyler Landry
+Mark Fiddes Tree Works,"Service pages need additional design. CTA, contact form, gallery, appropriate tagged case studies to pull in",true,2020-01-24T11:24:02.722Z,Tyler Landry
+Mark Fiddes Tree Works,We need login wp-admin link (TL emailed),true,2020-07-28T08:34:23.809Z,Tyler Landry
+Mark Fiddes Tree Works,Provide domain registrar login dets to SB,true,2020-07-28T08:25:07.054Z,ollie
+Mark Robbins Ltd - 29147,Meta Title and Description - Mark Robbins Windows,true,2019-10-10T13:43:34.027Z,Tom Strat
+Mark Robbins Ltd - 29147,Furlough review,true,2020-07-02T13:37:46.891Z,Sam Bray
+Mark Robbins Ltd - 29147,Final Review & Testing (SB),true,2020-07-02T13:37:16.347Z,Sam Bray
+Mark Robbins Ltd - 29147,Final Amends Review Email to Redsky,true,2020-06-09T09:19:22.846Z,Sam Bray
+Mark Robbins Ltd - 29147,Meeting with Tom @ Redsky,true,2020-05-26T09:18:23.876Z,Sam Bray
+Mark Robbins Ltd - 29147,Meeting with ICAAL,true,2020-05-12T14:37:41.150Z,Sam Bray
+Mark Robbins Ltd - 29147,Project Briefing,true,2020-05-12T14:35:53.703Z,Sam Bray
+Mark Robbins Ltd - 29147,"Review site hierarchy, consider what pages are required for ICAAL",true,2020-05-18T13:40:21.944Z,Tom Strat
+Mark Robbins Ltd - 29147,Complete UX report of site and make recommendations to inform wireframe,true,2020-05-19T11:41:36.301Z,Sam Bray
+Mark Robbins Ltd - 29147,Client Meeting Time,true,2020-05-19T16:11:06.972Z,Sam Bray
+Mark Robbins Ltd - 29147,Wireframe page layouts,true,2020-05-15T14:23:19.150Z,Tom Strat
+Mark Robbins Ltd - 29147,New Keywords for SEO (near me),false,,Sam Bray
+Mark Robbins Ltd - 29147,Put in redirect from /index.html to the homepage as requested by ELEVATEseo,true,2020-05-12T09:51:43.825Z,Tom Strat
+Mark Robbins Ltd - 29147,Build Warm Roof Page,true,2020-04-15T14:29:19.440Z,Tom Strat
+Mark Robbins Ltd - 29147,"Remove page https://markrobbinsltd.co.uk/loggia.html from the menu (mark wants this removed, but i think we keep it live as it does rank for a couple of terms)",true,2020-04-17T10:31:38.908Z,Tom Strat
+Mark Robbins Ltd - 29147,"Refresh keyword focus for SEO to target sky rooms, warm roof, sun room, conservatories, orangeries and aluminium products...",true,2020-05-20T09:27:24.378Z,Sam Bray
+Mark Robbins Ltd - 29147,Upgrade to PRO package with Web Creation,true,2020-05-06T11:34:34.948Z,Tyler Landry
+Mark Robbins Ltd - 29147,Redirect these pages to warm roof page,true,2020-04-23T11:38:12.433Z,Tom Strat
+Mark Robbins Ltd - 29147,Fix Redirect Chains,true,2020-02-25T13:36:11.695Z,Tom Strat
+Mark Robbins Ltd - 29147,Incorrect pages found in sitemap (review & let SB know if you need help),true,2020-02-25T10:56:08.413Z,Tom Strat
+Mark Robbins Ltd - 29147,Change home page META,true,2020-02-25T09:57:51.278Z,Tom Strat
+Mark Robbins Ltd - 29147,Create Content Idea,true,2019-09-11T13:10:53.416Z,Tyler Landry
+Mark Robbins Ltd - 29147,Submit Content,true,2019-09-23T15:14:35.593Z,Tyler Landry
+Mark Robbins Ltd - 29147,Replace GTM - 1.0,true,2019-11-14T11:12:19.050Z,Tom Strat
+Mark Robbins Ltd - 29147,Add recapture to site (getting a lot of spam),false,,Tom Strat
+Mark Robbins Ltd - 29147,Pipedrive junk cleared out by,true,2019-09-04T14:45:55.932Z,Tyler Landry
+Mark Robbins Ltd - 29147,Phone call (feedback from Pipedrive usage + discuss email automation + Discuss project management pipeline),true,2019-09-27T09:09:14.428Z,Sam Bray
+Mark Robbins Ltd - 29147,Phone call,true,2019-11-25T17:17:33.220Z,Sam Bray
+Mark Robbins Ltd - 29147,"Report on KPI, Organic “Somerset” Terms",true,2020-01-23T13:19:44.135Z,Tyler Landry
+Mark Robbins Ltd - 29147,Source Aluminium Door Images,true,2019-09-04T09:58:50.245Z,Tyler Landry
+Mark Robbins Ltd - 29147,Develop Strategy for July and Send to Sam,true,2019-09-04T09:58:52.494Z,none
+Mark Robbins Ltd - 29147,Add Products to GMB Listing ,true,2019-10-23T11:36:33.114Z,Tyler Landry
+Mark Robbins Ltd - 29147,Change META Titles,true,2019-11-28T09:00:32.863Z,Tom Strat
+Mark Robbins Ltd - 29147,Reassess META Titles,true,2019-11-25T12:32:36.859Z,Sam Bray
+Mark Robbins Ltd - 29147,GTM tags added,true,2019-11-25T17:14:36.923Z,Sam Bray
+Mark Robbins Ltd - 29147,Cookie Policy,true,2020-05-13T13:56:26.903Z,Tom Strat
+Mark Robbins Ltd - 29147,Redirect issue (search console flagged),true,2020-03-23T13:55:01.229Z,Tom Strat
+Mark Robbins Ltd - 29147,Upload as new project to Web-Creation on their base project,true,2020-03-04T11:41:18.966Z,Tyler Landry
+Mark Robbins Ltd - 29147,Cookie Policy,true,2020-04-30T10:05:28.351Z,Tom Strat
+Mark Robbins Ltd - 29147,Rework of Warm Roof Page layout,true,2020-05-13T13:56:13.224Z,Tom Strat
+Mark Robbins Ltd - 29147,Privacy Policy,true,2020-04-30T10:05:27.150Z,Tom Strat
+Mark Robbins Ltd - 29147,"Get login details for 'Buy with confidence' ",true,2019-04-23T09:23:12.041Z,Tyler Landry
+Mark Robbins Ltd - 29147,Check task list on Basecamp vs. Site Build,true,2019-04-18T09:43:46.118Z,Tyler Landry
+Mark Robbins Ltd - 29147,Monthly Digital Marketing Report,true,2020-05-01T14:38:31.392Z,Sam Bray
+Mark Robbins Ltd - 29147,Monthly Digital Marketing Report,true,2020-05-01T14:38:40.577Z,Sam Bray
+Mark Robbins Ltd - 29147,Monthly Digital Marketing Report,true,2020-05-01T14:38:49.499Z,Sam Bray
+Mark Robbins Ltd - 29147,Monthly Digital Marketing Report,true,2020-05-07T08:07:23.162Z,Sam Bray
+Mark Robbins Ltd - 29147,Monthly Digital Marketing Report,true,2020-07-21T08:12:29.010Z,Sam Bray
+Mark Robbins Ltd - 29147,Monthly Digital Marketing Report,true,2020-07-21T08:12:37.517Z,Sam Bray
+Mark Robbins Ltd - 29147,Monthly Digital Marketing Report,true,2020-08-11T14:53:03.924Z,Sam Bray
+Monnow Mowers,COVID hours change GMB and website,true,2020-03-26T10:53:09.495Z,Sam Bray
+Monnow Mowers,Installed reCapture v3,true,2020-02-10T08:14:36.971Z,Sam Bray
+Monnow Mowers,"Implement a “Book a Service” call to action which takes users through a process, requesting the following information; “Book a service” > Collection Required [yes/no] > Ideal Time [AM/PM] > Personal details > submit",true,2020-01-03T11:56:29.454Z,Sam Bray
+Monnow Mowers,Transfer Domain from our FastHost to Jason ,true,2019-10-07T15:37:08.501Z,Tom Strat
+Monnow Mowers,Setup email for Jason ,true,2019-10-09T09:37:40.158Z,Tyler Landry
+Monnow Mowers," Produce a design for a product page, which we can use as a template for uploading the new products for 2020. Catalogue style, no pricing, click to enquire is the CTA.",true,2020-01-03T11:56:48.557Z,ollie
+Monnow Mowers, Replace “American” style images across the site with more relevant images,true,2020-01-03T12:07:39.461Z,Sam Bray
+Monnow Mowers,Home Page,true,2019-07-16T11:20:53.130Z,none
+Monnow Mowers,About Us,true,2019-07-01T01:25:09.349Z,none
+Monnow Mowers,Add new email and mobile number across the site,true,2019-11-13T15:47:46.725Z,Tyler Landry
+Monnow Mowers,Products,true,2019-07-16T11:19:42.916Z,none
+Monnow Mowers,Brands,true,2019-05-30T08:42:29.788Z,Tyler Landry
+Monnow Mowers,Optimise GMB Listing ,true,2019-12-05T13:05:08.913Z,Tyler Landry
+Monnow Mowers,Service and Repairs,true,2019-07-16T10:50:53.446Z,none
+Monnow Mowers,Replace Google Logo - See Attached,true,2019-07-12T04:35:24.448Z,none
+Monnow Mowers,Add Testimonial and Brands We Work with Banner to Products Pages ,true,2019-07-16T11:19:41.772Z,none
+Monnow Mowers,"Can we make the size consistent on testimonials so the page doesn't move up and down when the text changes. ",true,2019-07-12T04:36:46.032Z,none
+Monnow Mowers,Link Social Icons,true,2019-07-16T10:50:47.014Z,none
+Monnow Mowers,Could we add Address and Social Logos to Nav Bar? See attached  ,true,2019-07-12T04:49:01.500Z,none
+Monnow Mowers,"Link All Contact Info (Numbers, Emails, Etc...) also please remove UK from address",true,2019-07-24T13:38:38.831Z,none
+Monnow Mowers,"Please add CSS to give style that matched the theme to the drop downs and aslo remove the grey breadcumbs style navigation bar that says contact. Please replace with ""Contact Us"" stylised to fit the theming",true,2019-07-12T04:57:12.280Z,none
+Monnow Mowers,Contact Us,true,2019-07-24T13:32:02.390Z,none
+Monnow Mowers,Link Facebook ,true,2019-07-01T08:50:27.532Z,none
+Monnow Mowers,LinkedIn ,true,2019-07-01T08:50:48.711Z,none
+Monnow Mowers,Remove Instagram,true,2019-07-01T08:51:08.873Z,none
+Monnow Mowers,Remove Twitter,true,2019-07-01T08:51:10.120Z,none
+Monnow Mowers,Update Business Hours ,true,2019-07-01T08:52:41.615Z,none
+Monnow Mowers,All Text Across Site to be a minimum of 16PT,true,2019-07-24T13:38:38.831Z,none
+Monnow Mowers,Adjust this text on Homepage,true,2019-07-01T08:56:29.696Z,none
+Monnow Mowers,Testimonials,true,2019-07-24T13:38:38.831Z,none
+Monnow Mowers,TagLine,true,2019-07-01T01:25:12.415Z,none
+Monnow Mowers,See Logo Here or in Files ,true,2019-05-23T13:01:58.791Z,Tyler Landry
+Monnow Mowers,Hierarchy,true,2019-05-23T13:02:00.200Z,Tyler Landry
+Monnow Mowers,Set-up Hosting,true,2019-05-28T13:28:25.494Z,Tom Strat
+Monnow Mowers,"SB to review Monnow Mowers site for James's work",true,2020-01-03T12:07:29.022Z,Sam Bray
+Monnow Mowers,"We need to provide Jason with a sample spreadsheet, based on product info we need",true,2020-01-15T16:29:39.714Z,Tyler Landry
+Monnow Mowers,Where is the PPC campaign pulling from?,true,2019-12-12T17:35:05.701Z,Sam Bray
+Monnow Mowers,"P9308 - Product Page Design, Book Service Function, GMB (Outstanding since October)",true,2020-04-15T12:10:44.883Z,Tyler Landry
+Monnow Mowers,Send Invoice and inform we will charge. ,true,2020-04-08T12:42:05.646Z,Tyler Landry
+Monnow Mowers,Refine project brief ,false,,Sam Bray
+Monnow Mowers,Shop catalogue project,false,,Sam Bray
+Monnow Mowers,Password reset (URGENT),true,2020-07-22T15:21:40.830Z,Tom Strat
+Mendip Mowers,Q&A with Emma re banner,true,2020-03-17T12:32:11.474Z,Sam Bray
+Mendip Mowers,"Optimise GMB, send invoice, products",true,2019-10-30T10:43:12.256Z,Tyler Landry
+Mendip Mowers,Claim the GMB Listing - get payment from Jeanette (Send her invoice),true,2019-10-10T11:50:58.944Z,Tyler Landry
+Mendip Mowers,Assess site stability & woo commerce compatibility ,true,2020-04-20T14:52:07.741Z,Tom Strat
+Mendip Mowers,Install woocommerce,true,2020-04-22T15:53:03.646Z,Tom Strat
+Mendip Mowers,Test Plugin,true,2020-04-22T15:53:14.848Z,Tom Strat
+Mendip Mowers,Design Pages,true,2020-05-01T15:15:39.252Z,Tom Strat
+Mendip Mowers,Upload test product,true,2020-04-22T15:53:33.049Z,Tom Strat
+Mendip Mowers,Page template amends,true,2020-04-23T15:11:35.534Z,Tom Strat
+Mendip Mowers,Refine customer enquiry journey,true,2020-05-01T15:16:05.005Z,Tom Strat
+Mendip Mowers,Bulk product upload,true,2020-04-23T14:21:14.475Z,Tom Strat
+Mendip Mowers,Reupload spreadsheet,true,2020-05-01T15:15:49.089Z,Tom Strat
+Mendip Mowers,Testing & Snagging,true,2020-05-01T15:15:52.266Z,Tom Strat
+Mendip Mowers,DEADLINE - Soft launch,true,2020-05-04T08:34:08.203Z,Tom Strat
+Mendip Mowers,Customer Phone Calls,true,2020-04-30T10:31:04.070Z,Sam Bray
+Mendip Mowers,Renew Hosting Full Year,true,2020-08-06T09:11:17.782Z,Tyler Landry
+Mendip Mowers,Renew Hosting Full Year,false,,Sam Bray
+Mendip Mowers,Catalogue project invoiced ,true,2020-05-05T07:25:48.539Z,Sam Bray
+OD Electrical,Optimise Google My Business Listing ,true,2019-11-27T10:57:54.931Z,Tyler Landry
+Offshore MPA,Account Mgt Meeting,true,2020-09-15T09:01:37.286Z,Sam Bray
+Offshore MPA,Account Mgt Meeting,true,2020-09-28T12:18:14.794Z,Sam Bray
+Offshore MPA,Account Mgt Meeting,true,2020-10-14T09:21:50.761Z,Sam Bray
+Offshore MPA,Account Mgt Meeting,false,,Sam Bray
+Offshore MPA,Strategy & Review,true,2020-09-15T09:02:52.917Z,Sam Bray
+Offshore MPA,Strategy & Review,true,2020-09-28T11:34:37.077Z,Sam Bray
+Offshore MPA,Strategy & Review,true,2020-10-14T09:21:52.568Z,Sam Bray
+Offshore MPA,Strategy & Review,false,,Sam Bray
+Offshore MPA,Define objectives and review the two training courses,true,2020-08-21T11:20:12.889Z,ollie
+Offshore MPA,Define audience and how we might reach them,true,2020-08-21T11:20:09.366Z,Sam Bray
+Offshore MPA,Define landing pages and make recommendations for UX changes and additions to site,true,2020-08-21T11:20:04.729Z,Sam Bray
+Offshore MPA,"Complete competitor & market research (Paid & Non-Paid, Site UX) ",true,2020-08-21T11:19:58.454Z,Sam Bray
+Offshore MPA,Define user journey,true,2020-08-21T11:19:56.696Z,Sam Bray
+Offshore MPA,Research and estimate Google Ads budget requirements,true,2020-08-21T14:49:11.905Z,Sam Bray
+Offshore MPA,Write documentation,true,2020-08-21T14:49:13.561Z,Sam Bray
+Offshore MPA,Added a 4:4 and 1:4 Aspect Ratio Logo to Share Drive ,true,2020-09-29T11:10:43.816Z,Tyler Landry
+Offshore MPA,Get creatives from Soral,true,2020-09-15T15:03:18.723Z,none
+Offshore MPA,Design Google Ads creatives (link to canva assets in comments),true,2020-09-23T12:31:46.813Z,Tyler Landry
+Offshore MPA,Set up account & get payment details & user access,true,2020-08-11T15:57:37.335Z,Sam Bray
+Offshore MPA,Set up search console & GTM,true,2020-08-21T12:15:43.651Z,Sam Bray
+Offshore MPA,Monthly PPC Management - Offshore MPA (1 hour),true,2020-09-15T08:58:06.893Z,Sam Bray
+Offshore MPA,Monthly PPC Management - Offshore MPA (1 hour),false,,Sam Bray
+Offshore MPA,Create campaign & settings,true,2020-08-21T12:15:35.336Z,Sam Bray
+Offshore MPA,"Build Ad Groups, ads, keywords",true,2020-08-21T14:49:16.398Z,Sam Bray
+Offshore MPA,Duplicate and build additional ad groups,true,2020-08-21T14:49:24.127Z,Sam Bray
+Offshore MPA,Create ad extensions,true,2020-08-21T12:15:26.910Z,Sam Bray
+Offshore MPA,Link with analytics & set up conversions,true,2020-08-21T12:15:19.073Z,Sam Bray
+Offshore MPA,Create audience lists for future remarketing,true,2020-08-21T14:52:38.525Z,Sam Bray
+Offshore MPA,Create display campaign,true,2020-09-24T09:57:09.272Z,Sam Bray
+Offshore MPA,Ads logo on each slide?? ,true,2020-09-30T12:48:01.758Z,Tyler Landry
+Offshore MPA,Added favicon,true,2020-08-15T07:31:07.298Z,Sam Bray
+Offshore MPA,Set up CF7 listener CF7,true,2020-08-21T08:48:44.264Z,Tom Strat
+Offshore MPA,Set up listener goal GA,true,2020-08-21T11:19:04.860Z,Sam Bray
+Offshore MPA,Uninstalled CF7 - GA,true,2020-08-21T11:19:43.569Z,Sam Bray
+Offshore MPA,Phone numbers linked,true,2020-08-21T15:12:56.039Z,Sam Bray
+Offshore MPA,Send PPC mgt invoice,true,2020-10-07T09:25:15.775Z,Sam Bray
+Offshore MPA,Send PPC mgt invoice,false,,Sam Bray
+Oldunn Developments,Added website to GMB listing,true,2020-09-22T09:12:46.151Z,Tyler Landry
+Oldunn Developments,Client not happy with lack of Photographs - Discuss POA - Projects Meeting (Gallery Per Page),true,2020-05-27T11:52:33.584Z,Tyler Landry
+Oldunn Developments,Email client POA to address concerns,true,2020-05-27T11:53:21.761Z,Tyler Landry
+Oldunn Developments,Get client approval,true,2020-09-15T08:36:12.551Z,Tyler Landry
+Oldunn Developments,Amy to discuss with Tom some amendments to get the site where it needs to be prior to making it live. ,true,2020-04-22T10:04:18.263Z,Tom Strat
+Oldunn Developments,Get payment,true,2020-09-15T08:36:42.963Z,Tyler Landry
+Oldunn Developments,Asked them to fix the homepage feature slots. ,true,2020-03-13T11:44:59.979Z,Tyler Landry
+Oldunn Developments,Upload Testimonial,true,2020-04-09T14:18:06.197Z,Tom Strat
+Oldunn Developments,Make live,true,2020-09-15T14:35:04.448Z,none
+Oldunn Developments,Tyler to review content ,true,2020-02-12T11:11:35.498Z,Tyler Landry
+Oldunn Developments,Change Header to Black ,true,2020-05-19T13:46:32.884Z,Tom Strat
+Oldunn Developments,Roofing Page ,true,2020-05-15T11:11:35.449Z,Tom Strat
+Oldunn Developments,Turn case study functionality and move to live,true,2020-03-13T11:45:00.803Z,Tyler Landry
+Oldunn Developments,Live Build for Review,true,2020-01-06T15:22:44.606Z,Tyler Landry
+Oldunn Developments,Switch to live,true,2020-09-15T08:36:10.047Z,Tyler Landry
+Oldunn Developments,Facebook Profile ,true,2019-12-18T17:20:26.405Z,Tyler Landry
+Oldunn Developments,Order content,true,2020-02-06T11:18:01.025Z,Tyler Landry
+Oldunn Developments,Design Approved,true,2019-12-11T09:54:36.409Z,Tyler Landry
+Oldunn Developments,GMB,true,2019-12-18T17:20:31.015Z,Tyler Landry
+Oldunn Developments,Removed all stock photos possible and have informed AMY,true,2020-04-01T11:06:57.246Z,Tyler Landry
+Oldunn Developments,Discussed amendments with Tom and wrote a quick copy for Exterior,true,2020-03-18T15:33:21.930Z,Tyler Landry
+Oldunn Developments,Dev link is broken?!,true,2020-07-22T09:39:30.276Z,ollie
+Oldunn Developments,Oldun upload new pics,true,2020-04-09T14:15:04.840Z,Tom Strat
+Oldunn Developments,"Inserted new 'About Us' Text",true,2020-04-29T14:26:44.956Z,Tyler Landry
+Oldunn Developments,Initial Draft Sent,true,2019-12-11T09:54:35.295Z,Tyler Landry
+Oldunn Developments,Roofing Section Added,true,2020-04-29T14:32:47.980Z,Tyler Landry
+Oldunn Developments,Amy to agree price for additional page with Olddun,true,2020-07-30T08:34:55.539Z,Amy Carlin
+Oldunn Developments,"Inserted new 'Homepage' Text",true,2020-04-29T14:26:46.602Z,Tyler Landry
+Oldunn Developments,Porches Section Added,true,2020-04-29T14:32:49.443Z,Tyler Landry
+Oldunn Developments,Decking Section Added,true,2020-04-29T14:32:50.518Z,Tyler Landry
+Oldunn Developments,"Get testimonials on About us page and 'Contact Us' container",true,2020-05-19T12:48:59.388Z,Tyler Landry
+Oldunn Developments,Coming soon page - oldunndevelopment.com and oldunndevelopments.com,true,2019-12-03T16:50:00.052Z,Tyler Landry
+Oldunn Developments,Send Brief to Web Creation ,true,2019-11-29T12:59:15.818Z,Tyler Landry
+Oldunn Developments,Link Facebook,true,2020-05-19T09:47:03.375Z,Tom Strat
+Oldunn Developments,Exterior pages - new text added ,true,2020-04-30T08:15:26.342Z,Tyler Landry
+Oldunn Developments,Tania to mock-up Half Page Adverts ,true,2019-11-26T14:29:41.228Z,Tyler Landry
+Oldunn Developments,Pay Initial Invoice - https://connect.intuit.com/portal/app/CommerceNetwork/view/a7644b44ebd54b3f8dfae076ae52ab9c6ede2d64264943b8a082f67ef749624850f8f26d731948b4bb9fd4ce4efac992?cta=sharelinkprint&locale=en_GB ,true,2019-12-04T11:11:55.106Z,ollie
+Oldunn Developments,Remove Twitter and Instagram Icons,true,2020-05-19T09:47:07.313Z,Tom Strat
+Oldunn Developments,"Snagging, ammends, finalising",true,2020-05-15T12:01:05.383Z,Tom Strat
+Oldunn Developments,Phone Numbers & Emails need to be live links,true,2020-05-19T09:46:59.699Z,Tom Strat
+Oldunn Developments,Add gradient layer to slider,true,2020-05-15T11:11:18.071Z,Tom Strat
+Oldunn Developments,Exteriors page - -	Remove the roofing section as this is now a page.,true,2020-08-28T11:26:26.876Z,Tom Strat
+Oldunn Developments,Text amendment on Bedrooms Page,true,2020-08-28T11:27:48.300Z,Tom Strat
+Oldunn Developments,Change header image to the attached on the About Us page.,true,2020-09-08T10:23:36.080Z,Tom Strat
+Oldunn Developments,Add new testimonial - in comments.,true,2020-08-28T11:31:01.673Z,Tom Strat
+Oldunn Developments,"On each page there is a section called 'Features' Please make this title stand out more - Bolder and bigger.",true,2020-08-28T11:39:21.283Z,Tom Strat
+Oldunn Developments,Change all content layout so each paragraph is in alignment - call Amy for clarification if needed. ,true,2020-08-28T12:56:24.832Z,Tom Strat
+Oldunn Developments,Typo on the social media link in the footer – Folow should read Follow.,true,2020-08-28T11:41:01.258Z,Tom Strat
+Oldunn Developments,Website colour theme to change from black to the same grey as the new logo,true,2020-08-28T12:00:23.972Z,Tom Strat
+Oldunn Developments,New Logo to replace current logo,true,2020-08-28T12:00:10.846Z,Tom Strat
+Orchard Somerset,Add GMB Map to contact form page,true,2020-01-22T12:16:48.131Z,Tyler Landry
+Orchard Somerset,Landing Page - Portishead,true,2020-01-30T10:48:58.291Z,Tom Strat
+Orchard Somerset,Add GMB Review widget to website,false,,none
+Orchard Somerset,"Jobber integration with Wordpress, is this possible? Integrate this page into the site. Could just be a CTA link away from the site, or possibly a iFrame embed, but this might be over complicating it https://clienthub.getjobber.com/client_hubs/d3b8fe4f-d5a6-4600-b71d-4ed6b4e5910c/public/work_request/new",true,2020-01-30T12:56:48.662Z,Tom Strat
+Orchard Somerset,LinkedIn integration via Careers page?,false,,none
+Orchard Somerset,Nailsea Landing Page needs to be created,true,2020-01-21T15:42:19.666Z,Tom Strat
+Orchard Somerset,Whatsapp CTA integration (Same as Wye Country Services),true,2020-02-05T11:35:35.252Z,Tom Strat
+Orchard Somerset,Break up text & redesign sub level pages,true,2020-02-05T12:43:08.439Z,Tom Strat
+Orchard Somerset,Dev tasks need providing,true,2020-01-02T13:15:44.803Z,Sam Bray
+Orchard Somerset,Set-up Payment Plan,true,2020-01-31T15:48:23.613Z,Tyler Landry
+Orchard Somerset,Send Ivan Username and Password (Created Account with Editor Level Access),true,2020-01-22T10:46:11.514Z,Tyler Landry
+Orchard Somerset,Add recapture to website (getting spammed),true,2020-01-30T10:36:04.193Z,Tom Strat
+Orchard Somerset,SEO & Dev campaign starting - Anything else needed?,true,2020-01-03T13:34:40.429Z,Sam Bray
+Orchard Somerset,"Create a container for ""Areas covered"" and link to the newly created geo-landing pages. Could do in About us?",true,2020-02-05T10:26:56.283Z,Tom Strat
+Orchard Somerset,Set up SEO Campaign,true,2019-12-18T10:43:34.525Z,Tyler Landry
+Orchard Somerset,Keyword Research,true,2019-12-20T16:51:39.220Z,Sam Bray
+Orchard Somerset,Linked Search Console,true,2019-11-19T12:23:52.827Z,Tyler Landry
+Orchard Somerset,Upload Dev Task List,true,2019-12-20T16:51:31.317Z,Sam Bray
+Orchard Somerset,Made site live - final amends,true,2019-11-19T10:07:16.771Z,Tyler Landry
+Orchard Somerset,Linked Google Analytics,true,2019-11-19T12:23:52.021Z,Tyler Landry
+Orchard Somerset,Linked GMB - No Access (emailed Ivan to complete),true,2019-11-19T12:24:14.313Z,Tyler Landry
+Orchard Somerset,Change title on the website,true,2019-11-18T16:20:51.458Z,Tyler Landry
+Orchard Somerset,Sort Images and Send Back to Web Creation for Implementation - .5 Hours,true,2019-11-12T10:01:22.002Z,Tyler Landry
+Orchard Somerset,Ensure home improvements banner and homepage photo are right,true,2019-11-18T16:20:46.511Z,Tyler Landry
+Orchard Somerset,Rearrange the order of the photos in the case study,true,2019-11-18T16:14:43.564Z,Tyler Landry
+Orchard Somerset,Home Improvement - Change image to a Kitchen/Diner,true,2019-11-12T10:00:41.912Z,none
+Orchard Somerset,Home Improvement - Image for each service,true,2019-11-12T10:00:43.088Z,none
+Orchard Somerset,Home Improvement - Remove Plasteres,true,2019-11-12T10:00:44.376Z,none
+Orchard Somerset,The Team - Slider Change,true,2019-11-12T10:00:46.556Z,none
+Orchard Somerset,Case Studies - Change Order ,true,2019-11-12T10:00:48.387Z,none
+Orchard Somerset,Garden Services - Picture on each,true,2019-11-12T10:00:50.101Z,none
+Orchard Somerset,"Landscaping - Slider image (New Picture, current one is on it's side)",true,2019-11-12T10:00:50.815Z,none
+Orchard Somerset,Landscaping - Photo to accompany each service,true,2019-11-12T10:00:51.914Z,none
+Orchard Somerset,Hierarchy,true,2019-08-23T12:38:20.922Z,Tyler Landry
+Orchard Somerset,Wire Frame,true,2019-09-05T14:43:13.637Z,Tyler Landry
+Orchard Somerset,Amends to the Wire Frame,true,2019-09-13T11:27:27.745Z,Tyler Landry
+Orchard Somerset,Copywriting Test,true,2019-09-16T10:34:06.606Z,Tyler Landry
+Orchard Somerset,Live Build Review,true,2019-10-09T09:40:51.167Z,Tyler Landry
+Orchard Somerset,Coming Soon Page ,true,2019-09-23T15:14:46.160Z,Tyler Landry
+Orchard Somerset,Complete Live Build Amends,true,2019-10-28T11:18:25.398Z,Tyler Landry
+Orchard Somerset,Test & Snagging,true,2019-11-05T09:28:39.464Z,Tyler Landry
+Orchard Somerset,"Upon website completion, ensure hosting invoice gets addressed and that the date is changed so Client does not go past twelve months",true,2019-11-12T10:00:53.060Z,Tyler Landry
+Orchard Somerset,Invoice and Charge for Domain Registration,true,2019-08-22T08:30:56.433Z,Tyler Landry
+Orchard Somerset,Received final payment & first year of hosting payment ,true,2019-11-14T14:21:12.641Z,Tyler Landry
+Orchard Somerset,Change Text - Professional Home Improvement & Garden Services,true,2019-11-12T10:00:54.357Z,none
+Orchard Somerset,Contact Us - Add text to Slider? Make contact form more immediate,true,2019-11-12T10:00:55.421Z,none
+Orchard Somerset,"Our Services - ""Your Home"" Description grammatical error",true,2019-11-12T10:00:56.695Z,none
+Orchard Somerset,Landscaping - Add period,true,2019-11-12T10:00:57.747Z,none
+Orchard Somerset,Remove about us from drop down,true,2020-02-05T11:56:34.187Z,Tom Strat
+Orchard Somerset,Merge team page with about us page,true,2020-02-05T12:13:05.998Z,Tom Strat
+Penyard Kitchens,Create and Design (LOGO Pack) ,true,2019-11-01T11:42:23.403Z,Tyler Landry
+Penyard Kitchens,Deposit Payment (Web Creation),true,2019-09-20T13:24:04.467Z,Tyler Landry
+Penyard Kitchens,Send Logo for Facebook,true,2020-01-13T11:48:23.572Z,Tyler Landry
+Penyard Kitchens,Conference Call - Final Reviews of the Website,true,2020-01-10T12:20:52.070Z,Tyler Landry
+Penyard Kitchens,Logo and Branding,true,2019-09-17T08:34:10.779Z,Tyler Landry
+Penyard Kitchens,Wire Frame,true,2019-10-28T11:16:37.910Z,Tyler Landry
+Penyard Kitchens,Amends to Wire Frame,true,2019-10-28T11:17:33.976Z,Tyler Landry
+Penyard Kitchens,Live Build,true,2019-11-29T12:58:27.652Z,Tyler Landry
+Penyard Kitchens,Arrange meeting with Jason towards the end of the build. Needs help with a multi-channel marketing strategy,true,2020-01-10T16:30:25.327Z,Sam Bray
+Penyard Kitchens,"Fix Slider, style and featured image",true,2020-01-09T14:48:02.168Z,Tom Strat
+Penyard Kitchens,"GTM, GA and SC Installation + Goal and Tag set up",true,2020-01-24T13:03:17.645Z,Sam Bray
+Penyard Kitchens,Set up Hosting & Make Website Live (Logins in notes),true,2020-01-21T14:09:09.999Z,Tom Strat
+Penyard Kitchens,P9410 - Outstanding - Website Hosting (Feb 2020 - Jan 2021) £360,true,2020-04-01T11:05:58.180Z,Tyler Landry
+Penyard Kitchens,P9411 - Outstanding - Google Ads Campaign Set-up - £480 ,true,2020-04-01T10:32:08.675Z,Tyler Landry
+Penyard Kitchens,P9253 - Outstanding - £597.00 Remaining on Website Build- £597,true,2020-04-01T10:33:02.254Z,Tyler Landry
+Penyard Kitchens,To set-up in GoCardless,true,2020-04-01T11:06:05.010Z,Tyler Landry
+Penyard Kitchens,Renew Hosting Invoice ,false,,Sam Bray
+Penyard Kitchens,Add new image from GMB - Perhaps on testimonials page (make more prominent)!,true,2020-10-09T15:25:06.853Z,Tom Strat
+Penyard Kitchens,COVID message on website (see notes),true,2020-03-25T13:53:51.325Z,Tyler Landry
+Penyard Kitchens,Vinyl Wrapped Content Page - Content has been sent over. ,true,2020-01-14T16:19:08.872Z,Tom Strat
+Penyard Kitchens,Add Review button once the GMB has been retrieved,true,2020-02-06T10:51:07.296Z,Tom Strat
+Penyard Kitchens,Test GTM form submission,true,2020-02-05T17:05:29.174Z,Sam Bray
+Penyard Kitchens,Add form submission script to GTM & Test (If you can use the same tag as is already set up that would be great!),true,2020-02-05T15:15:57.119Z,Tom Strat
+Penyard Kitchens,Facebook Logo Updated,true,2020-01-10T12:39:47.639Z,Tyler Landry
+Penyard Kitchens,Get email details to WC,true,2020-01-24T14:44:57.032Z,Tom Strat
+Penyard Kitchens,Social Logos (Only Facebook) Remove Insta & Twitter,true,2020-01-14T12:12:30.193Z,none
+Penyard Kitchens,Change Worktop Cover Photo,true,2020-01-14T16:19:26.518Z,Tyler Landry
+Penyard Kitchens,Find Us & Email switched on contact page (Email to appear 1st),true,2020-01-14T12:12:05.300Z,none
+Penyard Kitchens,Remove Feature Doors Section,true,2020-01-14T12:10:29.317Z,none
+Penyard Kitchens,"Remove Bay-stone from ""Shaker"" section",true,2020-01-14T12:10:32.041Z,none
+Penyard Kitchens,"Remove all ""Samples"" paragraphs from Color Palette",true,2020-01-14T12:10:34.243Z,none
+Penyard Kitchens,Remove and Product Codes,true,2020-01-14T12:12:02.208Z,none
+Penyard Kitchens,SVG Logo,true,2020-01-20T13:44:35.724Z,Tom Strat
+Penyard Kitchens,Add new testimonial & make testimonials photo smaller ,false,,Tom Strat
+Penyard Kitchens,Set up Google Ads Account (JF),true,2020-01-24T15:24:00.527Z,Sam Bray
+Penyard Kitchens,Set up Google Ads Campaign,true,2020-02-05T10:50:28.390Z,ollie
+Penyard Kitchens,Google My Business Listing - If not approved follow up with Manisha,true,2020-01-13T11:48:35.450Z,Tyler Landry
+Penyard Kitchens,Send Google Ads Strategy/Brief,true,2020-01-24T15:23:59.607Z,Sam Bray
+Penyard Kitchens,Add Images to GMB,true,2020-01-20T15:03:05.153Z,Tyler Landry
+Penyard Kitchens,Google Ads Review,true,2020-01-31T12:41:44.805Z,Sam Bray
+Penyard Kitchens,SB to review campaign,true,2020-09-17T11:14:02.237Z,Sam Bray
+Penyard Kitchens,PPC optimisation & retargeting set up (part of original build) - Penyard Kitchens,true,2020-02-24T16:28:39.062Z,none
+Penyard Kitchens,Creative required for Google Ads Retarget campaign,true,2020-02-24T15:43:33.374Z,none
+Peter Robinson Installation,Amend SIMI Kitchens and Peter Robinson Installation GMB,true,2020-03-19T10:36:04.251Z,Tyler Landry
+Peter Robinson Installation,Create and Verify GMB for Peter Robinson Installation,true,2020-03-13T12:30:39.209Z,Tyler Landry
+Peter Robinson Installation,Submit SEO Project for Peter Robinson Installation ,true,2020-03-13T12:30:35.889Z,Tyler Landry
+Peter Robinson Installation,Create and Verify GMB for simiKitchens ,true,2020-03-13T10:56:35.869Z,Tyler Landry
+Peter Robinson Installation,Renew 1/2 Day Retainer,true,2020-04-08T09:33:34.915Z,Tyler Landry
+Peter Robinson Installation,Renew 1/2 Day Retainer,true,2020-05-06T10:35:17.193Z,Tyler Landry
+Peter Robinson Installation,Renew 1/2 Day Retainer,true,2020-06-05T10:55:08.811Z,Tyler Landry
+Peter Robinson Installation,Renew 1/2 Day Retainer,true,2020-07-15T08:45:56.807Z,Tyler Landry
+Peter Robinson Installation,Renew 1/2 Day Retainer,true,2020-08-06T11:27:16.027Z,Tyler Landry
+Peter Robinson Installation,Renew 1/2 Day Retainer,true,2020-09-08T09:55:43.826Z,Tyler Landry
+Peter Robinson Installation,Renew 1/2 Day Retainer,true,2020-10-02T10:09:22.607Z,Amy Carlin
+Peter Robinson Installation,Renew 1/2 Day Retainer,false,,Sam Bray
+Peter Robinson Installation,Amy to send final payment invoice,true,2020-09-09T10:27:26.195Z,Amy Carlin
+Peter Robinson Installation,Reviewed SEMRush site audit,false,,Sam Bray
+Peter Robinson Installation,Updated META titles ,true,2020-09-23T10:20:16.474Z,Sam Bray
+Peter Robinson Installation,Bespoke Bedroom Furniture - Fixed Slug and Submitted to Google for Indexing,true,2020-08-20T11:02:11.548Z,Tyler Landry
+Peter Robinson Installation,Content: Bedroom Furniture Gloucestershire,true,2020-08-18T12:50:53.770Z,Tyler Landry
+Peter Robinson Installation,Request a call back button (ADD EMAIL) also use this instead of contact form on Landing Page,true,2020-06-03T11:16:08.721Z,Tyler Landry
+Peter Robinson Installation,About Us and Contact buttons Need Fixing - See Comments,true,2020-06-09T10:03:42.160Z,Tom Strat
+Peter Robinson Installation,Please fix this page (See Comments),true,2020-06-09T10:16:12.308Z,Tom Strat
+Peter Robinson Installation,Meta Titles & Descriptions ,true,2020-09-23T10:19:50.590Z,Tyler Landry
+Peter Robinson Installation,Hierarchy ,true,2020-09-23T10:19:52.471Z,Tyler Landry
+Peter Robinson Installation,Review and Implement new May content Wet Room ,true,2020-05-12T14:22:59.135Z,Tyler Landry
+Peter Robinson Installation,May - Wetroom Installation Gloucestershire - Content Ordered,true,2020-05-06T12:01:28.582Z,Tyler Landry
+Peter Robinson Installation,Implement - June - Kitchen Fitting and Installation Gloucestershire,true,2020-06-09T11:12:44.999Z,Tyler Landry
+Peter Robinson Installation,ORDERED - June - Kitchen Fitting and Installation Gloucestershire,true,2020-06-03T11:04:46.136Z,Tyler Landry
+Peter Robinson Installation,Changes to optimise Bespoke Kitchens Page as recommended by WC,true,2020-05-13T10:05:32.530Z,Tyler Landry
+Peter Robinson Installation,300 Words Per Month - Bespoke Kitchen Designs Gloucestershire - Ordered ,true,2020-04-01T08:57:20.308Z,Tyler Landry
+Peter Robinson Installation,Review  - Bespoke Kitchen Design Gloucestershire ,true,2020-04-07T08:28:26.374Z,Tyler Landry
+Peter Robinson Installation,Add LocalPages email to Analytics and Webmaster Tools ,true,2020-04-15T12:20:46.963Z,Tyler Landry
+Peter Robinson Installation,Can you implement the attached content please. This needs to be on a new landing page. ,true,2020-04-07T08:50:46.422Z,Tyler Landry
+Peter Robinson Installation,Optimise Bespoke Landing Page Gloucestershire,true,2020-04-15T12:29:21.043Z,Tyler Landry
+Peter Robinson Installation,"Search Console Access - Provided to Sam, Amy and WC",true,2020-04-08T09:22:25.330Z,Tyler Landry
+Peter Robinson Installation,Track Contact Forms,true,2020-09-14T10:58:26.242Z,Tom Strat
+Peter Robinson Installation,"Set up goals in Google Analytics (clicks to email, etc...)",true,2020-09-23T12:09:30.422Z,Sam Bray
+Peter Robinson Installation,Google Tag Manager ,true,2020-09-02T12:12:03.445Z,Sam Bray
+Peter Robinson Installation,Monthly Digital Marketing Report,true,2020-05-02T09:25:44.360Z,Sam Bray
+Peter Robinson Installation,Monthly Digital Marketing Report,true,2020-07-08T09:40:26.337Z,Sam Bray
+Peter Robinson Installation,Monthly Digital Marketing Report,true,2020-07-22T09:40:35.306Z,Sam Bray
+Peter Robinson Installation,Monthly Digital Marketing Report,true,2020-08-11T14:53:05.823Z,Sam Bray
+Peter Robinson Installation,Monthly Digital Marketing Report,true,2020-09-17T10:22:38.599Z,Sam Bray
+Peter Robinson Installation,Monthly Digital Marketing Report,false,,Sam Bray
+Peter Robinson Installation,Add video to Kitchens page - https://www.youtube.com/watch?v=UNpIvXKdy78,true,2020-10-12T08:41:51.725Z,Tom Strat
+Peter Robinson Installation,Change case studies on this page to Kitchen case studies > https://www.peterrobinsoninstallations.co.uk/bespoke-kitchen-design-gloucestershire,false,,Sam Bray
+Peter Robinson Installation,This page will need to be fixed - have an appropriate slider and pull in the appropriate case studies. Then needs to be published and linked. ,true,2020-08-20T09:08:37.620Z,Tom Strat
+Peter Robinson Installation,This page has an error - https://www.peterrobinsoninstallations.co.uk/bespoke-kitchen-design-gloucestershire/,true,2020-08-13T10:59:41.088Z,Tom Strat
+Peter Robinson Installation,New Project - 2 day max allocation - Instruction to follow,true,2020-09-02T12:14:18.227Z,none
+Peter Robinson Installation,Wireframing,true,2020-07-15T09:22:08.077Z,Tom Strat
+Peter Robinson Installation,"Review Tom's edits and feedback",true,2020-09-02T10:25:17.512Z,Sam Bray
+Peter Robinson Installation,Build New Service Pages,true,2020-07-28T09:59:29.413Z,Tom Strat
+RME Plant Hire,Get Ads to Roger - Once done account should be paid in full (Notify Tyler),true,2019-10-09T09:44:00.187Z,Sam Bray
+Raglan Stoves Shop,"Connect GA, GTM, etc...",true,2020-08-13T15:47:25.609Z,Sam Bray
+Raglan Stoves Shop,Set up contact forms & test (CF7),true,2020-09-16T09:29:18.994Z,none
+Raglan Stoves Shop,Stoves need removing and new stoves adding,true,2020-02-17T09:30:19.026Z,Sam Bray
+Raglan Stoves Shop,Set up CF7 tracking in GTM,true,2020-08-19T13:54:16.996Z,Tom Strat
+Raglan Stoves Shop,Set up Goal from CF7 event,true,2020-08-20T15:40:31.145Z,Sam Bray
+Raglan Stoves Shop,Submit site maps,true,2020-08-13T15:48:33.375Z,Sam Bray
+Raglan Stoves Shop,Soft Launch,true,2020-09-09T09:14:00.680Z,Sam Bray
+Raglan Stoves Shop,Waiting on Domain Registrar Details ,true,2020-08-12T09:14:28.718Z,ollie
+Raglan Stoves Shop,Waiting on WC to change over products on website ,true,2020-02-26T14:20:49.458Z,Sam Bray
+Raglan Stoves Shop,Add content to Firewood page,true,2020-01-14T16:46:14.554Z,Tyler Landry
+Raglan Stoves Shop,SB to email Pip,true,2020-02-12T10:54:43.518Z,Sam Bray
+Raglan Stoves Shop,"Speaking to Don 23rd, 10.30am",true,2020-04-23T10:41:13.911Z,Sam Bray
+Raglan Stoves Shop,Tyler reviewing Google Doc for changes,true,2020-01-13T16:28:20.268Z,Tyler Landry
+Raglan Stoves Shop,Review Raglan Stove Shop Draft,true,2020-01-03T11:11:08.831Z,Sam Bray
+Raglan Stoves Shop,Add Google API and Places ID for the review plugin,true,2020-01-02T09:27:13.859Z,Tyler Landry
+Raglan Stoves Shop,Requested new logo from Minuteman ,true,2019-12-13T12:18:36.099Z,Tyler Landry
+Raglan Stoves Shop,Speak to Don again,true,2020-05-12T10:58:39.611Z,Sam Bray
+Raglan Stoves Shop,Sent over changes to the initial Live Build,true,2019-12-12T12:12:11.688Z,Tyler Landry
+Raglan Stoves Shop,Link Facebook page (Raglan Stove Shop),true,2020-09-02T13:01:34.083Z,Tom Strat
+Raglan Stoves Shop,Invoice to be paid - https://connect.intuit.com/portal/app/CommerceNetwork/view/525bba994a564c0abf1b4ae105b4f6cfd112d8600ead4c01a91a6e30f2d063810e64556705354dcab18b8a1924a25ba6?cta=sharelinkprint&locale=en_GB ,true,2019-12-04T16:59:21.574Z,ollie
+Raglan Stoves Shop,KEY TASK: Call Don on 07775 630334 ,true,2020-04-22T14:04:12.503Z,Sam Bray
+Raglan Stoves Shop,Provide timelines for build to client ,true,2019-12-04T10:08:43.976Z,Tyler Landry
+Raglan Stoves Shop,Client meeting - to review first draft and sort FB issues,true,2019-11-26T16:48:22.089Z,Sam Bray
+Raglan Stoves Shop,Secondary Pages - Stove Catalog & Manufacturers,true,2019-12-04T10:01:29.613Z,Tyler Landry
+Raglan Stoves Shop,Review First Draft ,true,2019-11-26T17:02:43.707Z,Sam Bray
+Raglan Stoves Shop,Submit Creative Brief to Web Creation - .5 Hours,true,2019-11-12T10:02:39.099Z,Tyler Landry
+Raglan Stoves Shop,Get a quote from Web Creation,true,2019-11-06T10:31:43.983Z,none
+Raglan Stoves Shop,"Get heirarchy, look at brief document",true,2019-11-12T10:02:20.022Z,none
+Raglan Stoves Shop,Create hosting invoice,true,2020-08-13T16:06:52.914Z,none
+Raglan Stoves Shop,P9320 - Need to pay remaining deposit - Prior to site going live. ,true,2020-07-15T09:24:41.312Z,ollie
+Raglan Stoves Shop,Renew Hosting,true,2020-08-26T12:56:37.039Z,Tyler Landry
+Raglan Stoves Shop,Renew Hosting,false,,Sam Bray
+Raglan Stoves Shop,Message Don,true,2020-08-13T16:06:44.210Z,Sam Bray
+Raglan Stoves Shop,"Images on home page weren't loading properly on mobile for me in testing. Please test.",true,2020-09-02T09:16:37.202Z,ollie
+Raglan Stoves Shop,Some stove pages seem to be unformatted,true,2020-09-02T09:16:40.655Z,ollie
+Raglan Stoves Shop,Empty top slider on stove pages,true,2020-09-02T09:16:44.006Z,ollie
+Raglan Stoves Shop,Manufacturers page is a mess - Manufacturers logos disappear on scroll?,true,2020-09-02T09:16:47.322Z,ollie
+Raglan Stoves Shop,Contact forms not working (see bennetts task),true,2020-09-16T09:29:10.838Z,none
+Raglan Stoves Shop,Manufacturers page buttons do nothing?,true,2020-09-02T09:16:50.755Z,ollie
+Raglan Stoves Shop,Padding needed and content centred on manufacturers page,true,2020-09-02T09:17:06.783Z,ollie
+Raglan Stoves Shop,Firepits page... buggered,true,2020-09-02T09:17:26.563Z,ollie
+Raglan Stoves Shop,Change Facebook link in footer,true,2020-08-21T10:03:28.120Z,Tom Strat
+Raglan Stoves Shop,Change logo,true,2020-10-15T13:31:08.118Z,Felipe Ponce
+Raglan Stoves Shop,Meeting about Facebook marketing- TBC,false,,Amy Carlin
+Reid Law Solicitors ,Zoom meeting with Ceri,true,2020-07-10T07:41:46.811Z,none
+Reid Law Solicitors ,Check with Amy on this,true,2020-07-22T09:43:17.269Z,Tyler Landry
+Reid Law Solicitors ,Sent amended wireframe drafts of service page and pricing page to Ceri for review,true,2020-05-13T10:42:49.584Z,Tyler Landry
+Reid Law Solicitors ,Review content and send to web creation,true,2020-04-21T10:50:20.801Z,Tyler Landry
+Reid Law Solicitors ,Reviewed and sent amends to WebCreation ,true,2020-04-07T09:35:37.323Z,Tyler Landry
+Reid Law Solicitors ,@Felipe to send a chaser to WebCreation ,true,2020-02-24T17:21:10.860Z,none
+Reid Law Solicitors ,Hierarchy,true,2020-04-29T09:38:14.365Z,Tyler Landry
+Reid Law Solicitors ,Wireframe,true,2020-04-29T09:38:50.187Z,Sam Bray
+Reid Law Solicitors ,Send Website Brief  - To Web Creation,true,2020-01-30T10:55:17.831Z,none
+Reid Law Solicitors ,Wireframe Amends,true,2020-05-13T10:42:09.624Z,Tyler Landry
+Reid Law Solicitors ,Live Build Draft,true,2020-05-19T15:05:47.921Z,Tyler Landry
+Reid Law Solicitors ,Live Build Amendments,false,,Amy Carlin
+Reid Law Solicitors ,Offline Testing,false,,none
+Reid Law Solicitors ,Soft Launch,false,,none
+Reid Law Solicitors ,Send Brett two interior pages to be developed,true,2020-04-23T08:54:59.447Z,Tyler Landry
+Reid Law Solicitors ,Add Domain Registrar Details,true,2020-03-31T09:31:58.624Z,Tyler Landry
+Reid Law Solicitors ,Need Content From Client,false,,Amy Carlin
+Reid Law Solicitors ,Social Media Links,false,,Amy Carlin
+Reid Law Solicitors ,Add a space to phone number 07830 222911,true,2020-08-12T09:28:11.332Z,Amy Carlin
+Reid Law Solicitors ,Could the header be sticky on scroll?,true,2020-08-12T09:28:15.748Z,Amy Carlin
+Reid Law Solicitors ,"CTA button in the top right needs rounded corners, also the text should be centred",true,2020-08-12T09:28:17.577Z,Amy Carlin
+Reid Law Solicitors ,Home page slider CTA: Make the number format same as header,false,,Tom Strat
+Reid Law Solicitors ,Text on site requires a little more padding. 10% each side min is my suggestion. Full width images are fine.,true,2020-08-12T09:29:15.660Z,Amy Carlin
+Reid Law Solicitors ,GMB listing (was this sold?) Should be linked from contact page,false,,Tom Strat
+Reid Law Solicitors ,HOME link can be removed from nav bar,true,2020-08-12T09:29:35.025Z,Amy Carlin
+Reid Law Solicitors ,"Should the services just sit under a ""Services"" option on the nav bar?",true,2020-08-18T15:49:28.213Z,Tom Strat
+Reid Law Solicitors ,NEED CONTENT: About Us,false,,Amy Carlin
+Reid Law Solicitors ,NEED CONTENT: Will writing,false,,Amy Carlin
+Reid Law Solicitors ,NEED CONTENT: Trust,false,,Amy Carlin
+Reid Law Solicitors ,NEED CONTENT: Lasting Power of Attorney ,false,,Amy Carlin
+Reid Law Solicitors ,NEED CONTENT: Blog?,false,,Amy Carlin
+Reid Law Solicitors ,Follow up with client. Get an update,true,2020-07-03T09:06:11.062Z,Amy Carlin
+Reid Law Solicitors ,Sub nav menu is werid,false,,none
+Reid Law Solicitors ,SB speak to Amy,true,2020-09-17T10:22:46.807Z,Sam Bray
+Reid Law Solicitors ,Ollie to call and see whats going on?,false,,ollie
+Saragossa,Install HotJar,true,2019-12-16T12:20:26.751Z,Tyler Landry
+Saragossa,TL to send over marketing opportunities,true,2019-11-13T11:56:36.317Z,Tyler Landry
+Saragossa,Ensure social media links on the site are changed to blank links ,true,2019-10-24T09:32:38.484Z,Tom Strat
+Saragossa,Send off final invoice P9019,true,2019-05-24T07:29:35.778Z,Tyler Landry
+Saragossa,Upload New Content for About Us and Careers to Basecamp,true,2019-04-08T10:53:33.101Z,Tyler Landry
+Saragossa,Location Stuff needs to be sorted,true,2019-08-01T11:20:50.838Z,Tyler Landry
+Saragossa,Letter of Engagement ,true,2019-08-16T15:03:39.278Z,Tyler Landry
+Saragossa,Get Map API ,true,2019-05-23T15:08:25.497Z,Tyler Landry
+Saragossa,Good Analytics,true,2019-07-19T11:44:41.579Z,Tyler Landry
+Saragossa,Blocking TAGs? See note from WC,false,,none
+Saragossa,Move to WC on Starter,true,2020-08-11T10:45:15.103Z,Tyler Landry
+Saragossa,Renew Digital Marketing Container ,true,2020-03-26T13:21:12.673Z,Tyler Landry
+Saragossa,Renew Digital Marketing Container ,true,2020-04-29T08:22:40.059Z,Tyler Landry
+Saragossa,Renew Digital Marketing Container ,true,2020-05-26T12:18:17.847Z,Tyler Landry
+Saragossa,Renew Digital Marketing Container ,true,2020-06-26T07:37:12.378Z,Tyler Landry
+Saragossa,Renew Digital Marketing Container ,true,2020-07-28T08:26:44.575Z,Tyler Landry
+Saragossa,Renew Digital Marketing Container ,true,2020-08-25T09:40:48.049Z,Tyler Landry
+Saragossa,Renew Digital Marketing Container ,true,2020-09-29T09:08:00.393Z,Tyler Landry
+Saragossa,Renew Digital Marketing Container ,false,,Sam Bray
+Saragossa,Contact Lucy about future plans,true,2020-10-05T16:03:47.366Z,Sam Bray
+Saragossa,Add jobs to the top slider on the homepage,true,2020-02-28T11:28:12.129Z,Tom Strat
+Saragossa,"Follow up to ensure Saragossa, About Us, Careers, Images have been updated",true,2019-04-15T08:44:16.467Z,Tyler Landry
+Saragossa,Take off job categories in the nav,true,2020-01-15T14:48:11.955Z,Tom Strat
+Saragossa,"Install data collection forms, ie pop-up on exit intent",true,2020-02-28T11:28:13.149Z,Tom Strat
+Saragossa,Implement slide contact forms on job pages after 20% page scroll,true,2020-02-25T16:58:45.444Z,Tom Strat
+Saragossa,"Install linkedin pixel, tag manager, facebook pixel",false,,none
+Saragossa,"Link the whole job box, not just the title on preview container",true,2020-02-25T14:44:13.937Z,Tom Strat
+Saragossa,Logo on WordPress site - Low Resolution ,true,2019-12-19T08:33:36.277Z,Tom Strat
+Saragossa,Sort Main Slider to include jobs,true,2020-04-14T10:35:16.073Z,Tom Strat
+Saragossa,TESTING UPUGO FIX,true,2020-02-12T11:01:20.365Z,Tom Strat
+Saragossa,Change the 80% scroll to a 60% slide in - Bottom Left - On Brand ,true,2020-02-28T11:09:27.565Z,Tom Strat
+Saragossa,Make changes live for Saragossa,true,2020-04-24T13:51:42.827Z,Tom Strat
+Saragossa,Testing upugo fix #2,true,2020-02-13T10:01:17.357Z,Tom Strat
+Saragossa,Update Homepage Slider ,true,2020-01-17T12:58:31.916Z,Tom Strat
+Saragossa,"Change frequency of the ""want to keep up to date"" exit intent pop up. Change to show only once",true,2020-08-14T09:47:18.975Z,Tom Strat
+Saragossa,Set Up Staging Site,true,2020-02-24T11:08:10.695Z,Tom Strat
+Saragossa,Check links are removed,true,2020-02-07T12:20:07.182Z,Tyler Landry
+Saragossa,Possibly move our values to home page? Wait for Lucy,false,,Tom Strat
+Saragossa,Conference Call to Set-up Google Ads Account,true,2020-01-16T16:21:46.521Z,Tyler Landry
+Saragossa,Install Requested Script,true,2020-02-21T15:39:02.407Z,Tom Strat
+Saragossa,Fix missing author on new jobs,true,2020-08-26T14:26:23.970Z,Tom Strat
+Saragossa,Remove staging site (end Oct),false,,Tom Strat
+Saragossa,Set up staging site - they will have this for 3 months,true,2020-08-18T09:16:02.078Z,Tom Strat
+Saragossa,Meeting with Lucy - Microsoft Teams,true,2020-08-19T09:30:51.428Z,Sam Bray
+Saragossa,Ollie to catch up with biff on what they are doing,true,2020-07-22T09:44:08.400Z,ollie
+Saragossa,Saragossa (PPC): Set Up Retargeting Audience,true,2020-03-31T14:12:04.125Z,none
+Saragossa,"To follow this up with the new person is 2 weeks, or Jason sooner? [DB email to SB]",true,2019-11-25T17:19:06.781Z,Tyler Landry
+Saragossa,"Respond to Lucy's email and schedule a meeting. ",true,2020-08-05T08:39:03.263Z,Tyler Landry
+Saragossa,Could we integrate the website with Bullhorn?,false,,none
+Saragossa,SB to send engagement doc,true,2019-12-11T16:25:41.984Z,Sam Bray
+SO Interior Designs,Going live,true,2020-07-22T09:46:45.502Z,ollie
+SO Interior Designs,Get email soral@sointeriordesign.com,true,2020-07-22T09:46:41.287Z,ollie
+SO Interior Designs,Live Build For Review,true,2019-10-28T11:17:30.651Z,Tyler Landry
+SO Interior Designs,Wire Frame Amends,true,2019-09-20T13:24:12.609Z,Tyler Landry
+SO Interior Designs,Wire Frame,true,2019-09-17T08:35:36.182Z,Tyler Landry
+SO Interior Designs,Wireframe Submitted to SOL,true,2019-09-05T14:44:05.571Z,none
+SO Interior Designs,Get the Website Started,true,2019-09-03T13:20:05.175Z,Tyler Landry
